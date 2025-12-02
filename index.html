@@ -316,8 +316,8 @@
             <h2>学習記録ダッシュボード</h2>
             <div id="dashboard-stats" class="dashboard-stats">
                 <div class="stat-card">
-                    <h3>総学習時間</h3>
-                    <p id="total-study-time" class="big-stat">0分</p>
+                    <h3>総学習回数</h3>
+                    <p id="total-study-time" class="big-stat">0回</p>
                 </div>
                 <div class="stat-card">
                     <h3>問題正答率</h3>
@@ -327,13 +327,26 @@
                     <h3>今週の学習</h3>
                     <p id="weekly-study" class="big-stat">0回</p>
                 </div>
+                <div class="stat-card">
+                    <h3>連続学習</h3>
+                    <p id="study-streak" class="big-stat">0日</p>
+                </div>
+                <div class="stat-card">
+                    <h3>習得単語数</h3>
+                    <p id="vocab-learned" class="big-stat">0語</p>
+                </div>
             </div>
+
+            <div id="level-progress-container" class="level-progress-section">
+                <!-- Level-specific progress will be injected here -->
+            </div>
+
             <div class="progress-chart">
                 <h3>学習進捗グラフ</h3>
                 <canvas id="progress-canvas" width="600" height="300"></canvas>
             </div>
             <div class="weak-points">
-                <h3>苦手分野</h3>
+                <h3>苦手分野（復習推奨）</h3>
                 <ul id="weak-points-list"></ul>
             </div>
         </section>
@@ -358,5 +371,6 @@
     <script src="js/vocabulary.js"></script>
     <script src="js/dashboard.js"></script>
     <script src="js/badges.js"></script>
+    <script src="js/spaced-repetition.js"></script>
 </body>
 </html>

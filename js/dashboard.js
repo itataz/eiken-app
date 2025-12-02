@@ -47,10 +47,82 @@ class DashboardModule {
             return new Date(session.timestamp) >= oneWeekAgo;
         }).length;
 
+        // Calculate study streak
+        const streak = this.app.gamificationData.currentStreak || 0;
+
+        // Calculate total vocabulary learned
+        const vocabLearned = Object.keys(this.vocabularyProgress).length;
+
+        // Calculate average accuracy by level
+        const levelAccuracy = this.calculateLevelAccuracy();
+
         // Update UI
         document.getElementById('total-study-time').textContent = `${totalSessions}回`;
         document.getElementById('accuracy-rate').textContent = `${accuracyRate}%`;
         document.getElementById('weekly-study').textContent = `${weeklySessions}回`;
+
+        // Add additional stats if elements exist
+        const streakElement = document.getElementById('study-streak');
+        if (streakElement) {
+            streakElement.textContent = `${streak}日`;
+        }
+
+        const vocabElement = document.getElementById('vocab-learned');
+        if (vocabElement) {
+            vocabElement.textContent = `${vocabLearned}語`;
+        }
+
+        // Display level-specific progress
+        this.displayLevelProgress(levelAccuracy);
+    }
+
+    calculateLevelAccuracy() {
+        const levelStats = {};
+
+        this.progressData.forEach(session => {
+            if (!levelStats[session.level]) {
+                levelStats[session.level] = {
+                    total: 0,
+                    correct: 0
+                };
+            }
+            levelStats[session.level].total++;
+            if (session.score) {
+                levelStats[session.level].correct += session.score;
+            }
+        });
+
+        return levelStats;
+    }
+
+    displayLevelProgress(levelAccuracy) {
+        const container = document.getElementById('level-progress-container');
+        if (!container) return;
+
+        const levels = ['英検5級', '英検4級', '英検3級', '英検準2級', '英検2級', '英検準1級', '英検1級'];
+
+        let html = '<h3>級別進捗状況</h3><div class="level-progress-grid">';
+
+        levels.forEach(level => {
+            const stats = levelAccuracy[level];
+            if (stats) {
+                const accuracy = Math.round((stats.correct / stats.total) * 100);
+                const progressClass = accuracy >= 80 ? 'excellent' : accuracy >= 60 ? 'good' : 'needs-work';
+
+                html += `
+                    <div class="level-progress-card ${progressClass}">
+                        <h4>${level}</h4>
+                        <div class="progress-circle">
+                            <span class="progress-value">${accuracy}%</span>
+                        </div>
+                        <p>${stats.total}回学習</p>
+                    </div>
+                `;
+            }
+        });
+
+        html += '</div>';
+        container.innerHTML = html;
     }
 
     drawProgressChart() {
