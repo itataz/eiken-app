@@ -73,7 +73,7 @@ class VocabularyModule {
                     <div class="flashcard-front">
                         <h2 id="vocab-word">${this.vocabularyData[0].word}</h2>
                         <p class="pronunciation">${this.vocabularyData[0].pronunciation}</p>
-                        ${this.vocabularyData[0].audio ? `<button class="audio-btn" onclick="playAudio('${this.vocabularyData[0].audio}')">🔊</button>` : ''}
+                        <button class="audio-btn" id="speak-btn">🔊 発音を聞く</button>
                     </div>
                     <div class="flashcard-back" style="display: none;">
                         <h2>${this.vocabularyData[0].meaning}</h2>
@@ -82,6 +82,7 @@ class VocabularyModule {
                             <p class="example-en">${this.vocabularyData[0].example}</p>
                             <p class="example-jp">${this.vocabularyData[0].exampleJP}</p>
                         </div>
+                        <button class="audio-btn" id="speak-example-btn">🔊 例文を聞く</button>
                     </div>
                 </div>
                 <div class="flashcard-controls">
@@ -97,6 +98,9 @@ class VocabularyModule {
         document.getElementById('prev-vocab-btn').addEventListener('click', () => this.previousWord());
         document.getElementById('next-vocab-btn').addEventListener('click', () => this.nextWord());
         document.getElementById('mark-known-btn').addEventListener('click', () => this.markAsKnown());
+        document.getElementById('speak-btn').addEventListener('click', () => this.speakWord(this.vocabularyData[this.currentIndex].word));
+
+        // Example button will be added after flip
     }
 
     flipFlashcard() {
@@ -104,12 +108,19 @@ class VocabularyModule {
         const back = document.querySelector('.flashcard-back');
         const flipBtn = document.getElementById('flip-btn');
         const markKnownBtn = document.getElementById('mark-known-btn');
+        const word = this.vocabularyData[this.currentIndex];
 
         if (front.style.display !== 'none') {
             front.style.display = 'none';
             back.style.display = 'block';
             flipBtn.textContent = '表に戻る';
             markKnownBtn.style.display = 'inline-block';
+
+            // Attach event listener for example audio button
+            const exampleBtn = document.getElementById('speak-example-btn');
+            if (exampleBtn) {
+                exampleBtn.addEventListener('click', () => this.speakExample(word.example));
+            }
         } else {
             front.style.display = 'block';
             back.style.display = 'none';
@@ -143,7 +154,7 @@ class VocabularyModule {
         front.innerHTML = `
             <h2 id="vocab-word">${word.word}</h2>
             <p class="pronunciation">${word.pronunciation}</p>
-            ${word.audio ? `<button class="audio-btn" onclick="playAudio('${word.audio}')">🔊</button>` : ''}
+            <button class="audio-btn" id="speak-btn">🔊 発音を聞く</button>
         `;
 
         back.innerHTML = `
@@ -153,6 +164,7 @@ class VocabularyModule {
                 <p class="example-en">${word.example}</p>
                 <p class="example-jp">${word.exampleJP}</p>
             </div>
+            <button class="audio-btn" id="speak-example-btn">🔊 例文を聞く</button>
         `;
 
         front.style.display = 'block';
@@ -162,6 +174,9 @@ class VocabularyModule {
 
         document.getElementById('flashcard-counter').textContent = `${this.currentIndex + 1} / ${this.vocabularyData.length}`;
         document.getElementById('prev-vocab-btn').disabled = this.currentIndex === 0;
+
+        // Re-attach event listeners for audio buttons
+        document.getElementById('speak-btn').addEventListener('click', () => this.speakWord(word.word));
     }
 
     async markAsKnown() {
@@ -369,9 +384,43 @@ class VocabularyModule {
             this.app.updateGamification(0, `Perfect ${this.currentLevel}`, null);
         }
     }
+
+    // Web Speech API - Text to Speech
+    speakWord(text) {
+        if ('speechSynthesis' in window) {
+            // Cancel any ongoing speech
+            window.speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US'; // English pronunciation
+            utterance.rate = 0.8; // Slightly slower for clarity
+            utterance.pitch = 1.0;
+            utterance.volume = 1.0;
+
+            window.speechSynthesis.speak(utterance);
+        } else {
+            alert('お使いのブラウザは音声機能に対応していません。');
+        }
+    }
+
+    speakExample(text) {
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+            utterance.rate = 0.9;
+            utterance.pitch = 1.0;
+            utterance.volume = 1.0;
+
+            window.speechSynthesis.speak(utterance);
+        } else {
+            alert('お使いのブラウザは音声機能に対応していません。');
+        }
+    }
 }
 
-// Audio playback function
+// Audio playback function (for audio files if available)
 function playAudio(audioSrc) {
     const audio = new Audio(audioSrc);
     audio.play().catch(err => console.log('Audio playback failed:', err));
