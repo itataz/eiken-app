@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検学習支援アプリ (モックアップ)</title>
+    <link rel="stylesheet" href="style.css"> <!-- 既存のCSSを活用 -->
+    <style>
+        /* モックアップ用の簡易スタイル */
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            margin: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .mockup-header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .mockup-header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .mockup-container {
+            max-width: 960px;
+            margin: 30px auto;
+            padding: 0 15px;
+        }
+        .mockup-section h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #007bff;
+        }
+        .certification-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .certification-card {
+            background-color: white;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .certification-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .certification-card h3 {
+            font-size: 1.2em;
+            margin-top: 0;
+            color: #333;
+        }
+        .certification-card p {
+            font-size: 0.9em;
+            color: #6c757d;
+            line-height: 1.5;
+            min-height: 40px; /* 高さの統一 */
+        }
+        .certification-card .btn {
+            display: block;
+            width: fit-content;
+            margin-top: 15px;
+            padding: 8px 15px;
+            background-color: #28a745; /* Green for start learning */
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+            transition: background-color 0.2s;
+        }
+        .certification-card .btn:hover {
+            background-color: #218838;
+        }
+
+        /* 広告プレースホルダー */
+        .ad-placeholder {
+            background-color: #fff3cd; /* Light yellow background */
+            border: 1px dashed #ffeeba;
+            padding: 15px;
+            text-align: center;
+            margin: 30px auto;
+            max-width: 728px; /* Typical banner ad width */
+            color: #856404;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header class="mockup-header">
+        <h1>英検学習支援アプリ</h1>
+        <p>英検合格を強力にサポート！単語、文法、リーディング対策も完璧</p>
+    </header>
+
+    <div class="mockup-container">
+        <div class="ad-placeholder">
+            [広告スペース: 無料ユーザーに表示されます]
+            <p>プレミアムプランに登録すると広告が非表示になります。</p>
+            <button class="btn btn-primary" onclick="alert('プレミアムプラン登録ページへ遷移');">プレミアムプランを試す</button>
+        </div>
+
+        <section class="mockup-section">
+            <h2>英検の級を選ぶ</h2>
+            <div class="certification-grid">
+                <div class="certification-card">
+                    <h3>英検1級</h3>
+                    <p>大学上級レベル。幅広い分野の英語を理解し表現する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                </div>
+                <div class="certification-card">
+                    <h3>英検準1級</h3>
+                    <p>大学中級レベル。社会生活で英語を「活用」する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                </div>
+                <div class="certification-card">
+                    <h3>英検2級</h3>
+                    <p>高校卒業レベル。日常生活に必要な英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                </div>
+                <div class="certification-card">
+                    <h3>英検準2級</h3>
+                    <p>高校中級レベル。日常生活に必要な簡単な英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                </div>
+                <div class="certification-card">
+                    <h3>英検3級</h3>
+                    <p>中学卒業レベル。身近な事柄に関する英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                </div>
+                <!-- 級カードはさらに追加可能 -->
+            </div>
+        </section>
+
+        <section class="mockup-section" style="margin-top: 50px;">
+            <h2>近日公開予定のコンテンツ</h2>
+            <div class="certification-grid">
+                <div class="certification-card">
+                    <h3>TOEIC L&R</h3>
+                    <p>ビジネスシーンでの英語コミュニケーション能力を測定。</p>
+                    <a href="#" class="btn" style="background-color: #6c757d;">準備中</a>
+                </div>
+                <div class="certification-card">
+                    <h3>TOEFL iBT</h3>
+                    <p>アカデミックな場面での英語運用能力を測定。</p>
+                    <a href="#" class="btn" style="background-color: #6c757d;">準備中</a>
+                </div>
+            </div>
+        </section>
+
+        <div class="ad-placeholder">
+            [広告スペース: 無料ユーザーに表示されます]
+        </div>
+    </div>
+</body>
+</html>

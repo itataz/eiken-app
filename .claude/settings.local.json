@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start)",
+      "Bash(taskkill:*)",
+      "Bash(tasklist /FI \"IMAGENAME eq node.exe\")",
+      "Bash(node server.js:*)",
+      "Bash(powershell -Command \"Get-Process node -ErrorAction SilentlyContinue | Stop-Process -Force\")",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

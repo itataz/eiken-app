@@ -1,0 +1,256 @@
+{
+  "英検5級": [
+    {
+      "word": "apple",
+      "meaning": "りんご",
+      "pronunciation": "ˈæp.əl",
+      "audio": "audio/vocab/apple.mp3",
+      "example": "I like to eat an apple every day.",
+      "exampleJP": "私は毎日りんごを食べるのが好きです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "book",
+      "meaning": "本",
+      "pronunciation": "bʊk",
+      "audio": "audio/vocab/book.mp3",
+      "example": "This book is very interesting.",
+      "exampleJP": "この本はとても面白いです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "cat",
+      "meaning": "猫",
+      "pronunciation": "kæt",
+      "audio": "audio/vocab/cat.mp3",
+      "example": "I have a cat named Mimi.",
+      "exampleJP": "私はミミという名前の猫を飼っています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "dog",
+      "meaning": "犬",
+      "pronunciation": "dɔːɡ",
+      "audio": "audio/vocab/dog.mp3",
+      "example": "My dog loves to play in the park.",
+      "exampleJP": "私の犬は公園で遊ぶのが大好きです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "eat",
+      "meaning": "食べる",
+      "pronunciation": "iːt",
+      "audio": "audio/vocab/eat.mp3",
+      "example": "I eat breakfast at 7 o'clock.",
+      "exampleJP": "私は7時に朝食を食べます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    }
+  ],
+  "英検4級": [
+    {
+      "word": "arrive",
+      "meaning": "到着する",
+      "pronunciation": "əˈraɪv",
+      "audio": "audio/vocab/arrive.mp3",
+      "example": "What time did you arrive at the station?",
+      "exampleJP": "あなたは何時に駅に到着しましたか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "broken",
+      "meaning": "壊れた",
+      "pronunciation": "ˈbroʊ.kən",
+      "audio": "audio/vocab/broken.mp3",
+      "example": "My phone is broken.",
+      "exampleJP": "私の電話は壊れています。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "carefully",
+      "meaning": "注意深く",
+      "pronunciation": "ˈker.fəl.i",
+      "audio": "audio/vocab/carefully.mp3",
+      "example": "Please drive carefully.",
+      "exampleJP": "注意深く運転してください。",
+      "partOfSpeech": "adverb",
+      "frequency": "medium"
+    }
+  ],
+  "英検3級": [
+    {
+      "word": "achieve",
+      "meaning": "達成する",
+      "pronunciation": "əˈtʃiːv",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "She achieved her goal of running a marathon.",
+      "exampleJP": "彼女はマラソンを走るという目標を達成しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "ancient",
+      "meaning": "古代の",
+      "pronunciation": "ˈeɪn.ʃənt",
+      "audio": "audio/vocab/ancient.mp3",
+      "example": "We visited ancient temples in Kyoto.",
+      "exampleJP": "私たちは京都で古代の寺院を訪れました。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "budget",
+      "meaning": "予算",
+      "pronunciation": "ˈbʌdʒ.ɪt",
+      "audio": "audio/vocab/budget.mp3",
+      "example": "We need to plan our budget for the trip.",
+      "exampleJP": "旅行の予算を計画する必要があります。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    }
+  ],
+  "英検準2級": [
+    {
+      "word": "abundant",
+      "meaning": "豊富な",
+      "pronunciation": "əˈbʌn.dənt",
+      "audio": "audio/vocab/abundant.mp3",
+      "example": "The region has abundant natural resources.",
+      "exampleJP": "その地域には豊富な天然資源があります。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "収容する、対応する",
+      "pronunciation": "əˈkɑː.mə.deɪt",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "The hotel can accommodate 200 guests.",
+      "exampleJP": "そのホテルは200人のゲストを収容できます。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "維持する",
+      "pronunciation": "meɪnˈteɪn",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "It's important to maintain good health.",
+      "exampleJP": "健康を維持することは重要です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    }
+  ],
+  "英検2級": [
+    {
+      "word": "implement",
+      "meaning": "実施する、実装する",
+      "pronunciation": "ˈɪm.plə.ment",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "The company will implement the new policy next month.",
+      "exampleJP": "会社は来月新しい方針を実施します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "profound",
+      "meaning": "深い、深遠な",
+      "pronunciation": "prəˈfaʊnd",
+      "audio": "audio/vocab/profound.mp3",
+      "example": "His speech had a profound impact on the audience.",
+      "exampleJP": "彼のスピーチは聴衆に深い影響を与えました。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "sustainable",
+      "meaning": "持続可能な",
+      "pronunciation": "səˈsteɪ.nə.bəl",
+      "audio": "audio/vocab/sustainable.mp3",
+      "example": "We need to find sustainable energy sources.",
+      "exampleJP": "持続可能なエネルギー源を見つける必要があります。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    }
+  ],
+  "英検準1級": [
+    {
+      "word": "ambiguous",
+      "meaning": "曖昧な",
+      "pronunciation": "æmˈbɪɡ.ju.əs",
+      "audio": "audio/vocab/ambiguous.mp3",
+      "example": "His answer was ambiguous and left many questions.",
+      "exampleJP": "彼の答えは曖昧で多くの疑問を残しました。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "controversial",
+      "meaning": "議論を呼ぶ、論争の的の",
+      "pronunciation": "ˌkɑːn.trəˈvɜːr.ʃəl",
+      "audio": "audio/vocab/controversial.mp3",
+      "example": "The politician made a controversial statement.",
+      "exampleJP": "その政治家は論争を呼ぶ発言をしました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "downsize",
+      "meaning": "縮小する、人員削減する",
+      "pronunciation": "ˈdaʊn.saɪz",
+      "audio": "audio/vocab/downsize.mp3",
+      "example": "Many companies had to downsize during the recession.",
+      "exampleJP": "多くの企業が不況の間に人員削減をしなければなりませんでした。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    }
+  ],
+  "英検1級": [
+    {
+      "word": "exacerbate",
+      "meaning": "悪化させる",
+      "pronunciation": "ɪɡˈzæs.ɚ.beɪt",
+      "audio": "audio/vocab/exacerbate.mp3",
+      "example": "The drought exacerbated the food shortage.",
+      "exampleJP": "干ばつが食糧不足を悪化させました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "ubiquitous",
+      "meaning": "遍在する、至る所にある",
+      "pronunciation": "juːˈbɪk.wɪ.təs",
+      "audio": "audio/vocab/ubiquitous.mp3",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "exampleJP": "スマートフォンは現代社会で至る所にあるようになりました。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "engulf",
+      "meaning": "飲み込む、包み込む",
+      "pronunciation": "ɪnˈɡʌlf",
+      "audio": "audio/vocab/engulf.mp3",
+      "example": "Flames engulfed the entire building.",
+      "exampleJP": "炎が建物全体を包み込みました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "dissent",
+      "meaning": "異議、反対意見",
+      "pronunciation": "dɪˈsent",
+      "audio": "audio/vocab/dissent.mp3",
+      "example": "There was widespread dissent against the new law.",
+      "exampleJP": "新しい法律に対して広範な反対意見がありました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    }
+  ]
+}

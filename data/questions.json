@@ -1,0 +1,282 @@
+{
+  "英検5級": {
+    "vocabulary": [
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) a dog. His name is Max.",
+        "choices": ["have", "has", "had", "having"],
+        "answer": "have",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My mother ( ) me a new bike for my birthday.",
+        "choices": ["buy", "buys", "bought", "buying"],
+        "answer": "bought",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "A: What time is it? B: It's ( ) o'clock.",
+        "choices": ["three", "third", "tree", "there"],
+        "answer": "three",
+        "category": "vocabulary",
+        "difficulty": 1
+      }
+    ],
+    "grammar": [
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) to school every day.",
+        "choices": ["go", "goes", "going", "went"],
+        "answer": "goes",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "There ( ) many books on the desk.",
+        "choices": ["is", "are", "am", "be"],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "reading-comprehension",
+        "passage": "My name is Tom. I am 12 years old. I live in Tokyo with my family. I have one brother and one sister. I like playing soccer on weekends.",
+        "subQuestions": [
+          {
+            "question": "How old is Tom?",
+            "choices": ["10 years old", "11 years old", "12 years old", "13 years old"],
+            "answer": "12 years old"
+          },
+          {
+            "question": "What does Tom like to do on weekends?",
+            "choices": ["Playing soccer", "Reading books", "Watching TV", "Swimming"],
+            "answer": "Playing soccer"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      }
+    ],
+    "listening": [
+      {
+        "type": "multiple-choice",
+        "question": "Listen and choose the correct answer.",
+        "choices": ["apple", "orange", "banana", "grape"],
+        "answer": "apple",
+        "audio": "audio/eiken5_listening1.mp3",
+        "category": "listening",
+        "difficulty": 1
+      }
+    ]
+  },
+  "英検4級": {
+    "vocabulary": [
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) my homework before dinner.",
+        "choices": ["finish", "finished", "finishing", "finishes"],
+        "answer": "finished",
+        "category": "vocabulary",
+        "difficulty": 2
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Please ( ) the door when you leave.",
+        "choices": ["close", "closed", "closing", "closes"],
+        "answer": "close",
+        "category": "vocabulary",
+        "difficulty": 2
+      }
+    ],
+    "grammar": [
+      {
+        "type": "multiple-choice",
+        "question": "I am ( ) than my brother.",
+        "choices": ["tall", "taller", "tallest", "more tall"],
+        "answer": "taller",
+        "category": "grammar",
+        "difficulty": 2
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) been to America twice.",
+        "choices": ["have", "has", "had", "having"],
+        "answer": "has",
+        "category": "grammar",
+        "difficulty": 2
+      }
+    ]
+  },
+  "英検3級": [
+    {
+      "type": "multiple-choice",
+      "question": "A: Did you enjoy your trip to Kyoto? B: Yes, it was ( ). I want to go there again.",
+      "choices": ["boring", "fun", "sad", "difficult"],
+      "answer": "fun",
+      "audio": "audio/eiken3_q1.mp3",
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A: Where is my camera? B: It's ( ) the table.",
+      "choices": ["on", "in", "under", "at"],
+      "answer": "on",
+      "category": "grammar",
+      "difficulty": 3
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "I always have ____ for breakfast.",
+      "answer": "eggs",
+      "category": "vocabulary",
+      "difficulty": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The movie was ( ) interesting that I watched it twice.",
+      "choices": ["so", "very", "too", "such"],
+      "answer": "so",
+      "category": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "英検準2級": [
+    {
+      "type": "multiple-choice",
+      "question": "A: I'm going to the store. Do you need anything? B: Yes, could you buy a ( ) of milk?",
+      "choices": ["carton", "loaf", "bunch", "pair"],
+      "answer": "carton",
+      "category": "vocabulary",
+      "difficulty": 4
+    },
+    {
+      "type": "multiple-choice",
+      "question": "It is important to ( ) a good relationship with your co-workers.",
+      "choices": ["maintain", "contain", "detain", "pertain"],
+      "answer": "maintain",
+      "category": "vocabulary",
+      "difficulty": 4
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "She is good ____ playing the piano.",
+      "answer": "at",
+      "category": "grammar",
+      "difficulty": 4
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The meeting has been ( ) until next week.",
+      "choices": ["postponed", "proposed", "composed", "imposed"],
+      "answer": "postponed",
+      "category": "vocabulary",
+      "difficulty": 4
+    },
+    {
+      "type": "writing",
+      "question": "Write an email to your friend about your plans for the weekend. (50-60 words)",
+      "category": "writing",
+      "difficulty": 4
+    }
+  ],
+  "英検2級": [
+    {
+      "type": "multiple-choice",
+      "question": "The company's new environmental policy has been widely ( ).",
+      "choices": ["praised", "phrased", "raised", "grazed"],
+      "answer": "praised",
+      "category": "vocabulary",
+      "difficulty": 5
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The government has ( ) a new plan to reduce unemployment.",
+      "choices": ["implemented", "complimented", "supplemented", "implanted"],
+      "answer": "implemented",
+      "category": "vocabulary",
+      "difficulty": 5
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "He is interested ____ learning new languages.",
+      "answer": "in",
+      "category": "grammar",
+      "difficulty": 5
+    },
+    {
+      "type": "writing",
+      "question": "Write a summary of the following passage in 60-70 words: [Passage about environmental issues]",
+      "category": "writing",
+      "difficulty": 5
+    }
+  ],
+  "英検準1級": [
+    {
+      "type": "multiple-choice",
+      "question": "The politician's speech was full of ( ) promises that few believed would be kept.",
+      "choices": ["grandiose", "minute", "trivial", "modest"],
+      "answer": "grandiose",
+      "category": "vocabulary",
+      "difficulty": 6
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The company had to ( ) its workforce due to financial difficulties.",
+      "choices": ["downsize", "upsize", "capsize", "resize"],
+      "answer": "downsize",
+      "category": "vocabulary",
+      "difficulty": 6
+    }
+  ],
+  "英検1級": [
+    {
+      "type": "multiple-choice",
+      "question": "The CEO's charismatic leadership was instrumental in ( ) the company through the economic downturn.",
+      "choices": ["navigating", "oscillating", "perpetuating", "extricating"],
+      "answer": "navigating",
+      "category": "vocabulary",
+      "difficulty": 7
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The committee's decision was met with widespread ( ) from environmental groups.",
+      "choices": ["acclaim", "dissent", "consensus", "compliance"],
+      "answer": "dissent",
+      "category": "vocabulary",
+      "difficulty": 7
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "The ancient ruins were gradually ____ by vegetation over centuries.",
+      "answer": "engulfed",
+      "category": "vocabulary",
+      "difficulty": 7
+    },
+    {
+      "type": "reading-comprehension",
+      "passage": "Global warming, also referred to as climate change, is the observed century-scale rise in the average temperature of Earth's climate system and its related effects. Multiple lines of scientific evidence show that the climate system is warming. Many of the observed changes since the 1950s are unprecedented in the instrumental temperature record, and in paleoclimate proxy records covering thousands to millions of years. Scientific understanding of global warming has increased due to new data, and improved understanding of the climate system. The Intergovernmental Panel on Climate Change (IPCC) concludes that \"it is unequivocal that human influence has warmed the atmosphere, ocean, and land.\"",
+      "subQuestions": [
+        {
+          "question": "What is another term for global warming?",
+          "choices": ["Weather change", "Atmospheric shift", "Climate change", "Temperature fluctuation"],
+          "answer": "Climate change"
+        },
+        {
+          "question": "According to the passage, when did many of the observed changes in the climate system become unprecedented?",
+          "choices": ["Since the 1800s", "Since the 1950s", "In recent years", "Over thousands of years"],
+          "answer": "Since the 1950s"
+        }
+      ],
+      "category": "reading",
+      "difficulty": 7
+    }
+  ]
+}

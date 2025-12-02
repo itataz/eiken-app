@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検学習支援アプリ - 無料で効率的に英検対策｜単語・過去問・進捗管理</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="無料で使える英検学習支援アプリ。英検5級〜1級の単語学習、過去問演習、進捗管理機能を搭載。ゲーミフィケーション要素で楽しく学習を継続できます。">
+    <meta name="keywords" content="英検,英検対策,英語学習,単語学習,過去問,無料,eiken,英検アプリ,英語資格,STEP,英検5級,英検4級,英検3級,英検準2級,英検2級,英検準1級,英検1級">
+    <meta name="author" content="英検学習支援アプリ">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://yourdomain.com/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourdomain.com/">
+    <meta property="og:title" content="英検学習支援アプリ - 無料で効率的に英検対策">
+    <meta property="og:description" content="英検5級〜1級の単語学習、過去問演習、進捗管理機能を搭載。ゲーミフィケーション要素で楽しく学習できます。">
+    <meta property="og:image" content="https://yourdomain.com/og-image.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://yourdomain.com/">
+    <meta property="twitter:title" content="英検学習支援アプリ - 無料で効率的に英検対策">
+    <meta property="twitter:description" content="英検5級〜1級の単語学習、過去問演習、進捗管理機能を搭載。ゲーミフィケーション要素で楽しく学習できます。">
+    <meta property="twitter:image" content="https://yourdomain.com/twitter-image.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+</head>
+<body>
+    <header class="mockup-header">
+        <h1>英検学習支援アプリ</h1>
+        <p>英検合格を強力にサポート！単語、文法、リーディング対策も完璧</p>
+        <nav class="main-nav">
+            <button class="nav-btn active" data-view="home">ホーム</button>
+            <button class="nav-btn" data-view="vocabulary">単語学習</button>
+            <button class="nav-btn" data-view="dashboard">学習記録</button>
+            <button class="nav-btn" data-view="badges">バッジ</button>
+        </nav>
+        <div class="user-actions">
+            <!-- Login removed for static site -->
+        </div>
+    </header>
+
+    <!-- Gamification Status Bar -->
+    <div id="gamification-bar" class="gamification-bar" style="display: flex;">
+        <div class="stat">
+            <span class="stat-label">ポイント:</span>
+            <span id="user-points" class="stat-value">0</span>
+        </div>
+        <div class="stat">
+            <span class="stat-label">連続学習:</span>
+            <span id="user-streak" class="stat-value">0</span>日
+        </div>
+        <div class="stat">
+            <span class="stat-label">バッジ:</span>
+            <span id="user-badges-count" class="stat-value">0</span>
+        </div>
+    </div>
+
+    <!-- Home View -->
+    <div id="home-view" class="view-container mockup-container">
+
+        <div class="ad-placeholder">
+            <!-- Google AdSense - Top Banner -->
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+                    crossorigin="anonymous"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+
+        <section class="mockup-section">
+            <h2>英検の級を選ぶ</h2>
+            <div class="certification-grid">
+                <div class="certification-card">
+                    <h3>英検1級</h3>
+                    <p>大学上級レベル。幅広い分野の英語を理解し表現する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                    <div class="last-score"></div>
+                </div>
+                <div class="certification-card">
+                    <h3>英検準1級</h3>
+                    <p>大学中級レベル。社会生活で英語を「活用」する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                    <div class="last-score"></div>
+                </div>
+                <div class="certification-card">
+                    <h3>英検2級</h3>
+                    <p>高校卒業レベル。日常生活に必要な英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                    <div class="last-score"></div>
+                </div>
+                <div class="certification-card">
+                    <h3>英検準2級</h3>
+                    <p>高校中級レベル。日常生活に必要な簡単な英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                    <div class="last-score"></div>
+                </div>
+                <div class="certification-card">
+                    <h3>英検3級</h3>
+                    <p>中学卒業レベル。身近な事柄に関する英語を理解し使用する能力。</p>
+                    <a href="#" class="btn">学習開始</a>
+                    <div class="last-score"></div>
+                </div>
+                <!-- 級カードはさらに追加可能 -->
+            </div>
+        </section>
+
+        <section class="mockup-section">
+            <h2>近日公開予定のコンテンツ</h2>
+            <div class="certification-grid">
+                <div class="certification-card">
+                    <h3>TOEIC L&R</h3>
+                    <p>ビジネスシーンでの英語コミュニケーション能力を測定。</p>
+                    <a href="#" class="btn coming-soon">準備中</a>
+                </div>
+                <div class="certification-card">
+                    <h3>TOEFL iBT</h3>
+                    <p>アカデミックな場面での英語運用能力を測定。</p>
+                    <a href="#" class="btn coming-soon">準備中</a>
+                </div>
+            </div>
+        </section>
+
+        <div class="ad-placeholder">
+            <!-- Google AdSense - Bottom Banner -->
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+                    crossorigin="anonymous"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+    <!-- Vocabulary Learning View -->
+    <div id="vocabulary-view" class="view-container" style="display: none;">
+        <section class="vocabulary-section">
+            <h2>単語学習</h2>
+            <div class="level-selector">
+                <label for="vocab-level">級を選択:</label>
+                <select id="vocab-level" class="level-select">
+                    <option value="英検5級">英検5級</option>
+                    <option value="英検4級">英検4級</option>
+                    <option value="英検3級">英検3級</option>
+                    <option value="英検準2級">英検準2級</option>
+                    <option value="英検2級">英検2級</option>
+                    <option value="英検準1級">英検準1級</option>
+                    <option value="英検1級">英検1級</option>
+                </select>
+                <button id="start-vocab-btn" class="btn btn-primary">学習開始</button>
+            </div>
+            <div class="vocab-mode-selector" style="display: none;">
+                <h3>学習モードを選択:</h3>
+                <button class="mode-btn" data-mode="flashcard">フラッシュカード</button>
+                <button class="mode-btn" data-mode="quiz">クイズ</button>
+                <button class="mode-btn" data-mode="typing">タイピング</button>
+            </div>
+            <div id="vocabulary-container"></div>
+        </section>
+    </div>
+
+    <!-- Dashboard View -->
+    <div id="dashboard-view" class="view-container" style="display: none;">
+        <section class="dashboard-section">
+            <h2>学習記録ダッシュボード</h2>
+            <div id="dashboard-stats" class="dashboard-stats">
+                <div class="stat-card">
+                    <h3>総学習時間</h3>
+                    <p id="total-study-time" class="big-stat">0分</p>
+                </div>
+                <div class="stat-card">
+                    <h3>問題正答率</h3>
+                    <p id="accuracy-rate" class="big-stat">0%</p>
+                </div>
+                <div class="stat-card">
+                    <h3>今週の学習</h3>
+                    <p id="weekly-study" class="big-stat">0回</p>
+                </div>
+            </div>
+            <div class="progress-chart">
+                <h3>学習進捗グラフ</h3>
+                <canvas id="progress-canvas" width="600" height="300"></canvas>
+            </div>
+            <div class="weak-points">
+                <h3>苦手分野</h3>
+                <ul id="weak-points-list"></ul>
+            </div>
+        </section>
+    </div>
+
+    <!-- Badges View -->
+    <div id="badges-view" class="view-container" style="display: none;">
+        <section class="badges-section">
+            <h2>獲得バッジ</h2>
+            <div id="badges-container" class="badges-grid"></div>
+        </section>
+    </div>
+
+    <div id="loading-spinner" class="loading-spinner" style="display: none;">
+        <div class="spinner"></div>
+        <p>準備中...</p>
+    </div>
+
+    <!-- Load all JavaScript modules -->
+    <script src="js/app.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/vocabulary.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="js/badges.js"></script>
+</body>
+</html>
