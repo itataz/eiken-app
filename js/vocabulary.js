@@ -98,9 +98,14 @@ class VocabularyModule {
         document.getElementById('prev-vocab-btn').addEventListener('click', () => this.previousWord());
         document.getElementById('next-vocab-btn').addEventListener('click', () => this.nextWord());
         document.getElementById('mark-known-btn').addEventListener('click', () => this.markAsKnown());
-        document.getElementById('speak-btn').addEventListener('click', () => this.speakWord(this.vocabularyData[this.currentIndex].word));
 
-        // Example button will be added after flip
+        // Attach audio button event listener
+        const speakBtn = document.getElementById('speak-btn');
+        if (speakBtn) {
+            speakBtn.addEventListener('click', () => {
+                this.speakWord(this.vocabularyData[this.currentIndex].word);
+            });
+        }
     }
 
     flipFlashcard() {
@@ -176,7 +181,12 @@ class VocabularyModule {
         document.getElementById('prev-vocab-btn').disabled = this.currentIndex === 0;
 
         // Re-attach event listeners for audio buttons
-        document.getElementById('speak-btn').addEventListener('click', () => this.speakWord(word.word));
+        const speakBtn = document.getElementById('speak-btn');
+        if (speakBtn) {
+            speakBtn.addEventListener('click', () => {
+                this.speakWord(word.word);
+            });
+        }
     }
 
     async markAsKnown() {

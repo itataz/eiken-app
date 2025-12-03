@@ -49,6 +49,446 @@
       "exampleJP": "私は7時に朝食を食べます。",
       "partOfSpeech": "verb",
       "frequency": "high"
+    },
+    {
+      "word": "friend",
+      "meaning": "友達",
+      "pronunciation": "frend",
+      "audio": "audio/vocab/friend.mp3",
+      "example": "My best friend is very kind.",
+      "exampleJP": "私の親友はとても親切です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "happy",
+      "meaning": "幸せな",
+      "pronunciation": "ˈhæp.i",
+      "audio": "audio/vocab/happy.mp3",
+      "example": "I am happy to see you.",
+      "exampleJP": "あなたに会えて幸せです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "house",
+      "meaning": "家",
+      "pronunciation": "haʊs",
+      "audio": "audio/vocab/house.mp3",
+      "example": "This is my house.",
+      "exampleJP": "これは私の家です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "school",
+      "meaning": "学校",
+      "pronunciation": "skuːl",
+      "audio": "audio/vocab/school.mp3",
+      "example": "I go to school every day.",
+      "exampleJP": "私は毎日学校に行きます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "mother",
+      "meaning": "母",
+      "pronunciation": "ˈmʌð.ɚ",
+      "audio": "audio/vocab/mother.mp3",
+      "example": "My mother cooks delicious food.",
+      "exampleJP": "私の母はおいしい料理を作ります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "father",
+      "meaning": "父",
+      "pronunciation": "ˈfɑː.ðɚ",
+      "audio": "audio/vocab/father.mp3",
+      "example": "My father works at a company.",
+      "exampleJP": "私の父は会社で働いています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "sister",
+      "meaning": "姉妹",
+      "pronunciation": "ˈsɪs.tɚ",
+      "audio": "audio/vocab/sister.mp3",
+      "example": "My sister likes to read books.",
+      "exampleJP": "私の姉妹は本を読むのが好きです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "brother",
+      "meaning": "兄弟",
+      "pronunciation": "ˈbrʌð.ɚ",
+      "audio": "audio/vocab/brother.mp3",
+      "example": "My brother plays soccer.",
+      "exampleJP": "私の兄弟はサッカーをします。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "teacher",
+      "meaning": "先生",
+      "pronunciation": "ˈtiː.tʃɚ",
+      "audio": "audio/vocab/teacher.mp3",
+      "example": "My teacher is very patient.",
+      "exampleJP": "私の先生はとても忍耐強いです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "student",
+      "meaning": "生徒",
+      "pronunciation": "ˈstu.dənt",
+      "audio": "audio/vocab/student.mp3",
+      "example": "The students are studying hard.",
+      "exampleJP": "生徒たちは一生懸命勉強しています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "play",
+      "meaning": "遊ぶ",
+      "pronunciation": "pleɪ",
+      "audio": "audio/vocab/play.mp3",
+      "example": "I like to play games.",
+      "exampleJP": "私はゲームをするのが好きです。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "sleep",
+      "meaning": "寝る",
+      "pronunciation": "sliːp",
+      "audio": "audio/vocab/sleep.mp3",
+      "example": "I sleep 8 hours every night.",
+      "exampleJP": "私は毎晩8時間寝ます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "walk",
+      "meaning": "歩く",
+      "pronunciation": "wɔːk",
+      "audio": "audio/vocab/walk.mp3",
+      "example": "I walk to school every morning.",
+      "exampleJP": "私は毎朝学校まで歩きます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "run",
+      "meaning": "走る",
+      "pronunciation": "rʌn",
+      "audio": "audio/vocab/run.mp3",
+      "example": "He runs in the park every day.",
+      "exampleJP": "彼は毎日公園で走ります。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "jump",
+      "meaning": "跳ぶ",
+      "pronunciation": "dʒʌmp",
+      "audio": "audio/vocab/jump.mp3",
+      "example": "The children jump on the bed.",
+      "exampleJP": "子供たちはベッドで飛び跳ねます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "swim",
+      "meaning": "泳ぐ",
+      "pronunciation": "swɪm",
+      "audio": "audio/vocab/swim.mp3",
+      "example": "I swim at the beach every summer.",
+      "exampleJP": "私は毎年夏にビーチで泳ぎます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "red",
+      "meaning": "赤い",
+      "pronunciation": "red",
+      "audio": "audio/vocab/red.mp3",
+      "example": "This is a red car.",
+      "exampleJP": "これは赤い車です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "blue",
+      "meaning": "青い",
+      "pronunciation": "bluː",
+      "audio": "audio/vocab/blue.mp3",
+      "example": "The sky is blue.",
+      "exampleJP": "空は青いです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "big",
+      "meaning": "大きい",
+      "pronunciation": "bɪɡ",
+      "audio": "audio/vocab/big.mp3",
+      "example": "This is a big house.",
+      "exampleJP": "これは大きい家です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "small",
+      "meaning": "小さい",
+      "pronunciation": "smɔːl",
+      "audio": "audio/vocab/small.mp3",
+      "example": "I have a small dog.",
+      "exampleJP": "私は小さい犬を飼っています。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "new",
+      "meaning": "新しい",
+      "pronunciation": "njuː",
+      "audio": "audio/vocab/new.mp3",
+      "example": "I bought a new phone.",
+      "exampleJP": "私は新しい電話を買いました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "old",
+      "meaning": "古い",
+      "pronunciation": "oʊld",
+      "audio": "audio/vocab/old.mp3",
+      "example": "This is an old building.",
+      "exampleJP": "これは古い建物です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "good",
+      "meaning": "良い",
+      "pronunciation": "ɡʊd",
+      "audio": "audio/vocab/good.mp3",
+      "example": "This is good food.",
+      "exampleJP": "これは良い食べ物です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "bad",
+      "meaning": "悪い",
+      "pronunciation": "bæd",
+      "audio": "audio/vocab/bad.mp3",
+      "example": "That is a bad idea.",
+      "exampleJP": "それは悪い考えです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "one",
+      "meaning": "1",
+      "pronunciation": "wʌn",
+      "audio": "audio/vocab/one.mp3",
+      "example": "I have one cat.",
+      "exampleJP": "私は1匹の猫を飼っています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "two",
+      "meaning": "2",
+      "pronunciation": "tuː",
+      "audio": "audio/vocab/two.mp3",
+      "example": "I have two sisters.",
+      "exampleJP": "私は2人の姉妹がいます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "three",
+      "meaning": "3",
+      "pronunciation": "θriː",
+      "audio": "audio/vocab/three.mp3",
+      "example": "I have three books.",
+      "exampleJP": "私は3冊の本を持っています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "ten",
+      "meaning": "10",
+      "pronunciation": "ten",
+      "audio": "audio/vocab/ten.mp3",
+      "example": "There are ten students in the class.",
+      "exampleJP": "クラスに10人の生徒がいます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "year",
+      "meaning": "年",
+      "pronunciation": "jɪr",
+      "audio": "audio/vocab/year.mp3",
+      "example": "I go to the beach every year.",
+      "exampleJP": "私は毎年ビーチに行きます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "day",
+      "meaning": "日",
+      "pronunciation": "deɪ",
+      "audio": "audio/vocab/day.mp3",
+      "example": "I see my friend every day.",
+      "exampleJP": "私は毎日友達に会います。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "time",
+      "meaning": "時間",
+      "pronunciation": "taɪm",
+      "audio": "audio/vocab/time.mp3",
+      "example": "What time is it?",
+      "exampleJP": "何時ですか？",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "water",
+      "meaning": "水",
+      "pronunciation": "ˈwɔː.tɚ",
+      "audio": "audio/vocab/water.mp3",
+      "example": "I drink water every day.",
+      "exampleJP": "私は毎日水を飲みます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "food",
+      "meaning": "食べ物",
+      "pronunciation": "fuːd",
+      "audio": "audio/vocab/food.mp3",
+      "example": "This food is delicious.",
+      "exampleJP": "この食べ物はおいしいです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "milk",
+      "meaning": "牛乳",
+      "pronunciation": "mɪlk",
+      "audio": "audio/vocab/milk.mp3",
+      "example": "I drink milk for breakfast.",
+      "exampleJP": "私は朝食に牛乳を飲みます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "bread",
+      "meaning": "パン",
+      "pronunciation": "bred",
+      "audio": "audio/vocab/bread.mp3",
+      "example": "I eat bread every morning.",
+      "exampleJP": "私は毎朝パンを食べます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "rice",
+      "meaning": "米",
+      "pronunciation": "raɪs",
+      "audio": "audio/vocab/rice.mp3",
+      "example": "I eat rice every day.",
+      "exampleJP": "私は毎日米を食べます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "flower",
+      "meaning": "花",
+      "pronunciation": "ˈflaʊ.ɚ",
+      "audio": "audio/vocab/flower.mp3",
+      "example": "The flowers are beautiful.",
+      "exampleJP": "その花は美しいです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "tree",
+      "meaning": "木",
+      "pronunciation": "triː",
+      "audio": "audio/vocab/tree.mp3",
+      "example": "There is a big tree in the park.",
+      "exampleJP": "公園に大きな木があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "sun",
+      "meaning": "太陽",
+      "pronunciation": "sʌn",
+      "audio": "audio/vocab/sun.mp3",
+      "example": "The sun is very bright.",
+      "exampleJP": "太陽はとても明るいです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "moon",
+      "meaning": "月",
+      "pronunciation": "muːn",
+      "audio": "audio/vocab/moon.mp3",
+      "example": "The moon is beautiful tonight.",
+      "exampleJP": "今夜の月は美しいです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "star",
+      "meaning": "星",
+      "pronunciation": "stɑːr",
+      "audio": "audio/vocab/star.mp3",
+      "example": "I can see many stars in the sky.",
+      "exampleJP": "空にたくさんの星が見えます。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "rain",
+      "meaning": "雨",
+      "pronunciation": "reɪn",
+      "audio": "audio/vocab/rain.mp3",
+      "example": "It rains a lot in summer.",
+      "exampleJP": "夏はたくさん雨が降ります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "snow",
+      "meaning": "雪",
+      "pronunciation": "snoʊ",
+      "audio": "audio/vocab/snow.mp3",
+      "example": "Snow is cold.",
+      "exampleJP": "雪は冷たいです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "wind",
+      "meaning": "風",
+      "pronunciation": "wɪnd",
+      "audio": "audio/vocab/wind.mp3",
+      "example": "The wind is strong today.",
+      "exampleJP": "今日は風が強いです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
     }
   ],
   "英検4級": [
@@ -81,6 +521,456 @@
       "exampleJP": "注意深く運転してください。",
       "partOfSpeech": "adverb",
       "frequency": "medium"
+    },
+    {
+      "word": "brother",
+      "meaning": "兄弟",
+      "pronunciation": "ˈbrʌð.ɚ",
+      "audio": "audio/vocab/brother.mp3",
+      "example": "My brother is a student.",
+      "exampleJP": "私の兄弟は学生です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "busy",
+      "meaning": "忙しい",
+      "pronunciation": "ˈbɪz.i",
+      "audio": "audio/vocab/busy.mp3",
+      "example": "I am busy with my studies.",
+      "exampleJP": "私は勉強で忙しいです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "build",
+      "meaning": "建てる",
+      "pronunciation": "bɪld",
+      "audio": "audio/vocab/build.mp3",
+      "example": "They are building a new bridge.",
+      "exampleJP": "彼らは新しい橋を建てています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "cheap",
+      "meaning": "安い",
+      "pronunciation": "tʃiːp",
+      "audio": "audio/vocab/cheap.mp3",
+      "example": "This restaurant is cheap and good.",
+      "exampleJP": "このレストランは安くておいしいです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "climb",
+      "meaning": "登る",
+      "pronunciation": "klaɪm",
+      "audio": "audio/vocab/climb.mp3",
+      "example": "We climbed the mountain yesterday.",
+      "exampleJP": "私たちは昨日山に登りました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "close",
+      "meaning": "閉じる",
+      "pronunciation": "kloʊz",
+      "audio": "audio/vocab/close.mp3",
+      "example": "Please close the door.",
+      "exampleJP": "ドアを閉じてください。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "cold",
+      "meaning": "寒い",
+      "pronunciation": "koʊld",
+      "audio": "audio/vocab/cold.mp3",
+      "example": "It is very cold today.",
+      "exampleJP": "今日はとても寒いです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "comfortable",
+      "meaning": "快適な",
+      "pronunciation": "ˈkʌm.fɚ.tə.bəl",
+      "audio": "audio/vocab/comfortable.mp3",
+      "example": "This chair is very comfortable.",
+      "exampleJP": "このいすはとても快適です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "corner",
+      "meaning": "角",
+      "pronunciation": "ˈkɔːr.nɚ",
+      "audio": "audio/vocab/corner.mp3",
+      "example": "The store is at the corner of the street.",
+      "exampleJP": "店は通りの角にあります。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "dangerous",
+      "meaning": "危険な",
+      "pronunciation": "ˈdeɪn.dʒɚ.əs",
+      "audio": "audio/vocab/dangerous.mp3",
+      "example": "Driving too fast is dangerous.",
+      "exampleJP": "速く運転しすぎるのは危険です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "decide",
+      "meaning": "決める",
+      "pronunciation": "dɪˈsaɪd",
+      "audio": "audio/vocab/decide.mp3",
+      "example": "I decided to study English harder.",
+      "exampleJP": "私はもっと英語を勉強することにしました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "describe",
+      "meaning": "説明する",
+      "pronunciation": "dɪˈskraɪb",
+      "audio": "audio/vocab/describe.mp3",
+      "example": "Can you describe what you saw?",
+      "exampleJP": "あなたが見たことを説明できますか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "desert",
+      "meaning": "砂漠",
+      "pronunciation": "ˈdez.ɚt",
+      "audio": "audio/vocab/desert.mp3",
+      "example": "The Sahara is a large desert.",
+      "exampleJP": "サハラは大きな砂漠です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "dig",
+      "meaning": "掘る",
+      "pronunciation": "dɪɡ",
+      "audio": "audio/vocab/dig.mp3",
+      "example": "He is digging a hole in the ground.",
+      "exampleJP": "彼は地面に穴を掘っています。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "dirty",
+      "meaning": "汚い",
+      "pronunciation": "ˈdɝː.ti",
+      "audio": "audio/vocab/dirty.mp3",
+      "example": "My clothes are dirty.",
+      "exampleJP": "私の洋服は汚いです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "discover",
+      "meaning": "発見する",
+      "pronunciation": "dɪˈskʌv.ɚ",
+      "audio": "audio/vocab/discover.mp3",
+      "example": "Columbus discovered America.",
+      "exampleJP": "コロンブスはアメリカを発見しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "dress",
+      "meaning": "ドレス、服を着る",
+      "pronunciation": "dres",
+      "audio": "audio/vocab/dress.mp3",
+      "example": "She is wearing a beautiful dress.",
+      "exampleJP": "彼女は美しいドレスを着ています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "drive",
+      "meaning": "運転する",
+      "pronunciation": "draɪv",
+      "audio": "audio/vocab/drive.mp3",
+      "example": "My father drives to work every day.",
+      "exampleJP": "私の父は毎日仕事へ運転して行きます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "dry",
+      "meaning": "乾いた",
+      "pronunciation": "draɪ",
+      "audio": "audio/vocab/dry.mp3",
+      "example": "The weather is dry today.",
+      "exampleJP": "今日の天気は乾いています。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "early",
+      "meaning": "早い",
+      "pronunciation": "ˈɝː.li",
+      "audio": "audio/vocab/early.mp3",
+      "example": "I wake up early in the morning.",
+      "exampleJP": "私は朝早く目覚めます。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "easy",
+      "meaning": "簡単な",
+      "pronunciation": "ˈiː.zi",
+      "audio": "audio/vocab/easy.mp3",
+      "example": "This problem is easy to solve.",
+      "exampleJP": "この問題は解くのが簡単です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "empty",
+      "meaning": "空っぽな",
+      "pronunciation": "ˈemp.ti",
+      "audio": "audio/vocab/empty.mp3",
+      "example": "The room is empty.",
+      "exampleJP": "その部屋は空っぽです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "enjoy",
+      "meaning": "楽しむ",
+      "pronunciation": "ɪnˈdʒɔɪ",
+      "audio": "audio/vocab/enjoy.mp3",
+      "example": "I enjoy watching movies.",
+      "exampleJP": "私は映画を見るのを楽しみます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "enough",
+      "meaning": "十分な",
+      "pronunciation": "ɪˈnʌf",
+      "audio": "audio/vocab/enough.mp3",
+      "example": "Do you have enough money?",
+      "exampleJP": "あなたは十分なお金を持っていますか？",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "enter",
+      "meaning": "入る",
+      "pronunciation": "ˈen.tɚ",
+      "audio": "audio/vocab/enter.mp3",
+      "example": "Please enter the room.",
+      "exampleJP": "その部屋に入ってください。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "entire",
+      "meaning": "全部の",
+      "pronunciation": "ɪnˈtaɪr",
+      "audio": "audio/vocab/entire.mp3",
+      "example": "I read the entire book.",
+      "exampleJP": "私は本全部を読みました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "environment",
+      "meaning": "環境",
+      "pronunciation": "ɪnˈvaɪ.rən.mənt",
+      "audio": "audio/vocab/environment.mp3",
+      "example": "We need to protect the environment.",
+      "exampleJP": "私たちは環境を保護する必要があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "escape",
+      "meaning": "逃げる",
+      "pronunciation": "ɪˈskeɪp",
+      "audio": "audio/vocab/escape.mp3",
+      "example": "The prisoner escaped from jail.",
+      "exampleJP": "囚人は獄舎から逃げました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "especially",
+      "meaning": "特に",
+      "pronunciation": "ɪˈspeʃ.əl.i",
+      "audio": "audio/vocab/especially.mp3",
+      "example": "I like winter, especially the snow.",
+      "exampleJP": "私は冬が好きです、特に雪です。",
+      "partOfSpeech": "adverb",
+      "frequency": "high"
+    },
+    {
+      "word": "examine",
+      "meaning": "調べる",
+      "pronunciation": "ɪɡˈzæm.ɪn",
+      "audio": "audio/vocab/examine.mp3",
+      "example": "The doctor examined my eyes.",
+      "exampleJP": "医者は私の目を調べました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "example",
+      "meaning": "例",
+      "pronunciation": "ɪɡˈzæm.pəl",
+      "audio": "audio/vocab/example.mp3",
+      "example": "Can you give me an example?",
+      "exampleJP": "例を1つ教えてもらえますか？",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "exercise",
+      "meaning": "運動",
+      "pronunciation": "ˈek.sɚ.saɪz",
+      "audio": "audio/vocab/exercise.mp3",
+      "example": "I do exercise every morning.",
+      "exampleJP": "私は毎朝運動をします。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "expect",
+      "meaning": "期待する",
+      "pronunciation": "ɪkˈspekt",
+      "audio": "audio/vocab/expect.mp3",
+      "example": "I expect to see you next week.",
+      "exampleJP": "私は来週あなたに会うことを期待しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "expensive",
+      "meaning": "高い",
+      "pronunciation": "ɪkˈspen.sɪv",
+      "audio": "audio/vocab/expensive.mp3",
+      "example": "This restaurant is very expensive.",
+      "exampleJP": "このレストランはとても高いです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "experience",
+      "meaning": "経験",
+      "pronunciation": "ɪkˈspɪr.i.əns",
+      "audio": "audio/vocab/experience.mp3",
+      "example": "He has many years of experience.",
+      "exampleJP": "彼は多くの経験を持っています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "explain",
+      "meaning": "説明する",
+      "pronunciation": "ɪkˈspleɪn",
+      "audio": "audio/vocab/explain.mp3",
+      "example": "Can you explain this problem?",
+      "exampleJP": "この問題を説明してもらえますか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "explore",
+      "meaning": "探検する",
+      "pronunciation": "ɪkˈsplɔːr",
+      "audio": "audio/vocab/explore.mp3",
+      "example": "We explored the forest yesterday.",
+      "exampleJP": "私たちは昨日森を探検しました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "fail",
+      "meaning": "失敗する",
+      "pronunciation": "feɪl",
+      "audio": "audio/vocab/fail.mp3",
+      "example": "I failed the test.",
+      "exampleJP": "私はテストに失敗しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "famous",
+      "meaning": "有名な",
+      "pronunciation": "ˈfeɪ.məs",
+      "audio": "audio/vocab/famous.mp3",
+      "example": "Mount Fuji is famous in Japan.",
+      "exampleJP": "富士山は日本で有名です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "farm",
+      "meaning": "農場",
+      "pronunciation": "fɑːrm",
+      "audio": "audio/vocab/farm.mp3",
+      "example": "My grandfather works on a farm.",
+      "exampleJP": "私の祖父は農場で働いています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "fear",
+      "meaning": "恐れ",
+      "pronunciation": "fɪr",
+      "audio": "audio/vocab/fear.mp3",
+      "example": "I have a fear of snakes.",
+      "exampleJP": "私はヘビが怖いです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "feel",
+      "meaning": "感じる",
+      "pronunciation": "fiːl",
+      "audio": "audio/vocab/feel.mp3",
+      "example": "I feel happy today.",
+      "exampleJP": "私は今日幸せに感じます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "finally",
+      "meaning": "ついに",
+      "pronunciation": "ˈfaɪ.nə.li",
+      "audio": "audio/vocab/finally.mp3",
+      "example": "I finally finished my homework.",
+      "exampleJP": "私はついに宿題を終わらせました。",
+      "partOfSpeech": "adverb",
+      "frequency": "high"
+    },
+    {
+      "word": "find",
+      "meaning": "見つける",
+      "pronunciation": "faɪnd",
+      "audio": "audio/vocab/find.mp3",
+      "example": "I found my lost keys.",
+      "exampleJP": "私は失った鍵を見つけました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "fine",
+      "meaning": "大丈夫な、良い",
+      "pronunciation": "faɪn",
+      "audio": "audio/vocab/fine.mp3",
+      "example": "I am fine, thank you.",
+      "exampleJP": "私は大丈夫です、ありがとう。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
     }
   ],
   "英検3級": [
@@ -111,6 +1001,416 @@
       "audio": "audio/vocab/budget.mp3",
       "example": "We need to plan our budget for the trip.",
       "exampleJP": "旅行の予算を計画する必要があります。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "ability",
+      "meaning": "能力",
+      "pronunciation": "əˈbɪl.ə.ti",
+      "audio": "audio/vocab/ability.mp3",
+      "example": "He has the ability to speak five languages.",
+      "exampleJP": "彼は5つの言語を話す能力があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "受け入れる",
+      "pronunciation": "əkˈsept",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "I accept your invitation to the party.",
+      "exampleJP": "私はパーティーへのあなたの招待を受け入れます。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "advantage",
+      "meaning": "利点",
+      "pronunciation": "ədˈvæn.tɪdʒ",
+      "audio": "audio/vocab/advantage.mp3",
+      "example": "The advantage of cycling is that it's good exercise.",
+      "exampleJP": "サイクリングの利点は良い運動になることです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "advice",
+      "meaning": "助言",
+      "pronunciation": "ədˈvaɪs",
+      "audio": "audio/vocab/advice.mp3",
+      "example": "I took my teacher's advice and studied harder.",
+      "exampleJP": "私は先生の助言を聞いてもっと勉強しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "affect",
+      "meaning": "影響する",
+      "pronunciation": "əˈfekt",
+      "audio": "audio/vocab/affect.mp3",
+      "example": "The weather affects my mood.",
+      "exampleJP": "天気は私の気分に影響します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "age",
+      "meaning": "年齢",
+      "pronunciation": "eɪdʒ",
+      "audio": "audio/vocab/age.mp3",
+      "example": "What is your age?",
+      "exampleJP": "あなたの年齢は何ですか？",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "agree",
+      "meaning": "同意する",
+      "pronunciation": "əˈɡriː",
+      "audio": "audio/vocab/agree.mp3",
+      "example": "I agree with your opinion.",
+      "exampleJP": "私はあなたの意見に同意します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "appear",
+      "meaning": "現れる",
+      "pronunciation": "əˈpɪr",
+      "audio": "audio/vocab/appear.mp3",
+      "example": "A stranger appeared at the door.",
+      "exampleJP": "見知らぬ人がドアに現れました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "apply",
+      "meaning": "申し込む",
+      "pronunciation": "əˈplaɪ",
+      "audio": "audio/vocab/apply.mp3",
+      "example": "I applied for a job at the bank.",
+      "exampleJP": "私は銀行の仕事に申し込みました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "approach",
+      "meaning": "接近する",
+      "pronunciation": "əˈproʊtʃ",
+      "audio": "audio/vocab/approach.mp3",
+      "example": "The train approached the station.",
+      "exampleJP": "列車が駅に接近しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "area",
+      "meaning": "地域",
+      "pronunciation": "ˈer.i.ə",
+      "audio": "audio/vocab/area.mp3",
+      "example": "This area is very populated.",
+      "exampleJP": "この地域は非常に人口が多いです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "argument",
+      "meaning": "議論",
+      "pronunciation": "ˈɑːr.ɡju.mənt",
+      "audio": "audio/vocab/argument.mp3",
+      "example": "They had a heated argument.",
+      "exampleJP": "彼らは激しい議論をしました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "arrange",
+      "meaning": "準備する",
+      "pronunciation": "əˈreɪndʒ",
+      "audio": "audio/vocab/arrange.mp3",
+      "example": "She arranged a meeting with the clients.",
+      "exampleJP": "彼女はクライアントとの会議を準備しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "article",
+      "meaning": "記事",
+      "pronunciation": "ˈɑːr.tɪ.kəl",
+      "audio": "audio/vocab/article.mp3",
+      "example": "I read an interesting article in the newspaper.",
+      "exampleJP": "私は新聞で興味深い記事を読みました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "artist",
+      "meaning": "アーティスト",
+      "pronunciation": "ˈɑːr.tɪst",
+      "audio": "audio/vocab/artist.mp3",
+      "example": "She is a talented artist.",
+      "exampleJP": "彼女は才能あるアーティストです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "attack",
+      "meaning": "攻撃",
+      "pronunciation": "əˈtæk",
+      "audio": "audio/vocab/attack.mp3",
+      "example": "The army launched an attack.",
+      "exampleJP": "軍が攻撃を開始しました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "attempt",
+      "meaning": "試み",
+      "pronunciation": "əˈtempt",
+      "audio": "audio/vocab/attempt.mp3",
+      "example": "He made an attempt to climb the mountain.",
+      "exampleJP": "彼は山に登ろうと試みました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "attend",
+      "meaning": "参加する",
+      "pronunciation": "əˈtend",
+      "audio": "audio/vocab/attend.mp3",
+      "example": "Will you attend the concert?",
+      "exampleJP": "あなたはコンサートに参加しますか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "attitude",
+      "meaning": "態度",
+      "pronunciation": "ˈæt.ɪ.tjuːd",
+      "audio": "audio/vocab/attitude.mp3",
+      "example": "His attitude towards work is very positive.",
+      "exampleJP": "仕事に対する彼の態度はとても前向きです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "audience",
+      "meaning": "観客",
+      "pronunciation": "ˈɔː.di.əns",
+      "audio": "audio/vocab/audience.mp3",
+      "example": "The audience applauded loudly.",
+      "exampleJP": "観客は大声で拍手しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "award",
+      "meaning": "賞",
+      "pronunciation": "əˈwɔːrd",
+      "audio": "audio/vocab/award.mp3",
+      "example": "She won an award for her excellent work.",
+      "exampleJP": "彼女は優秀な仕事で賞を受賞しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "aware",
+      "meaning": "気づいている",
+      "pronunciation": "əˈwer",
+      "audio": "audio/vocab/aware.mp3",
+      "example": "Are you aware of the danger?",
+      "exampleJP": "あなたは危険に気づいていますか？",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "balance",
+      "meaning": "バランス",
+      "pronunciation": "ˈbæl.əns",
+      "audio": "audio/vocab/balance.mp3",
+      "example": "You need to balance work and life.",
+      "exampleJP": "仕事と生活のバランスを取る必要があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "basic",
+      "meaning": "基本的な",
+      "pronunciation": "ˈbeɪ.sɪk",
+      "audio": "audio/vocab/basic.mp3",
+      "example": "These are the basic rules of the game.",
+      "exampleJP": "これはゲームの基本的なルールです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "beautiful",
+      "meaning": "美しい",
+      "pronunciation": "ˈbjuː.tɪ.fəl",
+      "audio": "audio/vocab/beautiful.mp3",
+      "example": "The sunset was beautiful.",
+      "exampleJP": "夕焼けは美しかったです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "become",
+      "meaning": "なる",
+      "pronunciation": "bɪˈkʌm",
+      "audio": "audio/vocab/become.mp3",
+      "example": "He became a doctor.",
+      "exampleJP": "彼は医者になりました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "begin",
+      "meaning": "始まる",
+      "pronunciation": "bɪˈɡɪn",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "The meeting begins at 3 o'clock.",
+      "exampleJP": "会議は3時に始まります。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "behavior",
+      "meaning": "行動",
+      "pronunciation": "bɪˈheɪ.vjɚ",
+      "audio": "audio/vocab/behavior.mp3",
+      "example": "His behavior was inappropriate.",
+      "exampleJP": "彼の行動は不適切でした。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "belief",
+      "meaning": "信念",
+      "pronunciation": "bɪˈliːf",
+      "audio": "audio/vocab/belief.mp3",
+      "example": "I have a strong belief in hard work.",
+      "exampleJP": "私は努力に対する強い信念を持っています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "benefit",
+      "meaning": "利益",
+      "pronunciation": "ˈben.ə.fɪt",
+      "audio": "audio/vocab/benefit.mp3",
+      "example": "What is the benefit of this product?",
+      "exampleJP": "この製品の利益は何ですか？",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "beyond",
+      "meaning": "を超えて",
+      "pronunciation": "biˈɑnd",
+      "audio": "audio/vocab/beyond.mp3",
+      "example": "The house is beyond the bridge.",
+      "exampleJP": "その家は橋を超えたところにあります。",
+      "partOfSpeech": "preposition",
+      "frequency": "high"
+    },
+    {
+      "word": "blame",
+      "meaning": "非難する",
+      "pronunciation": "bleɪm",
+      "audio": "audio/vocab/blame.mp3",
+      "example": "Don't blame me for this mistake.",
+      "exampleJP": "この間違いで私を非難しないでください。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "board",
+      "meaning": "板",
+      "pronunciation": "bɔːrd",
+      "audio": "audio/vocab/board.mp3",
+      "example": "He wrote on the blackboard.",
+      "exampleJP": "彼は黒板に書きました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "breast",
+      "meaning": "胸",
+      "pronunciation": "brest",
+      "audio": "audio/vocab/breast.mp3",
+      "example": "Chicken breast is a healthy protein.",
+      "exampleJP": "鶏の胸肉は健康的なタンパク質です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "breathe",
+      "meaning": "呼吸する",
+      "pronunciation": "briːð",
+      "audio": "audio/vocab/breathe.mp3",
+      "example": "Take a deep breath and relax.",
+      "exampleJP": "深く呼吸してリラックスしてください。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "bridge",
+      "meaning": "橋",
+      "pronunciation": "brɪdʒ",
+      "audio": "audio/vocab/bridge.mp3",
+      "example": "The bridge crosses the river.",
+      "exampleJP": "その橋は川を渡ります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "brief",
+      "meaning": "短い",
+      "pronunciation": "briːf",
+      "audio": "audio/vocab/brief.mp3",
+      "example": "Let me give you a brief explanation.",
+      "exampleJP": "簡潔な説明をさせてください。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "bright",
+      "meaning": "明るい",
+      "pronunciation": "braɪt",
+      "audio": "audio/vocab/bright.mp3",
+      "example": "The bright lights hurt my eyes.",
+      "exampleJP": "明るい光は私の目を傷つけます。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "bring",
+      "meaning": "持ってくる",
+      "pronunciation": "brɪŋ",
+      "audio": "audio/vocab/bring.mp3",
+      "example": "Can you bring the book tomorrow?",
+      "exampleJP": "明日本を持ってきてもらえますか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "broad",
+      "meaning": "広い",
+      "pronunciation": "brɔːd",
+      "audio": "audio/vocab/broad.mp3",
+      "example": "The road is very broad.",
+      "exampleJP": "その道はとても広いです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "burden",
+      "meaning": "負担",
+      "pronunciation": "ˈbɝː.dən",
+      "audio": "audio/vocab/burden.mp3",
+      "example": "Carrying heavy bags is a burden.",
+      "exampleJP": "重いバッグを運ぶことは負担です。",
       "partOfSpeech": "noun",
       "frequency": "medium"
     }
@@ -145,6 +1445,376 @@
       "exampleJP": "健康を維持することは重要です。",
       "partOfSpeech": "verb",
       "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "認める",
+      "pronunciation": "əkˈnɑː.lɪdʒ",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "He acknowledged his mistake.",
+      "exampleJP": "彼は彼の間違いを認めました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acquisition",
+      "meaning": "買収、習得",
+      "pronunciation": "ˌæk.wəˈzɪʃ.ən",
+      "audio": "audio/vocab/acquisition.mp3",
+      "example": "The acquisition of new skills is important.",
+      "exampleJP": "新しいスキルの習得は重要です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "adolescent",
+      "meaning": "思春期の",
+      "pronunciation": "ˌæd.əlˈes.ənt",
+      "audio": "audio/vocab/adolescent.mp3",
+      "example": "Adolescent behavior is often unpredictable.",
+      "exampleJP": "思春期の行動はしばしば予測不可能です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "advocate",
+      "meaning": "主張する、提唱者",
+      "pronunciation": "ˈæd.və.kət",
+      "audio": "audio/vocab/advocate.mp3",
+      "example": "She advocates for environmental protection.",
+      "exampleJP": "彼女は環境保護を主張しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "affluent",
+      "meaning": "裕福な",
+      "pronunciation": "ˈæf.lu.ənt",
+      "audio": "audio/vocab/affluent.mp3",
+      "example": "The affluent neighborhood has large houses.",
+      "exampleJP": "その裕福な地域は大きな家があります。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "aggregate",
+      "meaning": "集計する",
+      "pronunciation": "ˈæɡ.rɪ.ɡət",
+      "audio": "audio/vocab/aggregate.mp3",
+      "example": "We need to aggregate the data from all sources.",
+      "exampleJP": "すべてのソースからデータを集計する必要があります。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "alliance",
+      "meaning": "同盟",
+      "pronunciation": "əˈlaɪ.əns",
+      "audio": "audio/vocab/alliance.mp3",
+      "example": "The two countries formed an alliance.",
+      "exampleJP": "2つの国は同盟を結びました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "allocate",
+      "meaning": "配分する",
+      "pronunciation": "ˈæl.ə.keɪt",
+      "audio": "audio/vocab/allocate.mp3",
+      "example": "The budget allocates money for education.",
+      "exampleJP": "予算は教育にお金を配分しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "alternative",
+      "meaning": "代替",
+      "pronunciation": "ɔːlˈtɝː.nə.tɪv",
+      "audio": "audio/vocab/alternative.mp3",
+      "example": "Is there an alternative solution?",
+      "exampleJP": "代替案はありますか？",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "altitude",
+      "meaning": "高度",
+      "pronunciation": "ˈæl.tɪ.tuːd",
+      "audio": "audio/vocab/altitude.mp3",
+      "example": "The airplane reached an altitude of 35,000 feet.",
+      "exampleJP": "飛行機は35,000フィートの高度に達しました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "ambition",
+      "meaning": "野心",
+      "pronunciation": "æmˈbɪʃ.ən",
+      "audio": "audio/vocab/ambition.mp3",
+      "example": "His ambition is to become a doctor.",
+      "exampleJP": "彼の野心は医者になることです。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "ambitious",
+      "meaning": "野心的な",
+      "pronunciation": "æmˈbɪʃ.əs",
+      "audio": "audio/vocab/ambitious.mp3",
+      "example": "She has ambitious goals for her career.",
+      "exampleJP": "彼女はキャリアに野心的な目標を持っています。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "amenity",
+      "meaning": "快適性",
+      "pronunciation": "əˈmen.ə.ti",
+      "audio": "audio/vocab/amenity.mp3",
+      "example": "The hotel offers many amenities for guests.",
+      "exampleJP": "ホテルはゲストのための多くの快適性を提供しています。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "amendment",
+      "meaning": "修正",
+      "pronunciation": "əˈmend.mənt",
+      "audio": "audio/vocab/amendment.mp3",
+      "example": "The constitution has 27 amendments.",
+      "exampleJP": "憲法には27の修正があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "amid",
+      "meaning": "...の中で",
+      "pronunciation": "əˈmɪd",
+      "audio": "audio/vocab/amid.mp3",
+      "example": "They celebrated amid the chaos.",
+      "exampleJP": "彼らは混乱の中で祝いました。",
+      "partOfSpeech": "preposition",
+      "frequency": "medium"
+    },
+    {
+      "word": "analogy",
+      "meaning": "類似",
+      "pronunciation": "əˈnæl.ə.dʒi",
+      "audio": "audio/vocab/analogy.mp3",
+      "example": "She used an analogy to explain the concept.",
+      "exampleJP": "彼女は類似を使ってコンセプトを説明しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "analyze",
+      "meaning": "分析する",
+      "pronunciation": "ˈæn.əl.aɪz",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "Let me analyze the data.",
+      "exampleJP": "データを分析させてください。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "ancestor",
+      "meaning": "祖先",
+      "pronunciation": "ˈæn.ses.tɚ",
+      "audio": "audio/vocab/ancestor.mp3",
+      "example": "My ancestors came from Japan.",
+      "exampleJP": "私の祖先は日本から来ました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "anchor",
+      "meaning": "錨、固定する",
+      "pronunciation": "ˈæŋ.kɚ",
+      "audio": "audio/vocab/anchor.mp3",
+      "example": "The ship dropped its anchor.",
+      "exampleJP": "船は錨を下ろしました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anesthetic",
+      "meaning": "麻酔薬",
+      "pronunciation": "ˌæn.əsˈθet.ɪk",
+      "audio": "audio/vocab/anesthetic.mp3",
+      "example": "The anesthetic helped with the pain.",
+      "exampleJP": "麻酔薬は痛みを軽減するのに役立ちました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "angle",
+      "meaning": "角度",
+      "pronunciation": "ˈæŋ.ɡəl",
+      "audio": "audio/vocab/angle.mp3",
+      "example": "The angle of the roof is 45 degrees.",
+      "exampleJP": "屋根の角度は45度です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "anguish",
+      "meaning": "苦悩",
+      "pronunciation": "ˈæŋ.ɡwɪʃ",
+      "audio": "audio/vocab/anguish.mp3",
+      "example": "She felt great anguish at the news.",
+      "exampleJP": "彼女はそのニュースに大きな苦悩を感じました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "animate",
+      "meaning": "生き生きさせる",
+      "pronunciation": "ˈæn.ə.meɪt",
+      "audio": "audio/vocab/animate.mp3",
+      "example": "Her enthusiasm animated the whole group.",
+      "exampleJP": "彼女の熱意はグループ全体を生き生きさせました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "annotation",
+      "meaning": "注釈",
+      "pronunciation": "ˌæn.əˈteɪ.ʃən",
+      "audio": "audio/vocab/annotation.mp3",
+      "example": "The annotation explains the difficult passage.",
+      "exampleJP": "注釈は難しい部分を説明しています。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "annual",
+      "meaning": "年間の",
+      "pronunciation": "ˈæn.ju.əl",
+      "audio": "audio/vocab/annual.mp3",
+      "example": "The annual meeting is next month.",
+      "exampleJP": "年間会議は来月です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "anomaly",
+      "meaning": "異常",
+      "pronunciation": "əˈnɑː.mə.li",
+      "audio": "audio/vocab/anomaly.mp3",
+      "example": "The data showed an anomaly.",
+      "exampleJP": "データは異常を示しました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anonymous",
+      "meaning": "匿名の",
+      "pronunciation": "əˈnɑː.nɪ.məs",
+      "audio": "audio/vocab/anonymous.mp3",
+      "example": "The anonymous letter was mysterious.",
+      "exampleJP": "その匿名の手紙は謎めいていました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "antagonism",
+      "meaning": "対立",
+      "pronunciation": "ænˈtæɡ.ə.nɪ.zəm",
+      "audio": "audio/vocab/antagonism.mp3",
+      "example": "There is antagonism between the two groups.",
+      "exampleJP": "2つのグループの間に対立があります。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "予想する",
+      "pronunciation": "ænˈtɪs.ə.peɪt",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "I anticipate some problems.",
+      "exampleJP": "私はいくつかの問題を予想しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "antique",
+      "meaning": "骨董品",
+      "pronunciation": "ænˈtiːk",
+      "audio": "audio/vocab/antique.mp3",
+      "example": "This is an antique chair.",
+      "exampleJP": "これは骨董品の椅子です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "antiseptic",
+      "meaning": "防腐剤",
+      "pronunciation": "ˌæn.tiˈsep.tɪk",
+      "audio": "audio/vocab/antiseptic.mp3",
+      "example": "Use an antiseptic on the wound.",
+      "exampleJP": "傷に防腐剤を使用してください。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anxiety",
+      "meaning": "不安",
+      "pronunciation": "æŋˈzaɪ.ə.ti",
+      "audio": "audio/vocab/anxiety.mp3",
+      "example": "She felt anxiety before the exam.",
+      "exampleJP": "彼女は試験前に不安を感じました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "apathy",
+      "meaning": "無関心",
+      "pronunciation": "ˈæp.ə.θi",
+      "audio": "audio/vocab/apathy.mp3",
+      "example": "His apathy towards work is concerning.",
+      "exampleJP": "仕事に対する彼の無関心は懸念があります。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "aperture",
+      "meaning": "開口部",
+      "pronunciation": "ˈæp.ɚ.tʃɚ",
+      "audio": "audio/vocab/aperture.mp3",
+      "example": "The aperture of the camera controls light.",
+      "exampleJP": "カメラの開口部は光を制御します。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "apostle",
+      "meaning": "使徒",
+      "pronunciation": "əˈpɑː.səl",
+      "audio": "audio/vocab/apostle.mp3",
+      "example": "Jesus had twelve apostles.",
+      "exampleJP": "イエスには12人の使徒がいました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "appall",
+      "meaning": "ぞっとさせる",
+      "pronunciation": "əˈpɔːl",
+      "audio": "audio/vocab/appall.mp3",
+      "example": "The news appalled everyone.",
+      "exampleJP": "そのニュースはみんなをぞっとさせました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "apparatus",
+      "meaning": "装置",
+      "pronunciation": "ˌæp.əˈreɪ.təs",
+      "audio": "audio/vocab/apparatus.mp3",
+      "example": "The laboratory has advanced apparatus.",
+      "exampleJP": "研究室には高度な装置があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
     }
   ],
   "英検2級": [
@@ -176,6 +1846,336 @@
       "example": "We need to find sustainable energy sources.",
       "exampleJP": "持続可能なエネルギー源を見つける必要があります。",
       "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "abbreviate",
+      "meaning": "短縮する",
+      "pronunciation": "əˈbriː.vi.eɪt",
+      "audio": "audio/vocab/abbreviate.mp3",
+      "example": "Can you abbreviate this document?",
+      "exampleJP": "このドキュメントを短縮できますか？",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accelerate",
+      "meaning": "加速する",
+      "pronunciation": "əkˈsel.ə.reɪt",
+      "audio": "audio/vocab/accelerate.mp3",
+      "example": "The car accelerated quickly.",
+      "exampleJP": "車は急速に加速しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accessibility",
+      "meaning": "アクセス可能性",
+      "pronunciation": "ˌæk.ses.əˈbɪl.ə.ti",
+      "audio": "audio/vocab/accessibility.mp3",
+      "example": "Web accessibility is important for everyone.",
+      "exampleJP": "ウェブのアクセス可能性はすべての人にとって重要です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accidental",
+      "meaning": "偶然の",
+      "pronunciation": "ˌæk.sɪˈden.təl",
+      "audio": "audio/vocab/accidental.mp3",
+      "example": "It was an accidental discovery.",
+      "exampleJP": "それは偶然の発見でした。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "成し遂げる",
+      "pronunciation": "əˈkɑːm.plɪʃ",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "She accomplished her goals.",
+      "exampleJP": "彼女は彼女の目標を成し遂げました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accordance",
+      "meaning": "一致",
+      "pronunciation": "əˈkɔːr.dəns",
+      "audio": "audio/vocab/accordance.mp3",
+      "example": "In accordance with the rules, we must proceed.",
+      "exampleJP": "ルールに従い、私たちは進む必要があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accumulate",
+      "meaning": "蓄積する",
+      "pronunciation": "əˈkjuː.mjə.leɪt",
+      "audio": "audio/vocab/accumulate.mp3",
+      "example": "Dust accumulates on shelves.",
+      "exampleJP": "棚にほこりが蓄積します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accuracy",
+      "meaning": "正確さ",
+      "pronunciation": "ˈæk.jɚ.ə.si",
+      "audio": "audio/vocab/accuracy.mp3",
+      "example": "The accuracy of the measurements is important.",
+      "exampleJP": "測定の正確さは重要です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accusation",
+      "meaning": "告発",
+      "pronunciation": "ˌæk.ju.ˈzeɪ.ʃən",
+      "audio": "audio/vocab/accusation.mp3",
+      "example": "The accusation against him was false.",
+      "exampleJP": "彼に対する告発は虚偽でした。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acquaintance",
+      "meaning": "知り合い",
+      "pronunciation": "əˈkweɪn.təns",
+      "audio": "audio/vocab/acquaintance.mp3",
+      "example": "He is an acquaintance, not a close friend.",
+      "exampleJP": "彼は知り合いであり、親友ではありません。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acquiesce",
+      "meaning": "黙認する",
+      "pronunciation": "ˌæk.wiˈes",
+      "audio": "audio/vocab/acquiesce.mp3",
+      "example": "He acquiesced to the plan without argument.",
+      "exampleJP": "彼は議論なしにその計画に黙認しました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "acquisition",
+      "meaning": "買収",
+      "pronunciation": "ˌæk.wəˈzɪʃ.ən",
+      "audio": "audio/vocab/acquisition.mp3",
+      "example": "The acquisition of the company was completed.",
+      "exampleJP": "その会社の買収は完了しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "adamant",
+      "meaning": "固い決意で",
+      "pronunciation": "ˈæd.ə.mənt",
+      "audio": "audio/vocab/adamant.mp3",
+      "example": "She was adamant about her decision.",
+      "exampleJP": "彼女は彼女の決定について固い決意を示しました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "addiction",
+      "meaning": "中毒",
+      "pronunciation": "əˈdɪk.ʃən",
+      "audio": "audio/vocab/addiction.mp3",
+      "example": "Addiction to drugs is a serious problem.",
+      "exampleJP": "薬物中毒は深刻な問題です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "adequate",
+      "meaning": "適切な",
+      "pronunciation": "ˈæd.ɪ.kwət",
+      "audio": "audio/vocab/adequate.mp3",
+      "example": "The supplies are adequate for the project.",
+      "exampleJP": "供給はプロジェクトに適切です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "adhesive",
+      "meaning": "接着剤",
+      "pronunciation": "ədˈhiː.sɪv",
+      "audio": "audio/vocab/adhesive.mp3",
+      "example": "Use adhesive tape to fix the paper.",
+      "exampleJP": "紙を固定するために接着テープを使用してください。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "adjacent",
+      "meaning": "隣接する",
+      "pronunciation": "əˈdʒeɪ.sənt",
+      "audio": "audio/vocab/adjacent.mp3",
+      "example": "The adjacent rooms are connected.",
+      "exampleJP": "隣接する部屋は接続されています。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "adjudicate",
+      "meaning": "判決する",
+      "pronunciation": "əˈdʒuː.dɪ.keɪt",
+      "audio": "audio/vocab/adjudicate.mp3",
+      "example": "The judge will adjudicate the case.",
+      "exampleJP": "判事はその事件に判決を下します。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "adjustment",
+      "meaning": "調整",
+      "pronunciation": "əˈdʒʌst.mənt",
+      "audio": "audio/vocab/adjustment.mp3",
+      "example": "The adjustment to the schedule was necessary.",
+      "exampleJP": "スケジュールへの調整が必要でした。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "administrator",
+      "meaning": "管理者",
+      "pronunciation": "ədˈmɪn.ɪ.streɪ.tɚ",
+      "audio": "audio/vocab/administrator.mp3",
+      "example": "The administrator manages the office.",
+      "exampleJP": "管理者はオフィスを管理しています。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "admission",
+      "meaning": "入場",
+      "pronunciation": "ədˈmɪʃ.ən",
+      "audio": "audio/vocab/admission.mp3",
+      "example": "Admission to the museum is free.",
+      "exampleJP": "博物館への入場は無料です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "admittedly",
+      "meaning": "認めるべきことに",
+      "pronunciation": "ədˈmɪt.əd.li",
+      "audio": "audio/vocab/admittedly.mp3",
+      "example": "Admittedly, I made a mistake.",
+      "exampleJP": "認めるべきことに、私は間違いを犯しました。",
+      "partOfSpeech": "adverb",
+      "frequency": "high"
+    },
+    {
+      "word": "adolescence",
+      "meaning": "思春期",
+      "pronunciation": "ˌæd.əlˈes.əns",
+      "audio": "audio/vocab/adolescence.mp3",
+      "example": "Adolescence is a time of change.",
+      "exampleJP": "思春期は変化の時期です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "adore",
+      "meaning": "崇拝する",
+      "pronunciation": "əˈdɔːr",
+      "audio": "audio/vocab/adore.mp3",
+      "example": "She adores her children.",
+      "exampleJP": "彼女は彼女の子供たちを崇拝しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "adornment",
+      "meaning": "装飾",
+      "pronunciation": "əˈdɔːrn.mənt",
+      "audio": "audio/vocab/adornment.mp3",
+      "example": "The adornment on the dress is beautiful.",
+      "exampleJP": "ドレスの装飾は美しいです。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "adroit",
+      "meaning": "器用な",
+      "pronunciation": "əˈdrɔɪt",
+      "audio": "audio/vocab/adroit.mp3",
+      "example": "He was adroit at handling difficult situations.",
+      "exampleJP": "彼は難しい状況を扱うのに器用でした。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "adulation",
+      "meaning": "褒め称え",
+      "pronunciation": "ˌæd.ju.ˈleɪ.ʃən",
+      "audio": "audio/vocab/adulation.mp3",
+      "example": "The actor received adulation from fans.",
+      "exampleJP": "その俳優はファンから褒め称えられました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "advancement",
+      "meaning": "進展",
+      "pronunciation": "ədˈvæns.mənt",
+      "audio": "audio/vocab/advancement.mp3",
+      "example": "Technology advancement is rapid.",
+      "exampleJP": "技術の進展は急速です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "adversary",
+      "meaning": "敵",
+      "pronunciation": "ˈæd.vɚ.ser.i",
+      "audio": "audio/vocab/adversary.mp3",
+      "example": "He faced his adversary in the match.",
+      "exampleJP": "彼は試合で彼の敵に直面しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "adversity",
+      "meaning": "逆境",
+      "pronunciation": "ədˈvɝː.sə.ti",
+      "audio": "audio/vocab/adversity.mp3",
+      "example": "She overcame adversity with courage.",
+      "exampleJP": "彼女は勇気で逆境を克服しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "advertise",
+      "meaning": "広告する",
+      "pronunciation": "ˈæd.vɚ.taɪz",
+      "audio": "audio/vocab/advertise.mp3",
+      "example": "Companies advertise their products.",
+      "exampleJP": "企業は彼らの製品を広告しています。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "advisable",
+      "meaning": "勧告される",
+      "pronunciation": "ədˈvaɪ.zə.bəl",
+      "audio": "audio/vocab/advisable.mp3",
+      "example": "It is advisable to exercise regularly.",
+      "exampleJP": "定期的に運動することをお勧めします。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "advocacy",
+      "meaning": "擁護",
+      "pronunciation": "ˈæd.və.kə.si",
+      "audio": "audio/vocab/advocacy.mp3",
+      "example": "Her advocacy for human rights is admirable.",
+      "exampleJP": "人権に対する彼女の擁護は称賛に値します。",
+      "partOfSpeech": "noun",
       "frequency": "high"
     }
   ],
@@ -209,6 +2209,326 @@
       "exampleJP": "多くの企業が不況の間に人員削減をしなければなりませんでした。",
       "partOfSpeech": "verb",
       "frequency": "medium"
+    },
+    {
+      "word": "alleviate",
+      "meaning": "軽減する",
+      "pronunciation": "əˈliː.vi.eɪt",
+      "audio": "audio/vocab/alleviate.mp3",
+      "example": "The medicine alleviates the pain.",
+      "exampleJP": "その薬は痛みを軽減します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "ambitiously",
+      "meaning": "野心的に",
+      "pronunciation": "æmˈbɪʃ.əs.li",
+      "audio": "audio/vocab/ambitiously.mp3",
+      "example": "She ambitiously pursued her dreams.",
+      "exampleJP": "彼女は野心的に彼女の夢を追求しました。",
+      "partOfSpeech": "adverb",
+      "frequency": "medium"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "改善する",
+      "pronunciation": "əˈmel.jə.reɪt",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "The new policy will ameliorate working conditions.",
+      "exampleJP": "新しい方針は労働条件を改善するでしょう。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "ancestral",
+      "meaning": "祖先の",
+      "pronunciation": "ænˈses.trəl",
+      "audio": "audio/vocab/ancestral.mp3",
+      "example": "The ancestral home is in the countryside.",
+      "exampleJP": "祖先の家は田舎にあります。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "anomalous",
+      "meaning": "異常な",
+      "pronunciation": "əˈnɑː.mə.ləs",
+      "audio": "audio/vocab/anomalous.mp3",
+      "example": "The anomalous results confused the scientists.",
+      "exampleJP": "異常な結果は科学者を困惑させました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "antiquated",
+      "meaning": "時代遅れの",
+      "pronunciation": "ˈæn.tɪ.kweɪ.tɪd",
+      "audio": "audio/vocab/antiquated.mp3",
+      "example": "The antiquated system needs to be replaced.",
+      "exampleJP": "その時代遅れのシステムは置き換える必要があります。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "apprehension",
+      "meaning": "懸念",
+      "pronunciation": "ˌæp.rɪˈhen.ʃən",
+      "audio": "audio/vocab/apprehension.mp3",
+      "example": "She felt apprehension about the future.",
+      "exampleJP": "彼女は将来について懸念を感じました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "arduous",
+      "meaning": "困難な",
+      "pronunciation": "ˈɑːr.dʒu.əs",
+      "audio": "audio/vocab/arduous.mp3",
+      "example": "The journey was arduous and exhausting.",
+      "exampleJP": "その旅は困難で疲れました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "assiduous",
+      "meaning": "勤勉な",
+      "pronunciation": "əˈsɪd.ju.əs",
+      "audio": "audio/vocab/assiduous.mp3",
+      "example": "He is assiduous in his studies.",
+      "exampleJP": "彼は勤勉に研究に従事しています。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "atrocious",
+      "meaning": "残虐な",
+      "pronunciation": "əˈtroʊ.ʃəs",
+      "audio": "audio/vocab/atrocious.mp3",
+      "example": "The atrocious crimes shocked the nation.",
+      "exampleJP": "その残虐な犯罪は国を衝撃しました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "attenuate",
+      "meaning": "弱める",
+      "pronunciation": "əˈten.ju.eɪt",
+      "audio": "audio/vocab/attenuate.mp3",
+      "example": "The medication attenuates the symptoms.",
+      "exampleJP": "その薬は症状を弱めます。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "augment",
+      "meaning": "増加させる",
+      "pronunciation": "ɔːɡˈment",
+      "audio": "audio/vocab/augment.mp3",
+      "example": "The company will augment its workforce.",
+      "exampleJP": "その企業は労働力を増加させるでしょう。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "auspicious",
+      "meaning": "幸先のよい",
+      "pronunciation": "ɔːˈspɪʃ.əs",
+      "audio": "audio/vocab/auspicious.mp3",
+      "example": "This is an auspicious beginning.",
+      "exampleJP": "これは幸先のよい始まりです。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "austere",
+      "meaning": "厳粛な",
+      "pronunciation": "ɔːˈstɪr",
+      "audio": "audio/vocab/austere.mp3",
+      "example": "The austere classroom had few decorations.",
+      "exampleJP": "その厳粛な教室にはほとんど装飾がありませんでした。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "authenticate",
+      "meaning": "確認する",
+      "pronunciation": "ɔːˈθen.tɪ.keɪt",
+      "audio": "audio/vocab/authenticate.mp3",
+      "example": "We need to authenticate the document.",
+      "exampleJP": "そのドキュメントを確認する必要があります。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "autonomous",
+      "meaning": "自立した",
+      "pronunciation": "ɔːˈtɑː.nə.məs",
+      "audio": "audio/vocab/autonomous.mp3",
+      "example": "The autonomous vehicle drives itself.",
+      "exampleJP": "その自律車両は自分で運転します。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "aversion",
+      "meaning": "厌悪感",
+      "pronunciation": "əˈvɝː.ʒən",
+      "audio": "audio/vocab/aversion.mp3",
+      "example": "He has an aversion to insects.",
+      "exampleJP": "彼は昆虫に対して厌悪感があります。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "avid",
+      "meaning": "熱心な",
+      "pronunciation": "ˈæv.ɪd",
+      "audio": "audio/vocab/avid.mp3",
+      "example": "She is an avid reader.",
+      "exampleJP": "彼女は熱心な読者です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "awry",
+      "meaning": "うまくいかない",
+      "pronunciation": "əˈraɪ",
+      "audio": "audio/vocab/awry.mp3",
+      "example": "The plans went awry unexpectedly.",
+      "exampleJP": "計画は予期せずうまくいきませんでした。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "bane",
+      "meaning": "害",
+      "pronunciation": "beɪn",
+      "audio": "audio/vocab/bane.mp3",
+      "example": "Smoking is the bane of his existence.",
+      "exampleJP": "喫煙は彼の存在の害です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "benevolent",
+      "meaning": "慈善的な",
+      "pronunciation": "bəˈnev.ə.lənt",
+      "audio": "audio/vocab/benevolent.mp3",
+      "example": "The benevolent organization helps the poor.",
+      "exampleJP": "その慈善的な組織は貧困者を助けます。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "bewilder",
+      "meaning": "困惑させる",
+      "pronunciation": "bɪˈwɪl.dɚ",
+      "audio": "audio/vocab/bewilder.mp3",
+      "example": "The complex problem bewildered him.",
+      "exampleJP": "その複雑な問題は彼を困惑させました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "billionaire",
+      "meaning": "億万長者",
+      "pronunciation": "bɪlˈjən.er",
+      "audio": "audio/vocab/billionaire.mp3",
+      "example": "The billionaire donated to charity.",
+      "exampleJP": "その億万長者は慈善事業に寄付しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "blatant",
+      "meaning": "露骨な",
+      "pronunciation": "ˈbleɪ.tənt",
+      "audio": "audio/vocab/blatant.mp3",
+      "example": "That was a blatant lie.",
+      "exampleJP": "それは露骨な嘘でした。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "blasphemy",
+      "meaning": "冒涜",
+      "pronunciation": "ˈblæs.fə.mi",
+      "audio": "audio/vocab/blasphemy.mp3",
+      "example": "Many considered his words blasphemy.",
+      "exampleJP": "多くの人は彼の言葉を冒涜と考えました。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "boisterous",
+      "meaning": "乱暴な",
+      "pronunciation": "ˈbɔɪ.stɚ.əs",
+      "audio": "audio/vocab/boisterous.mp3",
+      "example": "The boisterous crowd cheered loudly.",
+      "exampleJP": "その乱暴な群衆は大声で応援しました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "bombard",
+      "meaning": "爆撃する",
+      "pronunciation": "bɑːmˈbɑːrd",
+      "audio": "audio/vocab/bombard.mp3",
+      "example": "They bombarded the city with missiles.",
+      "exampleJP": "彼らはその都市にミサイルで爆撃しました。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "botch",
+      "meaning": "台無しにする",
+      "pronunciation": "bɑːtʃ",
+      "audio": "audio/vocab/botch.mp3",
+      "example": "He botched the opportunity.",
+      "exampleJP": "彼はその機会を台無しにしました。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "bourgeois",
+      "meaning": "ブルジョア的な",
+      "pronunciation": "bʊrˈʒwɑː",
+      "audio": "audio/vocab/bourgeois.mp3",
+      "example": "He has bourgeois values.",
+      "exampleJP": "彼はブルジョア的な価値観を持っています。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "bracketed",
+      "meaning": "括弧で囲まれた",
+      "pronunciation": "ˈbræk.ɪ.tɪd",
+      "audio": "audio/vocab/bracketed.mp3",
+      "example": "The bracketed text should be ignored.",
+      "exampleJP": "括弧で囲まれたテキストは無視されるべきです。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "brevity",
+      "meaning": "簡潔さ",
+      "pronunciation": "ˈbrev.ə.ti",
+      "audio": "audio/vocab/brevity.mp3",
+      "example": "The brevity of his speech was appreciated.",
+      "exampleJP": "彼のスピーチの簡潔さは高く評価されました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "brittle",
+      "meaning": "脆い",
+      "pronunciation": "ˈbrɪt.əl",
+      "audio": "audio/vocab/brittle.mp3",
+      "example": "The brittle glass broke easily.",
+      "exampleJP": "その脆いガラスは簡単に割れました。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
     }
   ],
   "英検1級": [
@@ -251,6 +2571,256 @@
       "exampleJP": "新しい法律に対して広範な反対意見がありました。",
       "partOfSpeech": "noun",
       "frequency": "medium"
+    },
+    {
+      "word": "abscond",
+      "meaning": "逃げる",
+      "pronunciation": "əbˈskɑːnd",
+      "audio": "audio/vocab/abscond.mp3",
+      "example": "The thief absconded with the stolen goods.",
+      "exampleJP": "その泥棒は盗まれた品を持って逃げました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "abstemious",
+      "meaning": "節度ある",
+      "pronunciation": "æbˈstiː.mi.əs",
+      "audio": "audio/vocab/abstemious.mp3",
+      "example": "He leads an abstemious lifestyle.",
+      "exampleJP": "彼は節度ある生活を送っています。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "abstinence",
+      "meaning": "禁欲",
+      "pronunciation": "ˈæbs.tɪ.nəns",
+      "audio": "audio/vocab/abstinence.mp3",
+      "example": "He practices abstinence from alcohol.",
+      "exampleJP": "彼はアルコール禁欲を実践しています。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "abstruse",
+      "meaning": "難解な",
+      "pronunciation": "æbˈstruːs",
+      "audio": "audio/vocab/abstruse.mp3",
+      "example": "The abstruse theory was difficult to understand.",
+      "exampleJP": "その難解な理論は理解するのが難しかったです。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "accrue",
+      "meaning": "蓄積する",
+      "pronunciation": "əˈkruː",
+      "audio": "audio/vocab/accrue.mp3",
+      "example": "Interest accrues on your savings account.",
+      "exampleJP": "あなたの貯蓄口座に利息が蓄積します。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acerbic",
+      "meaning": "辛辣な",
+      "pronunciation": "əˈsɝː.bɪk",
+      "audio": "audio/vocab/acerbic.mp3",
+      "example": "His acerbic comments hurt her feelings.",
+      "exampleJP": "彼の辛辣なコメントは彼女の気持ちを傷つけました。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "acrimonious",
+      "meaning": "怨恨に満ちた",
+      "pronunciation": "ˌæk.rɪˈmoʊ.ni.əs",
+      "audio": "audio/vocab/acrimonious.mp3",
+      "example": "Their acrimonious divorce was bitter.",
+      "exampleJP": "彼らの怨恨に満ちた離婚は苦いものでした。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "admonish",
+      "meaning": "忠告する",
+      "pronunciation": "ədˈmɑː.nɪʃ",
+      "audio": "audio/vocab/admonish.mp3",
+      "example": "The teacher admonished the students for being late.",
+      "exampleJP": "先生は遅刻したことで生徒を忠告しました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "adulterate",
+      "meaning": "混ぜ物をする",
+      "pronunciation": "əˈdʌl.tə.reɪt",
+      "audio": "audio/vocab/adulterate.mp3",
+      "example": "They adulterated the food with harmful chemicals.",
+      "exampleJP": "彼らは有害な化学物質で食べ物に混ぜ物をしました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "admonition",
+      "meaning": "忠告",
+      "pronunciation": "ˌæd.məˈnɪʃ.ən",
+      "audio": "audio/vocab/admonition.mp3",
+      "example": "He gave a stern admonition to the staff.",
+      "exampleJP": "彼はスタッフに厳しい忠告を与えました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "aeroplane",
+      "meaning": "飛行機",
+      "pronunciation": "ˈer.oʊ.pleɪn",
+      "audio": "audio/vocab/aeroplane.mp3",
+      "example": "The aeroplane landed safely.",
+      "exampleJP": "その飛行機は安全に着陸しました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "affront",
+      "meaning": "侮辱",
+      "pronunciation": "əˈfrʌnt",
+      "audio": "audio/vocab/affront.mp3",
+      "example": "He took the remark as an affront.",
+      "exampleJP": "彼はそのコメントを侮辱と受け取りました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "agglomeration",
+      "meaning": "凝集",
+      "pronunciation": "əˌɡlɑː.məˈreɪ.ʃən",
+      "audio": "audio/vocab/agglomeration.mp3",
+      "example": "The agglomeration of people created traffic.",
+      "exampleJP": "人の凝集は交通を作成しました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "aggrandize",
+      "meaning": "増大させる",
+      "pronunciation": "əˈɡræn.daɪz",
+      "audio": "audio/vocab/aggrandize.mp3",
+      "example": "He tried to aggrandize his wealth.",
+      "exampleJP": "彼は彼の富を増大させようとしました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "aggregate",
+      "meaning": "集計",
+      "pronunciation": "ˈæɡ.rə.ɡɪt",
+      "audio": "audio/vocab/aggregate.mp3",
+      "example": "The aggregate of all costs was significant.",
+      "exampleJP": "すべてのコストの集計は重要でした。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "agility",
+      "meaning": "敏捷性",
+      "pronunciation": "əˈdʒɪl.ə.ti",
+      "audio": "audio/vocab/agility.mp3",
+      "example": "The dancer moved with agility.",
+      "exampleJP": "ダンサーは敏捷性を持って動きました。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "agonize",
+      "meaning": "苦しむ",
+      "pronunciation": "ˈæɡ.ə.naɪz",
+      "audio": "audio/vocab/agonize.mp3",
+      "example": "She agonized over the decision.",
+      "exampleJP": "彼女はその決定について苦しみました。",
+      "partOfSpeech": "verb",
+      "frequency": "low"
+    },
+    {
+      "word": "agrarian",
+      "meaning": "農業の",
+      "pronunciation": "əˈɡrer.i.ən",
+      "audio": "audio/vocab/agrarian.mp3",
+      "example": "The agrarian society depended on farming.",
+      "exampleJP": "その農業社会は農業に依存していました。",
+      "partOfSpeech": "adjective",
+      "frequency": "low"
+    },
+    {
+      "word": "ailment",
+      "meaning": "病気",
+      "pronunciation": "ˈeɪl.mənt",
+      "audio": "audio/vocab/ailment.mp3",
+      "example": "He suffered from a mysterious ailment.",
+      "exampleJP": "彼は謎の病気に苦しみました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "alacrity",
+      "meaning": "敏速",
+      "pronunciation": "əˈlæk.rə.ti",
+      "audio": "audio/vocab/alacrity.mp3",
+      "example": "He accepted the job with alacrity.",
+      "exampleJP": "彼は敏速にその仕事を受け入れました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "albatross",
+      "meaning": "アホウドリ",
+      "pronunciation": "ˈæl.bə.trɔːs",
+      "audio": "audio/vocab/albatross.mp3",
+      "example": "The albatross is a large seabird.",
+      "exampleJP": "アホウドリは大きな海鳥です。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "alchemy",
+      "meaning": "錬金術",
+      "pronunciation": "ˈæl.kə.mi",
+      "audio": "audio/vocab/alchemy.mp3",
+      "example": "The alchemists tried to turn lead into gold.",
+      "exampleJP": "錬金術師は鉛を金に変えようとしました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "alcove",
+      "meaning": "暖炉付きの小部屋",
+      "pronunciation": "ˈæl.koʊv",
+      "audio": "audio/vocab/alcove.mp3",
+      "example": "She read in the alcove of the library.",
+      "exampleJP": "彼女は図書館の暖炉付きの小部屋で読みました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "alder",
+      "meaning": "ハンノキ",
+      "pronunciation": "ˈɔːl.dɚ",
+      "audio": "audio/vocab/alder.mp3",
+      "example": "The alder tree grows near water.",
+      "exampleJP": "ハンノキは水の近くで育ちます。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
+    },
+    {
+      "word": "ale",
+      "meaning": "エール（ビール）",
+      "pronunciation": "eɪl",
+      "audio": "audio/vocab/ale.mp3",
+      "example": "He ordered a glass of ale.",
+      "exampleJP": "彼はグラスのエールを注文しました。",
+      "partOfSpeech": "noun",
+      "frequency": "low"
     }
   ]
 }
