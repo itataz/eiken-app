@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://eiken-app.netlify.app/sitemap.xml
+
+# Disallow expansion scripts (not needed for crawling)
+Disallow: /expand-*.js
+
+# Allow all CSS and JS for proper rendering
+Allow: /style.css
+Allow: /js/
+
+# Allow data files
+Allow: /data/
