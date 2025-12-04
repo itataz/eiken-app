@@ -1225,3 +1225,535 @@ body {
         font-size: 0.8em;
     }
 }
+
+/* ============================
+   New Features Styling
+   ============================ */
+
+/* Interview Practice */
+.interview-section {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.section-description {
+    color: #666;
+    margin-bottom: 20px;
+    font-size: 0.95em;
+}
+
+.interview-level-select, .writing-level-select, .planner-setup {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.level-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.level-btn {
+    padding: 12px 24px;
+    background: #fff;
+    border: 2px solid #007bff;
+    color: #007bff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.level-btn:hover {
+    background: #007bff;
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+.interview-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.interview-step {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.step-number {
+    background: #007bff;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.step-text {
+    flex: 1;
+}
+
+.interview-card {
+    background: #fff;
+    border: 2px solid #ddd;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px 0;
+}
+
+.interview-instruction {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.interview-passage {
+    background: #f8f9fa;
+    padding: 20px;
+    border-left: 4px solid #007bff;
+    border-radius: 4px;
+    line-height: 1.8;
+    margin: 15px 0;
+}
+
+.interview-image {
+    font-size: 3em;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.interview-questions {
+    margin-top: 30px;
+}
+
+.current-question {
+    background: #fff;
+    border: 2px solid #007bff;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.question-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.question-number {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.question-type {
+    background: #e7f3ff;
+    color: #007bff;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+}
+
+.question-text {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 15px 0;
+}
+
+.sample-answer-hint {
+    margin-top: 15px;
+    padding: 15px;
+    background: #f0f8ff;
+    border-radius: 8px;
+}
+
+.sample-answer-hint summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #007bff;
+}
+
+.sample-answer-hint p {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #d0e7ff;
+}
+
+.recording-controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.recording-status {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 6px;
+    font-weight: 600;
+}
+
+.btn-danger {
+    background: #dc3545;
+    color: #fff;
+}
+
+.btn-danger:hover {
+    background: #c82333;
+}
+
+.btn-secondary {
+    background: #6c757d;
+    color: #fff;
+}
+
+.btn-secondary:hover {
+    background: #5a6268;
+}
+
+.interview-tips {
+    background: #fff9e6;
+    border-left: 4px solid #ffc107;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.interview-tips h4 {
+    color: #f57c00;
+    margin-bottom: 15px;
+}
+
+.interview-tips ul {
+    list-style-position: inside;
+    line-height: 1.8;
+}
+
+.completion-message {
+    text-align: center;
+    padding: 40px;
+}
+
+.completion-message h3 {
+    color: #28a745;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Writing Practice */
+.writing-section {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.writing-prompt {
+    background: #fff;
+    border: 2px solid #007bff;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px 0;
+}
+
+.topic-en {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #007bff;
+    margin: 15px 0;
+}
+
+.topic-jp {
+    color: #666;
+    font-size: 1em;
+}
+
+.writing-requirements ul {
+    list-style-position: inside;
+    line-height: 1.8;
+    margin: 15px 0;
+}
+
+.points-list {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.points-list li {
+    list-style: none;
+    background: #e7f3ff;
+    padding: 8px 15px;
+    border-radius: 20px;
+    color: #007bff;
+}
+
+.word-target {
+    background: #fff3cd;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #856404;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.writing-area {
+    margin: 30px 0;
+}
+
+.writing-textarea {
+    width: 100%;
+    min-height: 300px;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 1em;
+    line-height: 1.8;
+    resize: vertical;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.writing-textarea:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.writing-stats {
+    display: flex;
+    gap: 20px;
+    margin: 15px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 6px;
+}
+
+.writing-stats span {
+    font-weight: 600;
+}
+
+.writing-samples {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 25px;
+    margin: 30px 0;
+}
+
+.sample-answer {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #28a745;
+}
+
+.sample-answer pre {
+    white-space: pre-wrap;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    line-height: 1.8;
+    font-size: 0.95em;
+}
+
+.writing-tips {
+    background: #e8f5e9;
+    border-left: 4px solid #28a745;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.writing-tips h4 {
+    color: #2e7d32;
+    margin-bottom: 15px;
+}
+
+/* Study Planner */
+.planner-section {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.goal-settings {
+    display: grid;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.form-group label {
+    font-weight: 600;
+    color: #333;
+}
+
+.form-control {
+    padding: 12px;
+    border: 2px solid #ddd;
+    border-radius: 6px;
+    font-size: 1em;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.plan-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.plan-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.stat-label {
+    font-size: 0.9em;
+    opacity: 0.9;
+}
+
+.stat-value {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.weeks-container {
+    display: grid;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.week-card {
+    background: #fff;
+    border: 2px solid #007bff;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.week-card h5 {
+    color: #007bff;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e7f3ff;
+}
+
+.task-list {
+    list-style-position: inside;
+    line-height: 1.8;
+}
+
+.checklist-items {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.checklist-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px;
+    background: #fff;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.checklist-item:hover {
+    border-color: #007bff;
+    transform: translateX(5px);
+}
+
+.checklist-item.completed {
+    background: #f0f8ff;
+    border-color: #28a745;
+}
+
+.checklist-item.completed label {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.checklist-item input[type="checkbox"] {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.checklist-item label {
+    flex: 1;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.planner-tips {
+    background: #e3f2fd;
+    border-left: 4px solid #2196f3;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.planner-tips h4 {
+    color: #1565c0;
+    margin-bottom: 15px;
+}
+
+/* Responsive adjustments for new features */
+@media (max-width: 768px) {
+    .level-buttons {
+        flex-direction: column;
+    }
+
+    .level-btn {
+        width: 100%;
+    }
+
+    .recording-controls {
+        flex-direction: column;
+    }
+
+    .recording-controls button {
+        width: 100%;
+    }
+
+    .plan-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .writing-stats {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

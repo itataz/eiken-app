@@ -9,7 +9,13 @@
       "Bash(git add:*)",
       "Bash(git commit -m \"$(cat <<''EOF''\nAdd Web Speech API audio functionality for vocabulary learning\n\n- Implement text-to-speech for word pronunciation\n- Add \"発音を聞く\" (Listen to pronunciation) button on flashcards\n- Add \"例文を聞く\" (Listen to example) button for example sentences\n- Use English voice (en-US) with optimized rate for clarity\n- Works on all modern browsers that support Web Speech API\n- Fallback message for unsupported browsers\n\nBenefits:\n- Learners can hear correct pronunciation without audio files\n- No need to host/manage audio assets\n- Instant playback with browser-native voices\n- Enhances listening comprehension practice\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
       "Bash(git push)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(python3:*)",
+      "Bash(findstr:*)",
+      "Bash(node expand-questions.js:*)",
+      "Bash(node expand-vocabulary.js:*)",
+      "Bash(node expand-all-content.js:*)",
+      "Bash(node expand-all-vocabulary.js:*)"
     ],
     "deny": [],
     "ask": []

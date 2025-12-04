@@ -49,6 +49,9 @@
         <nav class="main-nav">
             <button class="nav-btn active" data-view="home">ホーム</button>
             <button class="nav-btn" data-view="vocabulary">単語学習</button>
+            <button class="nav-btn" data-view="interview">二次試験対策</button>
+            <button class="nav-btn" data-view="writing">ライティング</button>
+            <button class="nav-btn" data-view="planner">学習計画</button>
             <button class="nav-btn" data-view="dashboard">学習記録</button>
             <button class="nav-btn" data-view="badges">バッジ</button>
         </nav>
@@ -361,6 +364,170 @@
         </section>
     </div>
 
+    <!-- Interview Practice View -->
+    <div id="interview-view" class="view-container" style="display: none;">
+        <section class="interview-section">
+            <h2>二次試験対策（面接練習）</h2>
+            <p class="section-description">3級以上の二次試験（面接）の練習ができます。音声録音機能で自分の回答を確認できます。</p>
+
+            <div class="interview-level-select">
+                <h3>級を選択</h3>
+                <div class="level-buttons">
+                    <button class="level-btn" data-level="英検3級">3級</button>
+                    <button class="level-btn" data-level="英検準2級">準2級</button>
+                    <button class="level-btn" data-level="英検2級">2級</button>
+                    <button class="level-btn" data-level="英検準1級">準1級</button>
+                    <button class="level-btn" data-level="英検1級">1級</button>
+                </div>
+            </div>
+
+            <div id="interview-content" style="display: none;">
+                <div class="interview-flow">
+                    <h3>面接の流れ</h3>
+                    <div id="interview-steps" class="interview-steps"></div>
+                </div>
+
+                <div class="interview-practice">
+                    <h3>模擬面接</h3>
+                    <div id="interview-question-card" class="interview-card">
+                        <p class="interview-instruction">問題カードを受け取り、20秒間黙読してください。</p>
+                        <div id="interview-passage" class="interview-passage"></div>
+                        <div id="interview-image" class="interview-image"></div>
+                    </div>
+
+                    <div class="interview-questions">
+                        <div id="current-interview-question" class="current-question"></div>
+                        <div class="recording-controls">
+                            <button id="start-recording-btn" class="btn btn-primary">🎤 録音開始</button>
+                            <button id="stop-recording-btn" class="btn btn-danger" style="display: none;">⏹️ 録音停止</button>
+                            <button id="play-recording-btn" class="btn btn-secondary" style="display: none;">▶️ 再生</button>
+                            <button id="next-interview-question-btn" class="btn">次の質問へ →</button>
+                        </div>
+                        <div id="recording-status" class="recording-status"></div>
+                        <audio id="recorded-audio" controls style="display: none; width: 100%; margin-top: 10px;"></audio>
+                    </div>
+
+                    <div class="interview-tips">
+                        <h4>💡 面接のコツ</h4>
+                        <ul>
+                            <li>10秒以上の沈黙は避けましょう</li>
+                            <li>聞き返しは2回までにしましょう</li>
+                            <li>"I don't know" と言わないようにしましょう</li>
+                            <li>はっきりと自信を持って話しましょう</li>
+                            <li>アイコンタクトを忘れずに</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Writing Practice View -->
+    <div id="writing-view" class="view-container" style="display: none;">
+        <section class="writing-section">
+            <h2>ライティング練習</h2>
+            <p class="section-description">2級以上で出題される英作文の練習ができます。</p>
+
+            <div class="writing-level-select">
+                <h3>級を選択</h3>
+                <div class="level-buttons">
+                    <button class="level-btn" data-level="英検2級">2級</button>
+                    <button class="level-btn" data-level="英検準1級">準1級</button>
+                    <button class="level-btn" data-level="英検1級">1級</button>
+                </div>
+            </div>
+
+            <div id="writing-content" style="display: none;">
+                <div class="writing-prompt">
+                    <h3>課題</h3>
+                    <div id="writing-topic" class="writing-topic"></div>
+                    <div id="writing-requirements" class="writing-requirements"></div>
+                </div>
+
+                <div class="writing-area">
+                    <h3>あなたの回答</h3>
+                    <textarea id="writing-textarea" class="writing-textarea" placeholder="ここに英作文を書いてください..."></textarea>
+                    <div class="writing-stats">
+                        <span>文字数: <span id="char-count">0</span></span>
+                        <span>単語数: <span id="word-count">0</span></span>
+                    </div>
+                    <button id="save-writing-btn" class="btn btn-primary">💾 保存する</button>
+                    <button id="clear-writing-btn" class="btn btn-secondary">🗑️ クリア</button>
+                </div>
+
+                <div class="writing-samples">
+                    <h3>模範解答例</h3>
+                    <div id="sample-answer" class="sample-answer"></div>
+                </div>
+
+                <div class="writing-tips">
+                    <h4>💡 ライティングのコツ</h4>
+                    <ul>
+                        <li>序論・本論・結論の構成を意識しましょう</li>
+                        <li>具体例を挙げて説明しましょう</li>
+                        <li>接続詞を使って論理的に書きましょう</li>
+                        <li>スペルや文法に注意しましょう</li>
+                        <li>指定された語数を守りましょう</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Study Planner View -->
+    <div id="planner-view" class="view-container" style="display: none;">
+        <section class="planner-section">
+            <h2>学習計画</h2>
+            <p class="section-description">試験日までの学習スケジュールを立てて、効率的に準備しましょう。</p>
+
+            <div class="planner-setup">
+                <h3>目標設定</h3>
+                <div class="goal-settings">
+                    <div class="form-group">
+                        <label for="target-level">目標級：</label>
+                        <select id="target-level" class="form-control">
+                            <option value="">選択してください</option>
+                            <option value="英検5級">5級</option>
+                            <option value="英検4級">4級</option>
+                            <option value="英検3級">3級</option>
+                            <option value="英検準2級">準2級</option>
+                            <option value="英検2級">2級</option>
+                            <option value="英検準1級">準1級</option>
+                            <option value="英検1級">1級</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exam-date">試験日：</label>
+                        <input type="date" id="exam-date" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="daily-study-time">1日の学習時間（分）：</label>
+                        <input type="number" id="daily-study-time" class="form-control" value="30" min="10" max="300">
+                    </div>
+                    <button id="create-plan-btn" class="btn btn-primary">📅 学習計画を作成</button>
+                </div>
+            </div>
+
+            <div id="study-plan" style="display: none;">
+                <h3>あなたの学習計画</h3>
+                <div id="plan-summary" class="plan-summary"></div>
+                <div id="weekly-plan" class="weekly-plan"></div>
+                <div id="study-checklist" class="study-checklist"></div>
+            </div>
+
+            <div class="planner-tips">
+                <h4>💡 効果的な学習計画のコツ</h4>
+                <ul>
+                    <li>毎日少しずつ学習する習慣をつけましょう</li>
+                    <li>弱点分野を重点的に学習しましょう</li>
+                    <li>試験1ヶ月前からは過去問中心に</li>
+                    <li>リスニングは毎日続けることが重要</li>
+                    <li>定期的に模擬試験で実力チェック</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
     <div id="loading-spinner" class="loading-spinner" style="display: none;">
         <div class="spinner"></div>
         <p>準備中...</p>
@@ -370,6 +537,9 @@
     <script src="js/app.js"></script>
     <script src="js/quiz.js"></script>
     <script src="js/vocabulary.js"></script>
+    <script src="js/interview.js"></script>
+    <script src="js/writing.js"></script>
+    <script src="js/planner.js"></script>
     <script src="js/dashboard.js"></script>
     <script src="js/badges.js"></script>
     <script src="js/spaced-repetition.js"></script>

@@ -13,6 +13,26 @@ class EikenApp {
         this.loadScores();
         await this.loadLevelStats();
         this.showDailyRecommendation();
+
+        // Initialize new modules
+        this.initializeModules();
+    }
+
+    initializeModules() {
+        // Initialize interview practice
+        if (typeof InterviewPractice !== 'undefined') {
+            window.interview = new InterviewPractice(this);
+        }
+
+        // Initialize writing practice
+        if (typeof WritingPractice !== 'undefined') {
+            window.writing = new WritingPractice(this);
+        }
+
+        // Initialize study planner
+        if (typeof StudyPlanner !== 'undefined') {
+            window.planner = new StudyPlanner(this);
+        }
     }
 
     setupEventListeners() {
@@ -337,6 +357,15 @@ class EikenApp {
                 if (window.badgesModule) {
                     window.badgesModule.loadBadges();
                 }
+                break;
+            case 'interview':
+                // Interview practice module handles its own initialization
+                break;
+            case 'writing':
+                // Writing practice module handles its own initialization
+                break;
+            case 'planner':
+                // Study planner module handles its own initialization
                 break;
         }
     }
