@@ -4,7 +4,12 @@
       {
         "type": "multiple-choice",
         "question": "I ( ) a dog. His name is Max.",
-        "choices": ["have", "has", "had", "having"],
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
         "answer": "have",
         "category": "vocabulary",
         "difficulty": 1
@@ -12,7 +17,12 @@
       {
         "type": "multiple-choice",
         "question": "My mother ( ) me a new bike for my birthday.",
-        "choices": ["buy", "buys", "bought", "buying"],
+        "choices": [
+          "buy",
+          "buys",
+          "bought",
+          "buying"
+        ],
         "answer": "bought",
         "category": "vocabulary",
         "difficulty": 1
@@ -20,8 +30,364 @@
       {
         "type": "multiple-choice",
         "question": "A: What time is it? B: It's ( ) o'clock.",
-        "choices": ["three", "third", "tree", "there"],
+        "choices": [
+          "three",
+          "third",
+          "tree",
+          "there"
+        ],
         "answer": "three",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I usually eat ( ) for breakfast.",
+        "choices": [
+          "eggs",
+          "egg",
+          "egging",
+          "egged"
+        ],
+        "answer": "eggs",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My sister likes ( ) music.",
+        "choices": [
+          "listen",
+          "listening",
+          "listens",
+          "listened"
+        ],
+        "answer": "listening",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Can you ( ) me with my homework?",
+        "choices": [
+          "help",
+          "helps",
+          "helping",
+          "helped"
+        ],
+        "answer": "help",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I have a ( ) cat and a black dog.",
+        "choices": [
+          "white",
+          "whiten",
+          "whitening",
+          "whitened"
+        ],
+        "answer": "white",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is your ( ) animal?",
+        "choices": [
+          "favorite",
+          "favourite",
+          "most favorite",
+          "more favorite"
+        ],
+        "answer": "favorite",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) to the library last Saturday.",
+        "choices": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "answer": "went",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I like to play ( ) with my friends.",
+        "choices": [
+          "baseball",
+          "baseballs",
+          "baseball playing",
+          "baseball game"
+        ],
+        "answer": "baseball",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "The ( ) is very big and beautiful.",
+        "choices": [
+          "tree",
+          "trees",
+          "trees are",
+          "tree is"
+        ],
+        "answer": "tree",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I need to buy ( ) pencils for school.",
+        "choices": [
+          "five",
+          "fifth",
+          "fives",
+          "fivth"
+        ],
+        "answer": "five",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My father ( ) a newspaper every morning.",
+        "choices": [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        "answer": "reads",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) a picnic in the park yesterday.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "had",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Can you ( ) English?",
+        "choices": [
+          "speak",
+          "speaks",
+          "speaking",
+          "speaked"
+        ],
+        "answer": "speak",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My school is ( ) from my house.",
+        "choices": [
+          "near",
+          "nearly",
+          "nearing",
+          "nearest"
+        ],
+        "answer": "near",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I like eating ( ).",
+        "choices": [
+          "apple",
+          "apples",
+          "apple eating",
+          "to eating apples"
+        ],
+        "answer": "apples",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What do you ( ) for lunch?",
+        "choices": [
+          "eat",
+          "eats",
+          "eaten",
+          "eating"
+        ],
+        "answer": "eat",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) to music every day.",
+        "choices": [
+          "listen",
+          "listens",
+          "listened",
+          "listening"
+        ],
+        "answer": "listens",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) my teeth before going to bed.",
+        "choices": [
+          "brush",
+          "brushes",
+          "brushed",
+          "brushing"
+        ],
+        "answer": "brush",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "This is ( ) book.",
+        "choices": [
+          "my",
+          "mine",
+          "me",
+          "I"
+        ],
+        "answer": "my",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) are you from?",
+        "choices": [
+          "Where",
+          "What",
+          "Who",
+          "When"
+        ],
+        "answer": "Where",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) watching TV now.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "am",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "There ( ) a cat under the table.",
+        "choices": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) two sisters.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "has",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) to school by bus.",
+        "choices": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "answer": "go",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My birthday is ( ) May.",
+        "choices": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": "in",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I want ( ) drink some water.",
+        "choices": [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        "answer": "to",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) bag is this?",
+        "choices": [
+          "Whose",
+          "Who",
+          "What",
+          "Where"
+        ],
+        "answer": "Whose",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) soccer every Sunday.",
+        "choices": [
+          "play",
+          "plays",
+          "played",
+          "playing"
+        ],
+        "answer": "plays",
         "category": "vocabulary",
         "difficulty": 1
       }
@@ -30,7 +396,12 @@
       {
         "type": "multiple-choice",
         "question": "She ( ) to school every day.",
-        "choices": ["go", "goes", "going", "went"],
+        "choices": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
         "answer": "goes",
         "category": "grammar",
         "difficulty": 1
@@ -38,8 +409,377 @@
       {
         "type": "multiple-choice",
         "question": "There ( ) many books on the desk.",
-        "choices": ["is", "are", "am", "be"],
+        "choices": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
         "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) you play soccer?",
+        "choices": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) a student.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "am",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) a teacher.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "They ( ) students.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) they play tennis?",
+        "choices": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) tennis yesterday.",
+        "choices": [
+          "play",
+          "plays",
+          "played",
+          "playing"
+        ],
+        "answer": "played",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) a cat.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "has",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) to the park tomorrow.",
+        "choices": [
+          "go",
+          "goes",
+          "going",
+          "will go"
+        ],
+        "answer": "will go",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) is your name?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "What",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) do you live?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "Where",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) is your teacher?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "Who",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) a new car.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "have",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) time is it?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "What",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "They ( ) running in the park.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) watching TV.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) reading a book.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "am",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) like sports.",
+        "choices": [
+          "don't",
+          "doesn't",
+          "didn't",
+          "doing"
+        ],
+        "answer": "doesn't",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) you have a pet?",
+        "choices": [
+          "Do",
+          "Does",
+          "Did",
+          "Are"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "This is ( ) pen.",
+        "choices": [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        "answer": "a",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I have ( ) apple.",
+        "choices": [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        "answer": "an",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) sun is bright today.",
+        "choices": [
+          "A",
+          "An",
+          "The",
+          "One"
+        ],
+        "answer": "The",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My mother ( ) cooking now.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) old are you?",
+        "choices": [
+          "What",
+          "How",
+          "Who",
+          "Where"
+        ],
+        "answer": "How",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I don't ( ) any money.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "have",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) play the piano.",
+        "choices": [
+          "can",
+          "cans",
+          "could",
+          "canning"
+        ],
+        "answer": "can",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) study English.",
+        "choices": [
+          "must",
+          "musts",
+          "musting",
+          "musted"
+        ],
+        "answer": "must",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) many students are there?",
+        "choices": [
+          "What",
+          "How",
+          "Who",
+          "Where"
+        ],
+        "answer": "How",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) born in 2010.",
+        "choices": [
+          "am",
+          "is",
+          "was",
+          "were"
+        ],
+        "answer": "was",
         "category": "grammar",
         "difficulty": 1
       }
@@ -51,13 +791,555 @@
         "subQuestions": [
           {
             "question": "How old is Tom?",
-            "choices": ["10 years old", "11 years old", "12 years old", "13 years old"],
+            "choices": [
+              "10 years old",
+              "11 years old",
+              "12 years old",
+              "13 years old"
+            ],
             "answer": "12 years old"
           },
           {
             "question": "What does Tom like to do on weekends?",
-            "choices": ["Playing soccer", "Reading books", "Watching TV", "Swimming"],
+            "choices": [
+              "Playing soccer",
+              "Reading books",
+              "Watching TV",
+              "Swimming"
+            ],
             "answer": "Playing soccer"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My school is near my house. I go to school by bus every day. My favorite subject is English. I also like mathematics and science. I have five friends. We play together after school.",
+        "subQuestions": [
+          {
+            "question": "How does the student go to school?",
+            "choices": [
+              "By car",
+              "By bus",
+              "By train",
+              "On foot"
+            ],
+            "answer": "By bus"
+          },
+          {
+            "question": "What is the student's favorite subject?",
+            "choices": [
+              "English",
+              "Mathematics",
+              "Science",
+              "Art"
+            ],
+            "answer": "English"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My family likes going to the beach. We go there in summer. We play in the water and eat ice cream. My father plays volleyball. My mother reads a book. My sister and I build sandcastles.",
+        "subQuestions": [
+          {
+            "question": "When does the family go to the beach?",
+            "choices": [
+              "In spring",
+              "In summer",
+              "In autumn",
+              "In winter"
+            ],
+            "answer": "In summer"
+          },
+          {
+            "question": "What does the father do at the beach?",
+            "choices": [
+              "Reads a book",
+              "Plays volleyball",
+              "Builds sandcastles",
+              "Eats ice cream"
+            ],
+            "answer": "Plays volleyball"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "John has a pet dog named Bingo. Bingo is brown and very friendly. Every day, John takes Bingo for a walk in the park. Bingo likes to play fetch with a ball. John also gives Bingo food and water.",
+        "subQuestions": [
+          {
+            "question": "What color is Bingo?",
+            "choices": [
+              "White",
+              "Brown",
+              "Black",
+              "Yellow"
+            ],
+            "answer": "Brown"
+          },
+          {
+            "question": "What game does Bingo like to play?",
+            "choices": [
+              "Catch",
+              "Hide and seek",
+              "Fetch",
+              "Tag"
+            ],
+            "answer": "Fetch"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I have a birthday party on Saturday. My friends are coming to my house. We will eat cake and ice cream. We will play games and sing songs. It will be fun!",
+        "subQuestions": [
+          {
+            "question": "When is the birthday party?",
+            "choices": [
+              "Sunday",
+              "Saturday",
+              "Friday",
+              "Monday"
+            ],
+            "answer": "Saturday"
+          },
+          {
+            "question": "What will they do at the party?",
+            "choices": [
+              "Watch movies",
+              "Eat cake and ice cream",
+              "Go shopping",
+              "Read books"
+            ],
+            "answer": "Eat cake and ice cream"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Mary is a student. She studies hard every day. She goes to school in the morning and comes home in the afternoon. She does her homework after school. In the evening, she watches TV for a little while.",
+        "subQuestions": [
+          {
+            "question": "When does Mary go to school?",
+            "choices": [
+              "In the afternoon",
+              "In the morning",
+              "In the evening",
+              "At night"
+            ],
+            "answer": "In the morning"
+          },
+          {
+            "question": "When does Mary do her homework?",
+            "choices": [
+              "Before school",
+              "In the morning",
+              "After school",
+              "In the evening"
+            ],
+            "answer": "After school"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "In summer, I like to swim at the pool. The water is cool and clean. Many children come to the pool. We play water games and have fun. I also eat watermelon after swimming.",
+        "subQuestions": [
+          {
+            "question": "Where does the child swim?",
+            "choices": [
+              "At the beach",
+              "At the pool",
+              "At the river",
+              "In the ocean"
+            ],
+            "answer": "At the pool"
+          },
+          {
+            "question": "What does the child eat after swimming?",
+            "choices": [
+              "Ice cream",
+              "Candy",
+              "Watermelon",
+              "Cake"
+            ],
+            "answer": "Watermelon"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I have a small room. My bed is next to the window. My desk is in the corner. I have a lamp on my desk. My bookshelf is on the wall. I like my room very much.",
+        "subQuestions": [
+          {
+            "question": "Where is the bed?",
+            "choices": [
+              "Next to the door",
+              "Next to the window",
+              "In the corner",
+              "On the wall"
+            ],
+            "answer": "Next to the window"
+          },
+          {
+            "question": "Where is the desk?",
+            "choices": [
+              "Next to the window",
+              "Next to the bed",
+              "In the corner",
+              "On the wall"
+            ],
+            "answer": "In the corner"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My grandmother likes cooking. She makes delicious food. Every Sunday, I visit her house. She teaches me how to cook. We make cookies and cakes together. It is very fun.",
+        "subQuestions": [
+          {
+            "question": "What does the grandmother like to do?",
+            "choices": [
+              "Dancing",
+              "Cooking",
+              "Singing",
+              "Drawing"
+            ],
+            "answer": "Cooking"
+          },
+          {
+            "question": "When does the child visit the grandmother?",
+            "choices": [
+              "Every Monday",
+              "Every Saturday",
+              "Every Sunday",
+              "Every Friday"
+            ],
+            "answer": "Every Sunday"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Tom is a football player. He plays for a big team. He practices every day. He is very good at football. Many people like watching him play. He is famous.",
+        "subQuestions": [
+          {
+            "question": "What sport does Tom play?",
+            "choices": [
+              "Basketball",
+              "Football",
+              "Tennis",
+              "Baseball"
+            ],
+            "answer": "Football"
+          },
+          {
+            "question": "How often does Tom practice?",
+            "choices": [
+              "Once a week",
+              "Twice a week",
+              "Every day",
+              "On weekends"
+            ],
+            "answer": "Every day"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Lisa loves animals. She has three pets at home. She has a dog, a cat, and a bird. She feeds them every morning. She plays with them after school. Her favorite pet is the dog.",
+        "subQuestions": [
+          {
+            "question": "How many pets does Lisa have?",
+            "choices": [
+              "Two",
+              "Three",
+              "Four",
+              "Five"
+            ],
+            "answer": "Three"
+          },
+          {
+            "question": "What is Lisa's favorite pet?",
+            "choices": [
+              "The cat",
+              "The bird",
+              "The dog",
+              "The fish"
+            ],
+            "answer": "The dog"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Every morning, I wake up at 7 o'clock. I brush my teeth and wash my face. Then I eat breakfast with my family. After breakfast, I go to school. School starts at 8:30.",
+        "subQuestions": [
+          {
+            "question": "What time does the person wake up?",
+            "choices": [
+              "6 o'clock",
+              "7 o'clock",
+              "8 o'clock",
+              "9 o'clock"
+            ],
+            "answer": "7 o'clock"
+          },
+          {
+            "question": "What time does school start?",
+            "choices": [
+              "7:30",
+              "8:00",
+              "8:30",
+              "9:00"
+            ],
+            "answer": "8:30"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Spring is my favorite season. The weather is warm and sunny. Many flowers bloom in spring. I like to go to the park and see cherry blossoms. Birds sing beautiful songs.",
+        "subQuestions": [
+          {
+            "question": "What is the person's favorite season?",
+            "choices": [
+              "Spring",
+              "Summer",
+              "Autumn",
+              "Winter"
+            ],
+            "answer": "Spring"
+          },
+          {
+            "question": "What does the person like to see in the park?",
+            "choices": [
+              "Snow",
+              "Cherry blossoms",
+              "Leaves",
+              "Rain"
+            ],
+            "answer": "Cherry blossoms"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My brother likes reading books. He reads every night before bed. His favorite books are adventure stories. He has more than 50 books in his room. Sometimes he lets me borrow his books.",
+        "subQuestions": [
+          {
+            "question": "When does the brother read books?",
+            "choices": [
+              "In the morning",
+              "In the afternoon",
+              "Before bed",
+              "After school"
+            ],
+            "answer": "Before bed"
+          },
+          {
+            "question": "What kind of books does he like?",
+            "choices": [
+              "Science fiction",
+              "Adventure stories",
+              "Comic books",
+              "Textbooks"
+            ],
+            "answer": "Adventure stories"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Last weekend, my family went to the zoo. We saw many animals like lions, elephants, and monkeys. The monkeys were very funny. They jumped and played. We took many pictures.",
+        "subQuestions": [
+          {
+            "question": "Where did the family go?",
+            "choices": [
+              "To the beach",
+              "To the zoo",
+              "To the park",
+              "To the museum"
+            ],
+            "answer": "To the zoo"
+          },
+          {
+            "question": "Which animals were funny?",
+            "choices": [
+              "Lions",
+              "Elephants",
+              "Monkeys",
+              "Bears"
+            ],
+            "answer": "Monkeys"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I help my mother at home. I clean my room every day. On Saturday, I help wash the dishes. On Sunday, I water the plants. My mother is happy when I help.",
+        "subQuestions": [
+          {
+            "question": "What does the person do every day?",
+            "choices": [
+              "Wash dishes",
+              "Water plants",
+              "Clean room",
+              "Cook dinner"
+            ],
+            "answer": "Clean room"
+          },
+          {
+            "question": "When does the person water the plants?",
+            "choices": [
+              "Every day",
+              "On Saturday",
+              "On Sunday",
+              "On Monday"
+            ],
+            "answer": "On Sunday"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Today is a rainy day. I cannot play outside. I stay at home and read a book. I also draw pictures. Later, I will play board games with my sister.",
+        "subQuestions": [
+          {
+            "question": "What is the weather like today?",
+            "choices": [
+              "Sunny",
+              "Rainy",
+              "Snowy",
+              "Cloudy"
+            ],
+            "answer": "Rainy"
+          },
+          {
+            "question": "What will the person do later?",
+            "choices": [
+              "Go outside",
+              "Play board games",
+              "Watch TV",
+              "Sleep"
+            ],
+            "answer": "Play board games"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My best friend is Ken. We have been friends for five years. We go to the same school. We like playing video games together. Ken is very kind and funny.",
+        "subQuestions": [
+          {
+            "question": "Who is the person's best friend?",
+            "choices": [
+              "Tom",
+              "Ken",
+              "Mike",
+              "John"
+            ],
+            "answer": "Ken"
+          },
+          {
+            "question": "How long have they been friends?",
+            "choices": [
+              "Three years",
+              "Five years",
+              "Seven years",
+              "Ten years"
+            ],
+            "answer": "Five years"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I want to be a doctor when I grow up. I like helping people. I study hard at school. My favorite subjects are science and biology. I hope my dream comes true.",
+        "subQuestions": [
+          {
+            "question": "What does the person want to be?",
+            "choices": [
+              "A teacher",
+              "A doctor",
+              "An engineer",
+              "A singer"
+            ],
+            "answer": "A doctor"
+          },
+          {
+            "question": "What are the person's favorite subjects?",
+            "choices": [
+              "Math and English",
+              "Science and biology",
+              "Art and music",
+              "History and geography"
+            ],
+            "answer": "Science and biology"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Yesterday was my sister's birthday. We had a party at home. We ate pizza and birthday cake. My sister got many presents. She was very happy. It was a wonderful day.",
+        "subQuestions": [
+          {
+            "question": "Whose birthday was it?",
+            "choices": [
+              "The person's birthday",
+              "The sister's birthday",
+              "The mother's birthday",
+              "The father's birthday"
+            ],
+            "answer": "The sister's birthday"
+          },
+          {
+            "question": "What did they eat?",
+            "choices": [
+              "Hamburgers and cake",
+              "Pizza and birthday cake",
+              "Sandwiches and ice cream",
+              "Sushi and noodles"
+            ],
+            "answer": "Pizza and birthday cake"
           }
         ],
         "category": "reading",
@@ -68,9 +1350,140 @@
       {
         "type": "multiple-choice",
         "question": "Listen and choose the correct answer.",
-        "choices": ["apple", "orange", "banana", "grape"],
+        "choices": [
+          "apple",
+          "orange",
+          "banana",
+          "grape"
+        ],
         "answer": "apple",
         "audio": "audio/eiken5_listening1.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the person talking about?",
+        "choices": [
+          "A dog",
+          "A cat",
+          "A bird",
+          "A fish"
+        ],
+        "answer": "A dog",
+        "audio": "audio/eiken5_listening2.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Where is the conversation taking place?",
+        "choices": [
+          "At home",
+          "At school",
+          "At a restaurant",
+          "At a park"
+        ],
+        "answer": "At school",
+        "audio": "audio/eiken5_listening3.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What time does the shop open?",
+        "choices": [
+          "8 o'clock",
+          "9 o'clock",
+          "10 o'clock",
+          "11 o'clock"
+        ],
+        "answer": "9 o'clock",
+        "audio": "audio/eiken5_listening4.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "How many people are in the family?",
+        "choices": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "answer": "4",
+        "audio": "audio/eiken5_listening5.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the weather like?",
+        "choices": [
+          "Sunny",
+          "Rainy",
+          "Cloudy",
+          "Snowy"
+        ],
+        "answer": "Sunny",
+        "audio": "audio/eiken5_listening6.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What does the person want to buy?",
+        "choices": [
+          "A book",
+          "A pen",
+          "A notebook",
+          "A pencil"
+        ],
+        "answer": "A pen",
+        "audio": "audio/eiken5_listening7.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What day is it today?",
+        "choices": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "answer": "Wednesday",
+        "audio": "audio/eiken5_listening8.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What color is the car?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "answer": "Red",
+        "audio": "audio/eiken5_listening9.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the boy doing?",
+        "choices": [
+          "Reading",
+          "Writing",
+          "Eating",
+          "Sleeping"
+        ],
+        "answer": "Reading",
+        "audio": "audio/eiken5_listening10.mp3",
         "category": "listening",
         "difficulty": 1
       }
@@ -80,203 +1493,5400 @@
     "vocabulary": [
       {
         "type": "multiple-choice",
-        "question": "I ( ) my homework before dinner.",
-        "choices": ["finish", "finished", "finishing", "finishes"],
-        "answer": "finished",
+        "question": "I ( ) a dog. His name is Max.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "have",
         "category": "vocabulary",
-        "difficulty": 2
+        "difficulty": 1
       },
       {
         "type": "multiple-choice",
-        "question": "Please ( ) the door when you leave.",
-        "choices": ["close", "closed", "closing", "closes"],
-        "answer": "close",
+        "question": "My mother ( ) me a new bike for my birthday.",
+        "choices": [
+          "buy",
+          "buys",
+          "bought",
+          "buying"
+        ],
+        "answer": "bought",
         "category": "vocabulary",
-        "difficulty": 2
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "A: What time is it? B: It's ( ) o'clock.",
+        "choices": [
+          "three",
+          "third",
+          "tree",
+          "there"
+        ],
+        "answer": "three",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I usually eat ( ) for breakfast.",
+        "choices": [
+          "eggs",
+          "egg",
+          "egging",
+          "egged"
+        ],
+        "answer": "eggs",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My sister likes ( ) music.",
+        "choices": [
+          "listen",
+          "listening",
+          "listens",
+          "listened"
+        ],
+        "answer": "listening",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Can you ( ) me with my homework?",
+        "choices": [
+          "help",
+          "helps",
+          "helping",
+          "helped"
+        ],
+        "answer": "help",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I have a ( ) cat and a black dog.",
+        "choices": [
+          "white",
+          "whiten",
+          "whitening",
+          "whitened"
+        ],
+        "answer": "white",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is your ( ) animal?",
+        "choices": [
+          "favorite",
+          "favourite",
+          "most favorite",
+          "more favorite"
+        ],
+        "answer": "favorite",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) to the library last Saturday.",
+        "choices": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "answer": "went",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I like to play ( ) with my friends.",
+        "choices": [
+          "baseball",
+          "baseballs",
+          "baseball playing",
+          "baseball game"
+        ],
+        "answer": "baseball",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "The ( ) is very big and beautiful.",
+        "choices": [
+          "tree",
+          "trees",
+          "trees are",
+          "tree is"
+        ],
+        "answer": "tree",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I need to buy ( ) pencils for school.",
+        "choices": [
+          "five",
+          "fifth",
+          "fives",
+          "fivth"
+        ],
+        "answer": "five",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My father ( ) a newspaper every morning.",
+        "choices": [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        "answer": "reads",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) a picnic in the park yesterday.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "had",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Can you ( ) English?",
+        "choices": [
+          "speak",
+          "speaks",
+          "speaking",
+          "speaked"
+        ],
+        "answer": "speak",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My school is ( ) from my house.",
+        "choices": [
+          "near",
+          "nearly",
+          "nearing",
+          "nearest"
+        ],
+        "answer": "near",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I like eating ( ).",
+        "choices": [
+          "apple",
+          "apples",
+          "apple eating",
+          "to eating apples"
+        ],
+        "answer": "apples",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What do you ( ) for lunch?",
+        "choices": [
+          "eat",
+          "eats",
+          "eaten",
+          "eating"
+        ],
+        "answer": "eat",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) to music every day.",
+        "choices": [
+          "listen",
+          "listens",
+          "listened",
+          "listening"
+        ],
+        "answer": "listens",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) my teeth before going to bed.",
+        "choices": [
+          "brush",
+          "brushes",
+          "brushed",
+          "brushing"
+        ],
+        "answer": "brush",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "This is ( ) book.",
+        "choices": [
+          "my",
+          "mine",
+          "me",
+          "I"
+        ],
+        "answer": "my",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) are you from?",
+        "choices": [
+          "Where",
+          "What",
+          "Who",
+          "When"
+        ],
+        "answer": "Where",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) watching TV now.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "am",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "There ( ) a cat under the table.",
+        "choices": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) two sisters.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "has",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) to school by bus.",
+        "choices": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "answer": "go",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My birthday is ( ) May.",
+        "choices": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": "in",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I want ( ) drink some water.",
+        "choices": [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        "answer": "to",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) bag is this?",
+        "choices": [
+          "Whose",
+          "Who",
+          "What",
+          "Where"
+        ],
+        "answer": "Whose",
+        "category": "vocabulary",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) soccer every Sunday.",
+        "choices": [
+          "play",
+          "plays",
+          "played",
+          "playing"
+        ],
+        "answer": "plays",
+        "category": "vocabulary",
+        "difficulty": 1
       }
     ],
     "grammar": [
       {
         "type": "multiple-choice",
-        "question": "I am ( ) than my brother.",
-        "choices": ["tall", "taller", "tallest", "more tall"],
-        "answer": "taller",
+        "question": "She ( ) to school every day.",
+        "choices": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "answer": "goes",
         "category": "grammar",
-        "difficulty": 2
+        "difficulty": 1
       },
       {
         "type": "multiple-choice",
-        "question": "She ( ) been to America twice.",
-        "choices": ["have", "has", "had", "having"],
+        "question": "There ( ) many books on the desk.",
+        "choices": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) you play soccer?",
+        "choices": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) a student.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "am",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) a teacher.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "They ( ) students.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) they play tennis?",
+        "choices": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) tennis yesterday.",
+        "choices": [
+          "play",
+          "plays",
+          "played",
+          "playing"
+        ],
+        "answer": "played",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) a cat.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
         "answer": "has",
         "category": "grammar",
-        "difficulty": 2
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) to the park tomorrow.",
+        "choices": [
+          "go",
+          "goes",
+          "going",
+          "will go"
+        ],
+        "answer": "will go",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) is your name?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "What",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) do you live?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "Where",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) is your teacher?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "Who",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) a new car.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "have",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) time is it?",
+        "choices": [
+          "What",
+          "Which",
+          "Who",
+          "Where"
+        ],
+        "answer": "What",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "They ( ) running in the park.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "are",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "He ( ) watching TV.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) reading a book.",
+        "choices": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "am",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) like sports.",
+        "choices": [
+          "don't",
+          "doesn't",
+          "didn't",
+          "doing"
+        ],
+        "answer": "doesn't",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) you have a pet?",
+        "choices": [
+          "Do",
+          "Does",
+          "Did",
+          "Are"
+        ],
+        "answer": "Do",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "This is ( ) pen.",
+        "choices": [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        "answer": "a",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I have ( ) apple.",
+        "choices": [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        "answer": "an",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) sun is bright today.",
+        "choices": [
+          "A",
+          "An",
+          "The",
+          "One"
+        ],
+        "answer": "The",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "My mother ( ) cooking now.",
+        "choices": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) old are you?",
+        "choices": [
+          "What",
+          "How",
+          "Who",
+          "Where"
+        ],
+        "answer": "How",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I don't ( ) any money.",
+        "choices": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "answer": "have",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "She ( ) play the piano.",
+        "choices": [
+          "can",
+          "cans",
+          "could",
+          "canning"
+        ],
+        "answer": "can",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "We ( ) study English.",
+        "choices": [
+          "must",
+          "musts",
+          "musting",
+          "musted"
+        ],
+        "answer": "must",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "( ) many students are there?",
+        "choices": [
+          "What",
+          "How",
+          "Who",
+          "Where"
+        ],
+        "answer": "How",
+        "category": "grammar",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "I ( ) born in 2010.",
+        "choices": [
+          "am",
+          "is",
+          "was",
+          "were"
+        ],
+        "answer": "was",
+        "category": "grammar",
+        "difficulty": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "reading-comprehension",
+        "passage": "My name is Tom. I am 12 years old. I live in Tokyo with my family. I have one brother and one sister. I like playing soccer on weekends.",
+        "subQuestions": [
+          {
+            "question": "How old is Tom?",
+            "choices": [
+              "10 years old",
+              "11 years old",
+              "12 years old",
+              "13 years old"
+            ],
+            "answer": "12 years old"
+          },
+          {
+            "question": "What does Tom like to do on weekends?",
+            "choices": [
+              "Playing soccer",
+              "Reading books",
+              "Watching TV",
+              "Swimming"
+            ],
+            "answer": "Playing soccer"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My school is near my house. I go to school by bus every day. My favorite subject is English. I also like mathematics and science. I have five friends. We play together after school.",
+        "subQuestions": [
+          {
+            "question": "How does the student go to school?",
+            "choices": [
+              "By car",
+              "By bus",
+              "By train",
+              "On foot"
+            ],
+            "answer": "By bus"
+          },
+          {
+            "question": "What is the student's favorite subject?",
+            "choices": [
+              "English",
+              "Mathematics",
+              "Science",
+              "Art"
+            ],
+            "answer": "English"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My family likes going to the beach. We go there in summer. We play in the water and eat ice cream. My father plays volleyball. My mother reads a book. My sister and I build sandcastles.",
+        "subQuestions": [
+          {
+            "question": "When does the family go to the beach?",
+            "choices": [
+              "In spring",
+              "In summer",
+              "In autumn",
+              "In winter"
+            ],
+            "answer": "In summer"
+          },
+          {
+            "question": "What does the father do at the beach?",
+            "choices": [
+              "Reads a book",
+              "Plays volleyball",
+              "Builds sandcastles",
+              "Eats ice cream"
+            ],
+            "answer": "Plays volleyball"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "John has a pet dog named Bingo. Bingo is brown and very friendly. Every day, John takes Bingo for a walk in the park. Bingo likes to play fetch with a ball. John also gives Bingo food and water.",
+        "subQuestions": [
+          {
+            "question": "What color is Bingo?",
+            "choices": [
+              "White",
+              "Brown",
+              "Black",
+              "Yellow"
+            ],
+            "answer": "Brown"
+          },
+          {
+            "question": "What game does Bingo like to play?",
+            "choices": [
+              "Catch",
+              "Hide and seek",
+              "Fetch",
+              "Tag"
+            ],
+            "answer": "Fetch"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I have a birthday party on Saturday. My friends are coming to my house. We will eat cake and ice cream. We will play games and sing songs. It will be fun!",
+        "subQuestions": [
+          {
+            "question": "When is the birthday party?",
+            "choices": [
+              "Sunday",
+              "Saturday",
+              "Friday",
+              "Monday"
+            ],
+            "answer": "Saturday"
+          },
+          {
+            "question": "What will they do at the party?",
+            "choices": [
+              "Watch movies",
+              "Eat cake and ice cream",
+              "Go shopping",
+              "Read books"
+            ],
+            "answer": "Eat cake and ice cream"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Mary is a student. She studies hard every day. She goes to school in the morning and comes home in the afternoon. She does her homework after school. In the evening, she watches TV for a little while.",
+        "subQuestions": [
+          {
+            "question": "When does Mary go to school?",
+            "choices": [
+              "In the afternoon",
+              "In the morning",
+              "In the evening",
+              "At night"
+            ],
+            "answer": "In the morning"
+          },
+          {
+            "question": "When does Mary do her homework?",
+            "choices": [
+              "Before school",
+              "In the morning",
+              "After school",
+              "In the evening"
+            ],
+            "answer": "After school"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "In summer, I like to swim at the pool. The water is cool and clean. Many children come to the pool. We play water games and have fun. I also eat watermelon after swimming.",
+        "subQuestions": [
+          {
+            "question": "Where does the child swim?",
+            "choices": [
+              "At the beach",
+              "At the pool",
+              "At the river",
+              "In the ocean"
+            ],
+            "answer": "At the pool"
+          },
+          {
+            "question": "What does the child eat after swimming?",
+            "choices": [
+              "Ice cream",
+              "Candy",
+              "Watermelon",
+              "Cake"
+            ],
+            "answer": "Watermelon"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I have a small room. My bed is next to the window. My desk is in the corner. I have a lamp on my desk. My bookshelf is on the wall. I like my room very much.",
+        "subQuestions": [
+          {
+            "question": "Where is the bed?",
+            "choices": [
+              "Next to the door",
+              "Next to the window",
+              "In the corner",
+              "On the wall"
+            ],
+            "answer": "Next to the window"
+          },
+          {
+            "question": "Where is the desk?",
+            "choices": [
+              "Next to the window",
+              "Next to the bed",
+              "In the corner",
+              "On the wall"
+            ],
+            "answer": "In the corner"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My grandmother likes cooking. She makes delicious food. Every Sunday, I visit her house. She teaches me how to cook. We make cookies and cakes together. It is very fun.",
+        "subQuestions": [
+          {
+            "question": "What does the grandmother like to do?",
+            "choices": [
+              "Dancing",
+              "Cooking",
+              "Singing",
+              "Drawing"
+            ],
+            "answer": "Cooking"
+          },
+          {
+            "question": "When does the child visit the grandmother?",
+            "choices": [
+              "Every Monday",
+              "Every Saturday",
+              "Every Sunday",
+              "Every Friday"
+            ],
+            "answer": "Every Sunday"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Tom is a football player. He plays for a big team. He practices every day. He is very good at football. Many people like watching him play. He is famous.",
+        "subQuestions": [
+          {
+            "question": "What sport does Tom play?",
+            "choices": [
+              "Basketball",
+              "Football",
+              "Tennis",
+              "Baseball"
+            ],
+            "answer": "Football"
+          },
+          {
+            "question": "How often does Tom practice?",
+            "choices": [
+              "Once a week",
+              "Twice a week",
+              "Every day",
+              "On weekends"
+            ],
+            "answer": "Every day"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Lisa loves animals. She has three pets at home. She has a dog, a cat, and a bird. She feeds them every morning. She plays with them after school. Her favorite pet is the dog.",
+        "subQuestions": [
+          {
+            "question": "How many pets does Lisa have?",
+            "choices": [
+              "Two",
+              "Three",
+              "Four",
+              "Five"
+            ],
+            "answer": "Three"
+          },
+          {
+            "question": "What is Lisa's favorite pet?",
+            "choices": [
+              "The cat",
+              "The bird",
+              "The dog",
+              "The fish"
+            ],
+            "answer": "The dog"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Every morning, I wake up at 7 o'clock. I brush my teeth and wash my face. Then I eat breakfast with my family. After breakfast, I go to school. School starts at 8:30.",
+        "subQuestions": [
+          {
+            "question": "What time does the person wake up?",
+            "choices": [
+              "6 o'clock",
+              "7 o'clock",
+              "8 o'clock",
+              "9 o'clock"
+            ],
+            "answer": "7 o'clock"
+          },
+          {
+            "question": "What time does school start?",
+            "choices": [
+              "7:30",
+              "8:00",
+              "8:30",
+              "9:00"
+            ],
+            "answer": "8:30"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Spring is my favorite season. The weather is warm and sunny. Many flowers bloom in spring. I like to go to the park and see cherry blossoms. Birds sing beautiful songs.",
+        "subQuestions": [
+          {
+            "question": "What is the person's favorite season?",
+            "choices": [
+              "Spring",
+              "Summer",
+              "Autumn",
+              "Winter"
+            ],
+            "answer": "Spring"
+          },
+          {
+            "question": "What does the person like to see in the park?",
+            "choices": [
+              "Snow",
+              "Cherry blossoms",
+              "Leaves",
+              "Rain"
+            ],
+            "answer": "Cherry blossoms"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My brother likes reading books. He reads every night before bed. His favorite books are adventure stories. He has more than 50 books in his room. Sometimes he lets me borrow his books.",
+        "subQuestions": [
+          {
+            "question": "When does the brother read books?",
+            "choices": [
+              "In the morning",
+              "In the afternoon",
+              "Before bed",
+              "After school"
+            ],
+            "answer": "Before bed"
+          },
+          {
+            "question": "What kind of books does he like?",
+            "choices": [
+              "Science fiction",
+              "Adventure stories",
+              "Comic books",
+              "Textbooks"
+            ],
+            "answer": "Adventure stories"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Last weekend, my family went to the zoo. We saw many animals like lions, elephants, and monkeys. The monkeys were very funny. They jumped and played. We took many pictures.",
+        "subQuestions": [
+          {
+            "question": "Where did the family go?",
+            "choices": [
+              "To the beach",
+              "To the zoo",
+              "To the park",
+              "To the museum"
+            ],
+            "answer": "To the zoo"
+          },
+          {
+            "question": "Which animals were funny?",
+            "choices": [
+              "Lions",
+              "Elephants",
+              "Monkeys",
+              "Bears"
+            ],
+            "answer": "Monkeys"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I help my mother at home. I clean my room every day. On Saturday, I help wash the dishes. On Sunday, I water the plants. My mother is happy when I help.",
+        "subQuestions": [
+          {
+            "question": "What does the person do every day?",
+            "choices": [
+              "Wash dishes",
+              "Water plants",
+              "Clean room",
+              "Cook dinner"
+            ],
+            "answer": "Clean room"
+          },
+          {
+            "question": "When does the person water the plants?",
+            "choices": [
+              "Every day",
+              "On Saturday",
+              "On Sunday",
+              "On Monday"
+            ],
+            "answer": "On Sunday"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Today is a rainy day. I cannot play outside. I stay at home and read a book. I also draw pictures. Later, I will play board games with my sister.",
+        "subQuestions": [
+          {
+            "question": "What is the weather like today?",
+            "choices": [
+              "Sunny",
+              "Rainy",
+              "Snowy",
+              "Cloudy"
+            ],
+            "answer": "Rainy"
+          },
+          {
+            "question": "What will the person do later?",
+            "choices": [
+              "Go outside",
+              "Play board games",
+              "Watch TV",
+              "Sleep"
+            ],
+            "answer": "Play board games"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "My best friend is Ken. We have been friends for five years. We go to the same school. We like playing video games together. Ken is very kind and funny.",
+        "subQuestions": [
+          {
+            "question": "Who is the person's best friend?",
+            "choices": [
+              "Tom",
+              "Ken",
+              "Mike",
+              "John"
+            ],
+            "answer": "Ken"
+          },
+          {
+            "question": "How long have they been friends?",
+            "choices": [
+              "Three years",
+              "Five years",
+              "Seven years",
+              "Ten years"
+            ],
+            "answer": "Five years"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "I want to be a doctor when I grow up. I like helping people. I study hard at school. My favorite subjects are science and biology. I hope my dream comes true.",
+        "subQuestions": [
+          {
+            "question": "What does the person want to be?",
+            "choices": [
+              "A teacher",
+              "A doctor",
+              "An engineer",
+              "A singer"
+            ],
+            "answer": "A doctor"
+          },
+          {
+            "question": "What are the person's favorite subjects?",
+            "choices": [
+              "Math and English",
+              "Science and biology",
+              "Art and music",
+              "History and geography"
+            ],
+            "answer": "Science and biology"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      },
+      {
+        "type": "reading-comprehension",
+        "passage": "Yesterday was my sister's birthday. We had a party at home. We ate pizza and birthday cake. My sister got many presents. She was very happy. It was a wonderful day.",
+        "subQuestions": [
+          {
+            "question": "Whose birthday was it?",
+            "choices": [
+              "The person's birthday",
+              "The sister's birthday",
+              "The mother's birthday",
+              "The father's birthday"
+            ],
+            "answer": "The sister's birthday"
+          },
+          {
+            "question": "What did they eat?",
+            "choices": [
+              "Hamburgers and cake",
+              "Pizza and birthday cake",
+              "Sandwiches and ice cream",
+              "Sushi and noodles"
+            ],
+            "answer": "Pizza and birthday cake"
+          }
+        ],
+        "category": "reading",
+        "difficulty": 1
+      }
+    ],
+    "listening": [
+      {
+        "type": "multiple-choice",
+        "question": "Listen and choose the correct answer.",
+        "choices": [
+          "apple",
+          "orange",
+          "banana",
+          "grape"
+        ],
+        "answer": "apple",
+        "audio": "audio/eiken5_listening1.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the person talking about?",
+        "choices": [
+          "A dog",
+          "A cat",
+          "A bird",
+          "A fish"
+        ],
+        "answer": "A dog",
+        "audio": "audio/eiken5_listening2.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Where is the conversation taking place?",
+        "choices": [
+          "At home",
+          "At school",
+          "At a restaurant",
+          "At a park"
+        ],
+        "answer": "At school",
+        "audio": "audio/eiken5_listening3.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What time does the shop open?",
+        "choices": [
+          "8 o'clock",
+          "9 o'clock",
+          "10 o'clock",
+          "11 o'clock"
+        ],
+        "answer": "9 o'clock",
+        "audio": "audio/eiken5_listening4.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "How many people are in the family?",
+        "choices": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "answer": "4",
+        "audio": "audio/eiken5_listening5.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the weather like?",
+        "choices": [
+          "Sunny",
+          "Rainy",
+          "Cloudy",
+          "Snowy"
+        ],
+        "answer": "Sunny",
+        "audio": "audio/eiken5_listening6.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What does the person want to buy?",
+        "choices": [
+          "A book",
+          "A pen",
+          "A notebook",
+          "A pencil"
+        ],
+        "answer": "A pen",
+        "audio": "audio/eiken5_listening7.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What day is it today?",
+        "choices": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "answer": "Wednesday",
+        "audio": "audio/eiken5_listening8.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What color is the car?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "answer": "Red",
+        "audio": "audio/eiken5_listening9.mp3",
+        "category": "listening",
+        "difficulty": 1
+      },
+      {
+        "type": "multiple-choice",
+        "question": "What is the boy doing?",
+        "choices": [
+          "Reading",
+          "Writing",
+          "Eating",
+          "Sleeping"
+        ],
+        "answer": "Reading",
+        "audio": "audio/eiken5_listening10.mp3",
+        "category": "listening",
+        "difficulty": 1
       }
     ]
   },
   "英検3級": [
     {
       "type": "multiple-choice",
-      "question": "A: Did you enjoy your trip to Kyoto? B: Yes, it was ( ). I want to go there again.",
-      "choices": ["boring", "fun", "sad", "difficult"],
-      "answer": "fun",
-      "audio": "audio/eiken3_q1.mp3",
+      "question": "I ( ) a dog. His name is Max.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
       "category": "vocabulary",
-      "difficulty": 3
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "A: Where is my camera? B: It's ( ) the table.",
-      "choices": ["on", "in", "under", "at"],
-      "answer": "on",
-      "category": "grammar",
-      "difficulty": 3
+      "question": "My mother ( ) me a new bike for my birthday.",
+      "choices": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": "bought",
+      "category": "vocabulary",
+      "difficulty": 1
     },
     {
-      "type": "fill-in-the-blank",
-      "question": "I always have ____ for breakfast.",
+      "type": "multiple-choice",
+      "question": "A: What time is it? B: It's ( ) o'clock.",
+      "choices": [
+        "three",
+        "third",
+        "tree",
+        "there"
+      ],
+      "answer": "three",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I usually eat ( ) for breakfast.",
+      "choices": [
+        "eggs",
+        "egg",
+        "egging",
+        "egged"
+      ],
       "answer": "eggs",
       "category": "vocabulary",
-      "difficulty": 3
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "The movie was ( ) interesting that I watched it twice.",
-      "choices": ["so", "very", "too", "such"],
-      "answer": "so",
+      "question": "My sister likes ( ) music.",
+      "choices": [
+        "listen",
+        "listening",
+        "listens",
+        "listened"
+      ],
+      "answer": "listening",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) me with my homework?",
+      "choices": [
+        "help",
+        "helps",
+        "helping",
+        "helped"
+      ],
+      "answer": "help",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have a ( ) cat and a black dog.",
+      "choices": [
+        "white",
+        "whiten",
+        "whitening",
+        "whitened"
+      ],
+      "answer": "white",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is your ( ) animal?",
+      "choices": [
+        "favorite",
+        "favourite",
+        "most favorite",
+        "more favorite"
+      ],
+      "answer": "favorite",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to the library last Saturday.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "went",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like to play ( ) with my friends.",
+      "choices": [
+        "baseball",
+        "baseballs",
+        "baseball playing",
+        "baseball game"
+      ],
+      "answer": "baseball",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The ( ) is very big and beautiful.",
+      "choices": [
+        "tree",
+        "trees",
+        "trees are",
+        "tree is"
+      ],
+      "answer": "tree",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I need to buy ( ) pencils for school.",
+      "choices": [
+        "five",
+        "fifth",
+        "fives",
+        "fivth"
+      ],
+      "answer": "five",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My father ( ) a newspaper every morning.",
+      "choices": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "reads",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) a picnic in the park yesterday.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) English?",
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speaked"
+      ],
+      "answer": "speak",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My school is ( ) from my house.",
+      "choices": [
+        "near",
+        "nearly",
+        "nearing",
+        "nearest"
+      ],
+      "answer": "near",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like eating ( ).",
+      "choices": [
+        "apple",
+        "apples",
+        "apple eating",
+        "to eating apples"
+      ],
+      "answer": "apples",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you ( ) for lunch?",
+      "choices": [
+        "eat",
+        "eats",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eat",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to music every day.",
+      "choices": [
+        "listen",
+        "listens",
+        "listened",
+        "listening"
+      ],
+      "answer": "listens",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) my teeth before going to bed.",
+      "choices": [
+        "brush",
+        "brushes",
+        "brushed",
+        "brushing"
+      ],
+      "answer": "brush",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) book.",
+      "choices": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) are you from?",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) watching TV now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) a cat under the table.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) two sisters.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) to school by bus.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "go",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My birthday is ( ) May.",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I want ( ) drink some water.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) bag is this?",
+      "choices": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "plays",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to school every day.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
       "category": "grammar",
-      "difficulty": 3
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) many books on the desk.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you play soccer?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) a teacher.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) students.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) tennis yesterday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) a cat.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) to the park tomorrow.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "will go"
+      ],
+      "answer": "will go",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your name?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) do you live?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Where",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your teacher?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Who",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a new car.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) time is it?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) running in the park.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) watching TV.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) reading a book.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) like sports.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "doing"
+      ],
+      "answer": "doesn't",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you have a pet?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) pen.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have ( ) apple.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "an",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) sun is bright today.",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "One"
+      ],
+      "answer": "The",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My mother ( ) cooking now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) old are you?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I don't ( ) any money.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) play the piano.",
+      "choices": [
+        "can",
+        "cans",
+        "could",
+        "canning"
+      ],
+      "answer": "can",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) study English.",
+      "choices": [
+        "must",
+        "musts",
+        "musting",
+        "musted"
+      ],
+      "answer": "must",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) many students are there?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) born in 2010.",
+      "choices": [
+        "am",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "category": "grammar",
+      "difficulty": 1
     }
   ],
   "英検準2級": [
     {
       "type": "multiple-choice",
-      "question": "A: I'm going to the store. Do you need anything? B: Yes, could you buy a ( ) of milk?",
-      "choices": ["carton", "loaf", "bunch", "pair"],
-      "answer": "carton",
+      "question": "I ( ) a dog. His name is Max.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
       "category": "vocabulary",
-      "difficulty": 4
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "It is important to ( ) a good relationship with your co-workers.",
-      "choices": ["maintain", "contain", "detain", "pertain"],
-      "answer": "maintain",
+      "question": "My mother ( ) me a new bike for my birthday.",
+      "choices": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": "bought",
       "category": "vocabulary",
-      "difficulty": 4
+      "difficulty": 1
     },
     {
-      "type": "fill-in-the-blank",
-      "question": "She is good ____ playing the piano.",
-      "answer": "at",
+      "type": "multiple-choice",
+      "question": "A: What time is it? B: It's ( ) o'clock.",
+      "choices": [
+        "three",
+        "third",
+        "tree",
+        "there"
+      ],
+      "answer": "three",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I usually eat ( ) for breakfast.",
+      "choices": [
+        "eggs",
+        "egg",
+        "egging",
+        "egged"
+      ],
+      "answer": "eggs",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My sister likes ( ) music.",
+      "choices": [
+        "listen",
+        "listening",
+        "listens",
+        "listened"
+      ],
+      "answer": "listening",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) me with my homework?",
+      "choices": [
+        "help",
+        "helps",
+        "helping",
+        "helped"
+      ],
+      "answer": "help",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have a ( ) cat and a black dog.",
+      "choices": [
+        "white",
+        "whiten",
+        "whitening",
+        "whitened"
+      ],
+      "answer": "white",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is your ( ) animal?",
+      "choices": [
+        "favorite",
+        "favourite",
+        "most favorite",
+        "more favorite"
+      ],
+      "answer": "favorite",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to the library last Saturday.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "went",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like to play ( ) with my friends.",
+      "choices": [
+        "baseball",
+        "baseballs",
+        "baseball playing",
+        "baseball game"
+      ],
+      "answer": "baseball",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The ( ) is very big and beautiful.",
+      "choices": [
+        "tree",
+        "trees",
+        "trees are",
+        "tree is"
+      ],
+      "answer": "tree",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I need to buy ( ) pencils for school.",
+      "choices": [
+        "five",
+        "fifth",
+        "fives",
+        "fivth"
+      ],
+      "answer": "five",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My father ( ) a newspaper every morning.",
+      "choices": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "reads",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) a picnic in the park yesterday.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) English?",
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speaked"
+      ],
+      "answer": "speak",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My school is ( ) from my house.",
+      "choices": [
+        "near",
+        "nearly",
+        "nearing",
+        "nearest"
+      ],
+      "answer": "near",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like eating ( ).",
+      "choices": [
+        "apple",
+        "apples",
+        "apple eating",
+        "to eating apples"
+      ],
+      "answer": "apples",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you ( ) for lunch?",
+      "choices": [
+        "eat",
+        "eats",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eat",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to music every day.",
+      "choices": [
+        "listen",
+        "listens",
+        "listened",
+        "listening"
+      ],
+      "answer": "listens",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) my teeth before going to bed.",
+      "choices": [
+        "brush",
+        "brushes",
+        "brushed",
+        "brushing"
+      ],
+      "answer": "brush",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) book.",
+      "choices": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) are you from?",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) watching TV now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) a cat under the table.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) two sisters.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) to school by bus.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "go",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My birthday is ( ) May.",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I want ( ) drink some water.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) bag is this?",
+      "choices": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "plays",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to school every day.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
       "category": "grammar",
-      "difficulty": 4
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "The meeting has been ( ) until next week.",
-      "choices": ["postponed", "proposed", "composed", "imposed"],
-      "answer": "postponed",
-      "category": "vocabulary",
-      "difficulty": 4
+      "question": "There ( ) many books on the desk.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
     },
     {
-      "type": "writing",
-      "question": "Write an email to your friend about your plans for the weekend. (50-60 words)",
-      "category": "writing",
-      "difficulty": 4
+      "type": "multiple-choice",
+      "question": "( ) you play soccer?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) a teacher.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) students.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) tennis yesterday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) a cat.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) to the park tomorrow.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "will go"
+      ],
+      "answer": "will go",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your name?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) do you live?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Where",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your teacher?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Who",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a new car.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) time is it?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) running in the park.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) watching TV.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) reading a book.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) like sports.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "doing"
+      ],
+      "answer": "doesn't",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you have a pet?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) pen.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have ( ) apple.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "an",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) sun is bright today.",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "One"
+      ],
+      "answer": "The",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My mother ( ) cooking now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) old are you?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I don't ( ) any money.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) play the piano.",
+      "choices": [
+        "can",
+        "cans",
+        "could",
+        "canning"
+      ],
+      "answer": "can",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) study English.",
+      "choices": [
+        "must",
+        "musts",
+        "musting",
+        "musted"
+      ],
+      "answer": "must",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) many students are there?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) born in 2010.",
+      "choices": [
+        "am",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "category": "grammar",
+      "difficulty": 1
     }
   ],
   "英検2級": [
     {
       "type": "multiple-choice",
-      "question": "The company's new environmental policy has been widely ( ).",
-      "choices": ["praised", "phrased", "raised", "grazed"],
-      "answer": "praised",
+      "question": "I ( ) a dog. His name is Max.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
       "category": "vocabulary",
-      "difficulty": 5
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "The government has ( ) a new plan to reduce unemployment.",
-      "choices": ["implemented", "complimented", "supplemented", "implanted"],
-      "answer": "implemented",
+      "question": "My mother ( ) me a new bike for my birthday.",
+      "choices": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": "bought",
       "category": "vocabulary",
-      "difficulty": 5
+      "difficulty": 1
     },
     {
-      "type": "fill-in-the-blank",
-      "question": "He is interested ____ learning new languages.",
+      "type": "multiple-choice",
+      "question": "A: What time is it? B: It's ( ) o'clock.",
+      "choices": [
+        "three",
+        "third",
+        "tree",
+        "there"
+      ],
+      "answer": "three",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I usually eat ( ) for breakfast.",
+      "choices": [
+        "eggs",
+        "egg",
+        "egging",
+        "egged"
+      ],
+      "answer": "eggs",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My sister likes ( ) music.",
+      "choices": [
+        "listen",
+        "listening",
+        "listens",
+        "listened"
+      ],
+      "answer": "listening",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) me with my homework?",
+      "choices": [
+        "help",
+        "helps",
+        "helping",
+        "helped"
+      ],
+      "answer": "help",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have a ( ) cat and a black dog.",
+      "choices": [
+        "white",
+        "whiten",
+        "whitening",
+        "whitened"
+      ],
+      "answer": "white",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is your ( ) animal?",
+      "choices": [
+        "favorite",
+        "favourite",
+        "most favorite",
+        "more favorite"
+      ],
+      "answer": "favorite",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to the library last Saturday.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "went",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like to play ( ) with my friends.",
+      "choices": [
+        "baseball",
+        "baseballs",
+        "baseball playing",
+        "baseball game"
+      ],
+      "answer": "baseball",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The ( ) is very big and beautiful.",
+      "choices": [
+        "tree",
+        "trees",
+        "trees are",
+        "tree is"
+      ],
+      "answer": "tree",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I need to buy ( ) pencils for school.",
+      "choices": [
+        "five",
+        "fifth",
+        "fives",
+        "fivth"
+      ],
+      "answer": "five",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My father ( ) a newspaper every morning.",
+      "choices": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "reads",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) a picnic in the park yesterday.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) English?",
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speaked"
+      ],
+      "answer": "speak",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My school is ( ) from my house.",
+      "choices": [
+        "near",
+        "nearly",
+        "nearing",
+        "nearest"
+      ],
+      "answer": "near",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like eating ( ).",
+      "choices": [
+        "apple",
+        "apples",
+        "apple eating",
+        "to eating apples"
+      ],
+      "answer": "apples",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you ( ) for lunch?",
+      "choices": [
+        "eat",
+        "eats",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eat",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to music every day.",
+      "choices": [
+        "listen",
+        "listens",
+        "listened",
+        "listening"
+      ],
+      "answer": "listens",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) my teeth before going to bed.",
+      "choices": [
+        "brush",
+        "brushes",
+        "brushed",
+        "brushing"
+      ],
+      "answer": "brush",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) book.",
+      "choices": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) are you from?",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) watching TV now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) a cat under the table.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) two sisters.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) to school by bus.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "go",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My birthday is ( ) May.",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
       "answer": "in",
-      "category": "grammar",
-      "difficulty": 5
+      "category": "vocabulary",
+      "difficulty": 1
     },
     {
-      "type": "writing",
-      "question": "Write a summary of the following passage in 60-70 words: [Passage about environmental issues]",
-      "category": "writing",
-      "difficulty": 5
+      "type": "multiple-choice",
+      "question": "I want ( ) drink some water.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) bag is this?",
+      "choices": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "plays",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to school every day.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) many books on the desk.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you play soccer?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) a teacher.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) students.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) tennis yesterday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) a cat.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) to the park tomorrow.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "will go"
+      ],
+      "answer": "will go",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your name?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) do you live?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Where",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your teacher?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Who",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a new car.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) time is it?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) running in the park.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) watching TV.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) reading a book.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) like sports.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "doing"
+      ],
+      "answer": "doesn't",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you have a pet?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) pen.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have ( ) apple.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "an",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) sun is bright today.",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "One"
+      ],
+      "answer": "The",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My mother ( ) cooking now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) old are you?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I don't ( ) any money.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) play the piano.",
+      "choices": [
+        "can",
+        "cans",
+        "could",
+        "canning"
+      ],
+      "answer": "can",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) study English.",
+      "choices": [
+        "must",
+        "musts",
+        "musting",
+        "musted"
+      ],
+      "answer": "must",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) many students are there?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) born in 2010.",
+      "choices": [
+        "am",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "category": "grammar",
+      "difficulty": 1
     }
   ],
   "英検準1級": [
     {
       "type": "multiple-choice",
-      "question": "The politician's speech was full of ( ) promises that few believed would be kept.",
-      "choices": ["grandiose", "minute", "trivial", "modest"],
-      "answer": "grandiose",
+      "question": "I ( ) a dog. His name is Max.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
       "category": "vocabulary",
-      "difficulty": 6
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "The company had to ( ) its workforce due to financial difficulties.",
-      "choices": ["downsize", "upsize", "capsize", "resize"],
-      "answer": "downsize",
+      "question": "My mother ( ) me a new bike for my birthday.",
+      "choices": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": "bought",
       "category": "vocabulary",
-      "difficulty": 6
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A: What time is it? B: It's ( ) o'clock.",
+      "choices": [
+        "three",
+        "third",
+        "tree",
+        "there"
+      ],
+      "answer": "three",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I usually eat ( ) for breakfast.",
+      "choices": [
+        "eggs",
+        "egg",
+        "egging",
+        "egged"
+      ],
+      "answer": "eggs",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My sister likes ( ) music.",
+      "choices": [
+        "listen",
+        "listening",
+        "listens",
+        "listened"
+      ],
+      "answer": "listening",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) me with my homework?",
+      "choices": [
+        "help",
+        "helps",
+        "helping",
+        "helped"
+      ],
+      "answer": "help",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have a ( ) cat and a black dog.",
+      "choices": [
+        "white",
+        "whiten",
+        "whitening",
+        "whitened"
+      ],
+      "answer": "white",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is your ( ) animal?",
+      "choices": [
+        "favorite",
+        "favourite",
+        "most favorite",
+        "more favorite"
+      ],
+      "answer": "favorite",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to the library last Saturday.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "went",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like to play ( ) with my friends.",
+      "choices": [
+        "baseball",
+        "baseballs",
+        "baseball playing",
+        "baseball game"
+      ],
+      "answer": "baseball",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The ( ) is very big and beautiful.",
+      "choices": [
+        "tree",
+        "trees",
+        "trees are",
+        "tree is"
+      ],
+      "answer": "tree",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I need to buy ( ) pencils for school.",
+      "choices": [
+        "five",
+        "fifth",
+        "fives",
+        "fivth"
+      ],
+      "answer": "five",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My father ( ) a newspaper every morning.",
+      "choices": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "reads",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) a picnic in the park yesterday.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) English?",
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speaked"
+      ],
+      "answer": "speak",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My school is ( ) from my house.",
+      "choices": [
+        "near",
+        "nearly",
+        "nearing",
+        "nearest"
+      ],
+      "answer": "near",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like eating ( ).",
+      "choices": [
+        "apple",
+        "apples",
+        "apple eating",
+        "to eating apples"
+      ],
+      "answer": "apples",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you ( ) for lunch?",
+      "choices": [
+        "eat",
+        "eats",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eat",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to music every day.",
+      "choices": [
+        "listen",
+        "listens",
+        "listened",
+        "listening"
+      ],
+      "answer": "listens",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) my teeth before going to bed.",
+      "choices": [
+        "brush",
+        "brushes",
+        "brushed",
+        "brushing"
+      ],
+      "answer": "brush",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) book.",
+      "choices": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) are you from?",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) watching TV now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) a cat under the table.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) two sisters.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) to school by bus.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "go",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My birthday is ( ) May.",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I want ( ) drink some water.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) bag is this?",
+      "choices": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "plays",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to school every day.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) many books on the desk.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you play soccer?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) a teacher.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) students.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) tennis yesterday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) a cat.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) to the park tomorrow.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "will go"
+      ],
+      "answer": "will go",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your name?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) do you live?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Where",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your teacher?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Who",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a new car.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) time is it?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) running in the park.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) watching TV.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) reading a book.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) like sports.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "doing"
+      ],
+      "answer": "doesn't",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you have a pet?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) pen.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have ( ) apple.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "an",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) sun is bright today.",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "One"
+      ],
+      "answer": "The",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My mother ( ) cooking now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) old are you?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I don't ( ) any money.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) play the piano.",
+      "choices": [
+        "can",
+        "cans",
+        "could",
+        "canning"
+      ],
+      "answer": "can",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) study English.",
+      "choices": [
+        "must",
+        "musts",
+        "musting",
+        "musted"
+      ],
+      "answer": "must",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) many students are there?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) born in 2010.",
+      "choices": [
+        "am",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "category": "grammar",
+      "difficulty": 1
     }
   ],
   "英検1級": [
     {
       "type": "multiple-choice",
-      "question": "The CEO's charismatic leadership was instrumental in ( ) the company through the economic downturn.",
-      "choices": ["navigating", "oscillating", "perpetuating", "extricating"],
-      "answer": "navigating",
+      "question": "I ( ) a dog. His name is Max.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
       "category": "vocabulary",
-      "difficulty": 7
+      "difficulty": 1
     },
     {
       "type": "multiple-choice",
-      "question": "The committee's decision was met with widespread ( ) from environmental groups.",
-      "choices": ["acclaim", "dissent", "consensus", "compliance"],
-      "answer": "dissent",
-      "category": "vocabulary",
-      "difficulty": 7
-    },
-    {
-      "type": "fill-in-the-blank",
-      "question": "The ancient ruins were gradually ____ by vegetation over centuries.",
-      "answer": "engulfed",
-      "category": "vocabulary",
-      "difficulty": 7
-    },
-    {
-      "type": "reading-comprehension",
-      "passage": "Global warming, also referred to as climate change, is the observed century-scale rise in the average temperature of Earth's climate system and its related effects. Multiple lines of scientific evidence show that the climate system is warming. Many of the observed changes since the 1950s are unprecedented in the instrumental temperature record, and in paleoclimate proxy records covering thousands to millions of years. Scientific understanding of global warming has increased due to new data, and improved understanding of the climate system. The Intergovernmental Panel on Climate Change (IPCC) concludes that \"it is unequivocal that human influence has warmed the atmosphere, ocean, and land.\"",
-      "subQuestions": [
-        {
-          "question": "What is another term for global warming?",
-          "choices": ["Weather change", "Atmospheric shift", "Climate change", "Temperature fluctuation"],
-          "answer": "Climate change"
-        },
-        {
-          "question": "According to the passage, when did many of the observed changes in the climate system become unprecedented?",
-          "choices": ["Since the 1800s", "Since the 1950s", "In recent years", "Over thousands of years"],
-          "answer": "Since the 1950s"
-        }
+      "question": "My mother ( ) me a new bike for my birthday.",
+      "choices": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
       ],
-      "category": "reading",
-      "difficulty": 7
+      "answer": "bought",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A: What time is it? B: It's ( ) o'clock.",
+      "choices": [
+        "three",
+        "third",
+        "tree",
+        "there"
+      ],
+      "answer": "three",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I usually eat ( ) for breakfast.",
+      "choices": [
+        "eggs",
+        "egg",
+        "egging",
+        "egged"
+      ],
+      "answer": "eggs",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My sister likes ( ) music.",
+      "choices": [
+        "listen",
+        "listening",
+        "listens",
+        "listened"
+      ],
+      "answer": "listening",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) me with my homework?",
+      "choices": [
+        "help",
+        "helps",
+        "helping",
+        "helped"
+      ],
+      "answer": "help",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have a ( ) cat and a black dog.",
+      "choices": [
+        "white",
+        "whiten",
+        "whitening",
+        "whitened"
+      ],
+      "answer": "white",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is your ( ) animal?",
+      "choices": [
+        "favorite",
+        "favourite",
+        "most favorite",
+        "more favorite"
+      ],
+      "answer": "favorite",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to the library last Saturday.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "went",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like to play ( ) with my friends.",
+      "choices": [
+        "baseball",
+        "baseballs",
+        "baseball playing",
+        "baseball game"
+      ],
+      "answer": "baseball",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The ( ) is very big and beautiful.",
+      "choices": [
+        "tree",
+        "trees",
+        "trees are",
+        "tree is"
+      ],
+      "answer": "tree",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I need to buy ( ) pencils for school.",
+      "choices": [
+        "five",
+        "fifth",
+        "fives",
+        "fivth"
+      ],
+      "answer": "five",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My father ( ) a newspaper every morning.",
+      "choices": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "reads",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) a picnic in the park yesterday.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Can you ( ) English?",
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speaked"
+      ],
+      "answer": "speak",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My school is ( ) from my house.",
+      "choices": [
+        "near",
+        "nearly",
+        "nearing",
+        "nearest"
+      ],
+      "answer": "near",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I like eating ( ).",
+      "choices": [
+        "apple",
+        "apples",
+        "apple eating",
+        "to eating apples"
+      ],
+      "answer": "apples",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you ( ) for lunch?",
+      "choices": [
+        "eat",
+        "eats",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eat",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to music every day.",
+      "choices": [
+        "listen",
+        "listens",
+        "listened",
+        "listening"
+      ],
+      "answer": "listens",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) my teeth before going to bed.",
+      "choices": [
+        "brush",
+        "brushes",
+        "brushed",
+        "brushing"
+      ],
+      "answer": "brush",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) book.",
+      "choices": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) are you from?",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) watching TV now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) a cat under the table.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) two sisters.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) to school by bus.",
+      "choices": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": "go",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My birthday is ( ) May.",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I want ( ) drink some water.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) bag is this?",
+      "choices": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "plays",
+      "category": "vocabulary",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) to school every day.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "There ( ) many books on the desk.",
+      "choices": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you play soccer?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a student.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) a teacher.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) students.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) tennis yesterday.",
+      "choices": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) a cat.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "has",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) to the park tomorrow.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "will go"
+      ],
+      "answer": "will go",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your name?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) do you live?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Where",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) is your teacher?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "Who",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) a new car.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) time is it?",
+      "choices": [
+        "What",
+        "Which",
+        "Who",
+        "Where"
+      ],
+      "answer": "What",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "They ( ) running in the park.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "He ( ) watching TV.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) reading a book.",
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "am",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) like sports.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "doing"
+      ],
+      "answer": "doesn't",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) you have a pet?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did",
+        "Are"
+      ],
+      "answer": "Do",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "This is ( ) pen.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I have ( ) apple.",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "one"
+      ],
+      "answer": "an",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) sun is bright today.",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "One"
+      ],
+      "answer": "The",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "My mother ( ) cooking now.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) old are you?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I don't ( ) any money.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer": "have",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She ( ) play the piano.",
+      "choices": [
+        "can",
+        "cans",
+        "could",
+        "canning"
+      ],
+      "answer": "can",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "We ( ) study English.",
+      "choices": [
+        "must",
+        "musts",
+        "musting",
+        "musted"
+      ],
+      "answer": "must",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "( ) many students are there?",
+      "choices": [
+        "What",
+        "How",
+        "Who",
+        "Where"
+      ],
+      "answer": "How",
+      "category": "grammar",
+      "difficulty": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "I ( ) born in 2010.",
+      "choices": [
+        "am",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "category": "grammar",
+      "difficulty": 1
     }
   ]
 }
