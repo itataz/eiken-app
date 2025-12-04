@@ -239,6 +239,103 @@ class DashboardModule {
             </li>
         `).join('');
     }
+
+    exportProgress() {
+        // Gather all data from localStorage
+        const exportData = {
+            exportDate: new Date().toISOString(),
+            version: '1.0',
+            userData: {
+                points: localStorage.getItem('total_points') || '0',
+                badges: JSON.parse(localStorage.getItem('badges') || '[]'),
+                streak: localStorage.getItem('streak') || '0',
+                lastStudyDate: localStorage.getItem('last_study_date') || null
+            },
+            progress: this.progressData,
+            vocabularyProgress: this.vocabularyProgress,
+            studyPlan: JSON.parse(localStorage.getItem('study_plan') || 'null'),
+            writingDrafts: {}
+        };
+
+        // Collect all writing drafts
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key.startsWith('writing_draft_')) {
+                exportData.writingDrafts[key] = localStorage.getItem(key);
+            }
+        }
+
+        // Create JSON file
+        const dataStr = JSON.stringify(exportData, null, 2);
+        const dataBlob = new Blob([dataStr], { type: 'application/json' });
+
+        // Create download link
+        const url = URL.createObjectURL(dataBlob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `eiken-progress-${new Date().toISOString().split('T')[0]}.json`;
+
+        // Trigger download
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        URL.revokeObjectURL(url);
+
+        alert('📥 学習データをエクスポートしました！');
+    }
+
+    importProgress(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                const importData = JSON.parse(e.target.result);
+
+                // Validate data structure
+                if (!importData.version || !importData.userData) {
+                    throw new Error('Invalid data format');
+                }
+
+                // Confirm before importing
+                if (!confirm('現在のデータを上書きしますか？この操作は取り消せません。')) {
+                    return;
+                }
+
+                // Import user data
+                localStorage.setItem('total_points', importData.userData.points);
+                localStorage.setItem('badges', JSON.stringify(importData.userData.badges));
+                localStorage.setItem('streak', importData.userData.streak);
+                if (importData.userData.lastStudyDate) {
+                    localStorage.setItem('last_study_date', importData.userData.lastStudyDate);
+                }
+
+                // Import progress data
+                localStorage.setItem('progress', JSON.stringify(importData.progress));
+                localStorage.setItem('vocabulary_progress', JSON.stringify(importData.vocabularyProgress));
+
+                // Import study plan
+                if (importData.studyPlan) {
+                    localStorage.setItem('study_plan', JSON.stringify(importData.studyPlan));
+                }
+
+                // Import writing drafts
+                if (importData.writingDrafts) {
+                    Object.keys(importData.writingDrafts).forEach(key => {
+                        localStorage.setItem(key, importData.writingDrafts[key]);
+                    });
+                }
+
+                alert('📤 学習データをインポートしました！ページを更新します。');
+                window.location.reload();
+            } catch (error) {
+                console.error('Import error:', error);
+                alert('エラー：データの読み込みに失敗しました。ファイルを確認してください。');
+            }
+        };
+        reader.readAsText(file);
+    }
 }
 
 // Initialize when app is ready

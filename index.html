@@ -394,6 +394,19 @@
     <div id="dashboard-view" class="view-container" style="display: none;">
         <section class="dashboard-section">
             <h2>学習記録ダッシュボード</h2>
+
+            <!-- Data Export/Import Controls -->
+            <div class="data-controls">
+                <button id="export-btn" class="btn btn-primary" onclick="window.dashboardModule?.exportProgress()">
+                    📥 データをエクスポート
+                </button>
+                <label for="import-file" class="btn btn-secondary">
+                    📤 データをインポート
+                </label>
+                <input type="file" id="import-file" accept=".json" style="display: none;"
+                       onchange="window.dashboardModule?.importProgress(event)">
+            </div>
+
             <div id="dashboard-stats" class="dashboard-stats">
                 <div class="stat-card">
                     <h3>総学習回数</h3>
