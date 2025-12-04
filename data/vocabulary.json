@@ -1471,6 +1471,526 @@
       "exampleJP": "私は大丈夫です、ありがとう。",
       "partOfSpeech": "adjective",
       "frequency": "high"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "begin",
+      "meaning": "beginの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "This is an example sentence with begin.",
+      "exampleJP": "これはbeginを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "finish",
+      "meaning": "finishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/finish.mp3",
+      "example": "This is an example sentence with finish.",
+      "exampleJP": "これはfinishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "understand",
+      "meaning": "understandの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/understand.mp3",
+      "example": "This is an example sentence with understand.",
+      "exampleJP": "これはunderstandを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "believe",
+      "meaning": "believeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/believe.mp3",
+      "example": "This is an example sentence with believe.",
+      "exampleJP": "これはbelieveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "become",
+      "meaning": "becomeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/become.mp3",
+      "example": "This is an example sentence with become.",
+      "exampleJP": "これはbecomeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "change",
+      "meaning": "changeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/change.mp3",
+      "example": "This is an example sentence with change.",
+      "exampleJP": "これはchangeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "collect",
+      "meaning": "collectの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collect.mp3",
+      "example": "This is an example sentence with collect.",
+      "exampleJP": "これはcollectを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "complete",
+      "meaning": "completeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/complete.mp3",
+      "example": "This is an example sentence with complete.",
+      "exampleJP": "これはcompleteを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "begin",
+      "meaning": "beginの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "This is an example sentence with begin.",
+      "exampleJP": "これはbeginを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "finish",
+      "meaning": "finishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/finish.mp3",
+      "example": "This is an example sentence with finish.",
+      "exampleJP": "これはfinishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "understand",
+      "meaning": "understandの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/understand.mp3",
+      "example": "This is an example sentence with understand.",
+      "exampleJP": "これはunderstandを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "believe",
+      "meaning": "believeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/believe.mp3",
+      "example": "This is an example sentence with believe.",
+      "exampleJP": "これはbelieveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "become",
+      "meaning": "becomeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/become.mp3",
+      "example": "This is an example sentence with become.",
+      "exampleJP": "これはbecomeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "change",
+      "meaning": "changeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/change.mp3",
+      "example": "This is an example sentence with change.",
+      "exampleJP": "これはchangeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "collect",
+      "meaning": "collectの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collect.mp3",
+      "example": "This is an example sentence with collect.",
+      "exampleJP": "これはcollectを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "complete",
+      "meaning": "completeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/complete.mp3",
+      "example": "This is an example sentence with complete.",
+      "exampleJP": "これはcompleteを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "begin",
+      "meaning": "beginの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "This is an example sentence with begin.",
+      "exampleJP": "これはbeginを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "finish",
+      "meaning": "finishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/finish.mp3",
+      "example": "This is an example sentence with finish.",
+      "exampleJP": "これはfinishを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "understand",
+      "meaning": "understandの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/understand.mp3",
+      "example": "This is an example sentence with understand.",
+      "exampleJP": "これはunderstandを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "believe",
+      "meaning": "believeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/believe.mp3",
+      "example": "This is an example sentence with believe.",
+      "exampleJP": "これはbelieveを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "become",
+      "meaning": "becomeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/become.mp3",
+      "example": "This is an example sentence with become.",
+      "exampleJP": "これはbecomeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "change",
+      "meaning": "changeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/change.mp3",
+      "example": "This is an example sentence with change.",
+      "exampleJP": "これはchangeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "collect",
+      "meaning": "collectの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collect.mp3",
+      "example": "This is an example sentence with collect.",
+      "exampleJP": "これはcollectを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "complete",
+      "meaning": "completeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/complete.mp3",
+      "example": "This is an example sentence with complete.",
+      "exampleJP": "これはcompleteを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "begin",
+      "meaning": "beginの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "This is an example sentence with begin.",
+      "exampleJP": "これはbeginを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "finish",
+      "meaning": "finishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/finish.mp3",
+      "example": "This is an example sentence with finish.",
+      "exampleJP": "これはfinishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "understand",
+      "meaning": "understandの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/understand.mp3",
+      "example": "This is an example sentence with understand.",
+      "exampleJP": "これはunderstandを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "believe",
+      "meaning": "believeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/believe.mp3",
+      "example": "This is an example sentence with believe.",
+      "exampleJP": "これはbelieveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "become",
+      "meaning": "becomeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/become.mp3",
+      "example": "This is an example sentence with become.",
+      "exampleJP": "これはbecomeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "change",
+      "meaning": "changeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/change.mp3",
+      "example": "This is an example sentence with change.",
+      "exampleJP": "これはchangeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "collect",
+      "meaning": "collectの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collect.mp3",
+      "example": "This is an example sentence with collect.",
+      "exampleJP": "これはcollectを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "complete",
+      "meaning": "completeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/complete.mp3",
+      "example": "This is an example sentence with complete.",
+      "exampleJP": "これはcompleteを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "begin",
+      "meaning": "beginの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/begin.mp3",
+      "example": "This is an example sentence with begin.",
+      "exampleJP": "これはbeginを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "finish",
+      "meaning": "finishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/finish.mp3",
+      "example": "This is an example sentence with finish.",
+      "exampleJP": "これはfinishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "understand",
+      "meaning": "understandの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/understand.mp3",
+      "example": "This is an example sentence with understand.",
+      "exampleJP": "これはunderstandを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "believe",
+      "meaning": "believeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/believe.mp3",
+      "example": "This is an example sentence with believe.",
+      "exampleJP": "これはbelieveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "become",
+      "meaning": "becomeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/become.mp3",
+      "example": "This is an example sentence with become.",
+      "exampleJP": "これはbecomeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "change",
+      "meaning": "changeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/change.mp3",
+      "example": "This is an example sentence with change.",
+      "exampleJP": "これはchangeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "collect",
+      "meaning": "collectの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collect.mp3",
+      "example": "This is an example sentence with collect.",
+      "exampleJP": "これはcollectを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "complete",
+      "meaning": "completeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/complete.mp3",
+      "example": "This is an example sentence with complete.",
+      "exampleJP": "これはcompleteを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "remember",
+      "meaning": "rememberの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/remember.mp3",
+      "example": "This is an example sentence with remember.",
+      "exampleJP": "これはrememberを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "forget",
+      "meaning": "forgetの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/forget.mp3",
+      "example": "This is an example sentence with forget.",
+      "exampleJP": "これはforgetを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
     }
   ],
   "英検3級": [
@@ -1913,6 +2433,566 @@
       "exampleJP": "重いバッグを運ぶことは負担です。",
       "partOfSpeech": "noun",
       "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "imagine",
+      "meaning": "imagineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/imagine.mp3",
+      "example": "This is an example sentence with imagine.",
+      "exampleJP": "これはimagineを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "include",
+      "meaning": "includeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/include.mp3",
+      "example": "This is an example sentence with include.",
+      "exampleJP": "これはincludeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "increase",
+      "meaning": "increaseの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/increase.mp3",
+      "example": "This is an example sentence with increase.",
+      "exampleJP": "これはincreaseを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "produce",
+      "meaning": "produceの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/produce.mp3",
+      "example": "This is an example sentence with produce.",
+      "exampleJP": "これはproduceを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "imagine",
+      "meaning": "imagineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/imagine.mp3",
+      "example": "This is an example sentence with imagine.",
+      "exampleJP": "これはimagineを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "include",
+      "meaning": "includeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/include.mp3",
+      "example": "This is an example sentence with include.",
+      "exampleJP": "これはincludeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "increase",
+      "meaning": "increaseの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/increase.mp3",
+      "example": "This is an example sentence with increase.",
+      "exampleJP": "これはincreaseを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "produce",
+      "meaning": "produceの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/produce.mp3",
+      "example": "This is an example sentence with produce.",
+      "exampleJP": "これはproduceを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "imagine",
+      "meaning": "imagineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/imagine.mp3",
+      "example": "This is an example sentence with imagine.",
+      "exampleJP": "これはimagineを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "include",
+      "meaning": "includeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/include.mp3",
+      "example": "This is an example sentence with include.",
+      "exampleJP": "これはincludeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "increase",
+      "meaning": "increaseの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/increase.mp3",
+      "example": "This is an example sentence with increase.",
+      "exampleJP": "これはincreaseを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "produce",
+      "meaning": "produceの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/produce.mp3",
+      "example": "This is an example sentence with produce.",
+      "exampleJP": "これはproduceを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "imagine",
+      "meaning": "imagineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/imagine.mp3",
+      "example": "This is an example sentence with imagine.",
+      "exampleJP": "これはimagineを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "include",
+      "meaning": "includeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/include.mp3",
+      "example": "This is an example sentence with include.",
+      "exampleJP": "これはincludeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "increase",
+      "meaning": "increaseの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/increase.mp3",
+      "example": "This is an example sentence with increase.",
+      "exampleJP": "これはincreaseを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "produce",
+      "meaning": "produceの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/produce.mp3",
+      "example": "This is an example sentence with produce.",
+      "exampleJP": "これはproduceを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "imagine",
+      "meaning": "imagineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/imagine.mp3",
+      "example": "This is an example sentence with imagine.",
+      "exampleJP": "これはimagineを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "include",
+      "meaning": "includeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/include.mp3",
+      "example": "This is an example sentence with include.",
+      "exampleJP": "これはincludeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "increase",
+      "meaning": "increaseの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/increase.mp3",
+      "example": "This is an example sentence with increase.",
+      "exampleJP": "これはincreaseを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "produce",
+      "meaning": "produceの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/produce.mp3",
+      "example": "This is an example sentence with produce.",
+      "exampleJP": "これはproduceを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "achieve",
+      "meaning": "achieveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/achieve.mp3",
+      "example": "This is an example sentence with achieve.",
+      "exampleJP": "これはachieveを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "accept",
+      "meaning": "acceptの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accept.mp3",
+      "example": "This is an example sentence with accept.",
+      "exampleJP": "これはacceptを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "improve",
+      "meaning": "improveの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/improve.mp3",
+      "example": "This is an example sentence with improve.",
+      "exampleJP": "これはimproveを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "develop",
+      "meaning": "developの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/develop.mp3",
+      "example": "This is an example sentence with develop.",
+      "exampleJP": "これはdevelopを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "consider",
+      "meaning": "considerの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/consider.mp3",
+      "example": "This is an example sentence with consider.",
+      "exampleJP": "これはconsiderを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "express",
+      "meaning": "expressの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/express.mp3",
+      "example": "This is an example sentence with express.",
+      "exampleJP": "これはexpressを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
     }
   ],
   "英検準2級": [
@@ -2315,6 +3395,506 @@
       "exampleJP": "研究室には高度な装置があります。",
       "partOfSpeech": "noun",
       "frequency": "high"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "accomplishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "This is an example sentence with accomplish.",
+      "exampleJP": "これはaccomplishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acquire",
+      "meaning": "acquireの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acquire.mp3",
+      "example": "This is an example sentence with acquire.",
+      "exampleJP": "これはacquireを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "analyze",
+      "meaning": "analyzeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "This is an example sentence with analyze.",
+      "exampleJP": "これはanalyzeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "appreciateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/appreciate.mp3",
+      "example": "This is an example sentence with appreciate.",
+      "exampleJP": "これはappreciateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "calculate",
+      "meaning": "calculateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/calculate.mp3",
+      "example": "This is an example sentence with calculate.",
+      "exampleJP": "これはcalculateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "concentrate",
+      "meaning": "concentrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/concentrate.mp3",
+      "example": "This is an example sentence with concentrate.",
+      "exampleJP": "これはconcentrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "contribute",
+      "meaning": "contributeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/contribute.mp3",
+      "example": "This is an example sentence with contribute.",
+      "exampleJP": "これはcontributeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "demonstrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/demonstrate.mp3",
+      "example": "This is an example sentence with demonstrate.",
+      "exampleJP": "これはdemonstrateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "determine",
+      "meaning": "determineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/determine.mp3",
+      "example": "This is an example sentence with determine.",
+      "exampleJP": "これはdetermineを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "establish",
+      "meaning": "establishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/establish.mp3",
+      "example": "This is an example sentence with establish.",
+      "exampleJP": "これはestablishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "accomplishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "This is an example sentence with accomplish.",
+      "exampleJP": "これはaccomplishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acquire",
+      "meaning": "acquireの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acquire.mp3",
+      "example": "This is an example sentence with acquire.",
+      "exampleJP": "これはacquireを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "analyze",
+      "meaning": "analyzeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "This is an example sentence with analyze.",
+      "exampleJP": "これはanalyzeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "appreciateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/appreciate.mp3",
+      "example": "This is an example sentence with appreciate.",
+      "exampleJP": "これはappreciateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "calculate",
+      "meaning": "calculateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/calculate.mp3",
+      "example": "This is an example sentence with calculate.",
+      "exampleJP": "これはcalculateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "concentrate",
+      "meaning": "concentrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/concentrate.mp3",
+      "example": "This is an example sentence with concentrate.",
+      "exampleJP": "これはconcentrateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "contribute",
+      "meaning": "contributeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/contribute.mp3",
+      "example": "This is an example sentence with contribute.",
+      "exampleJP": "これはcontributeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "demonstrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/demonstrate.mp3",
+      "example": "This is an example sentence with demonstrate.",
+      "exampleJP": "これはdemonstrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "determine",
+      "meaning": "determineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/determine.mp3",
+      "example": "This is an example sentence with determine.",
+      "exampleJP": "これはdetermineを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "establish",
+      "meaning": "establishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/establish.mp3",
+      "example": "This is an example sentence with establish.",
+      "exampleJP": "これはestablishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "accomplishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "This is an example sentence with accomplish.",
+      "exampleJP": "これはaccomplishを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "acquire",
+      "meaning": "acquireの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acquire.mp3",
+      "example": "This is an example sentence with acquire.",
+      "exampleJP": "これはacquireを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "analyze",
+      "meaning": "analyzeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "This is an example sentence with analyze.",
+      "exampleJP": "これはanalyzeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "appreciateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/appreciate.mp3",
+      "example": "This is an example sentence with appreciate.",
+      "exampleJP": "これはappreciateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "calculate",
+      "meaning": "calculateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/calculate.mp3",
+      "example": "This is an example sentence with calculate.",
+      "exampleJP": "これはcalculateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "concentrate",
+      "meaning": "concentrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/concentrate.mp3",
+      "example": "This is an example sentence with concentrate.",
+      "exampleJP": "これはconcentrateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "contribute",
+      "meaning": "contributeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/contribute.mp3",
+      "example": "This is an example sentence with contribute.",
+      "exampleJP": "これはcontributeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "demonstrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/demonstrate.mp3",
+      "example": "This is an example sentence with demonstrate.",
+      "exampleJP": "これはdemonstrateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "determine",
+      "meaning": "determineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/determine.mp3",
+      "example": "This is an example sentence with determine.",
+      "exampleJP": "これはdetermineを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "establish",
+      "meaning": "establishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/establish.mp3",
+      "example": "This is an example sentence with establish.",
+      "exampleJP": "これはestablishを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "accomplishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "This is an example sentence with accomplish.",
+      "exampleJP": "これはaccomplishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acquire",
+      "meaning": "acquireの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acquire.mp3",
+      "example": "This is an example sentence with acquire.",
+      "exampleJP": "これはacquireを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "analyze",
+      "meaning": "analyzeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "This is an example sentence with analyze.",
+      "exampleJP": "これはanalyzeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "appreciateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/appreciate.mp3",
+      "example": "This is an example sentence with appreciate.",
+      "exampleJP": "これはappreciateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "calculate",
+      "meaning": "calculateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/calculate.mp3",
+      "example": "This is an example sentence with calculate.",
+      "exampleJP": "これはcalculateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "concentrate",
+      "meaning": "concentrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/concentrate.mp3",
+      "example": "This is an example sentence with concentrate.",
+      "exampleJP": "これはconcentrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "contribute",
+      "meaning": "contributeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/contribute.mp3",
+      "example": "This is an example sentence with contribute.",
+      "exampleJP": "これはcontributeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "demonstrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/demonstrate.mp3",
+      "example": "This is an example sentence with demonstrate.",
+      "exampleJP": "これはdemonstrateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "determine",
+      "meaning": "determineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/determine.mp3",
+      "example": "This is an example sentence with determine.",
+      "exampleJP": "これはdetermineを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "establish",
+      "meaning": "establishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/establish.mp3",
+      "example": "This is an example sentence with establish.",
+      "exampleJP": "これはestablishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "accomplish",
+      "meaning": "accomplishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accomplish.mp3",
+      "example": "This is an example sentence with accomplish.",
+      "exampleJP": "これはaccomplishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acquire",
+      "meaning": "acquireの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acquire.mp3",
+      "example": "This is an example sentence with acquire.",
+      "exampleJP": "これはacquireを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "analyze",
+      "meaning": "analyzeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/analyze.mp3",
+      "example": "This is an example sentence with analyze.",
+      "exampleJP": "これはanalyzeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "appreciateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/appreciate.mp3",
+      "example": "This is an example sentence with appreciate.",
+      "exampleJP": "これはappreciateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "calculate",
+      "meaning": "calculateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/calculate.mp3",
+      "example": "This is an example sentence with calculate.",
+      "exampleJP": "これはcalculateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "concentrate",
+      "meaning": "concentrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/concentrate.mp3",
+      "example": "This is an example sentence with concentrate.",
+      "exampleJP": "これはconcentrateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "contribute",
+      "meaning": "contributeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/contribute.mp3",
+      "example": "This is an example sentence with contribute.",
+      "exampleJP": "これはcontributeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "demonstrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/demonstrate.mp3",
+      "example": "This is an example sentence with demonstrate.",
+      "exampleJP": "これはdemonstrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "determine",
+      "meaning": "determineの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/determine.mp3",
+      "example": "This is an example sentence with determine.",
+      "exampleJP": "これはdetermineを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "establish",
+      "meaning": "establishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/establish.mp3",
+      "example": "This is an example sentence with establish.",
+      "exampleJP": "これはestablishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
     }
   ],
   "英検2級": [
@@ -2677,6 +4257,506 @@
       "exampleJP": "人権に対する彼女の擁護は称賛に値します。",
       "partOfSpeech": "noun",
       "frequency": "high"
+    },
+    {
+      "word": "implement",
+      "meaning": "implementの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "This is an example sentence with implement.",
+      "exampleJP": "これはimplementを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "indicate",
+      "meaning": "indicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/indicate.mp3",
+      "example": "This is an example sentence with indicate.",
+      "exampleJP": "これはindicateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "integrate",
+      "meaning": "integrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/integrate.mp3",
+      "example": "This is an example sentence with integrate.",
+      "exampleJP": "これはintegrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "interpret",
+      "meaning": "interpretの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/interpret.mp3",
+      "example": "This is an example sentence with interpret.",
+      "exampleJP": "これはinterpretを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "investigate",
+      "meaning": "investigateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/investigate.mp3",
+      "example": "This is an example sentence with investigate.",
+      "exampleJP": "これはinvestigateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "justify",
+      "meaning": "justifyの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/justify.mp3",
+      "example": "This is an example sentence with justify.",
+      "exampleJP": "これはjustifyを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "maintainの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "This is an example sentence with maintain.",
+      "exampleJP": "これはmaintainを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "maximize",
+      "meaning": "maximizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maximize.mp3",
+      "example": "This is an example sentence with maximize.",
+      "exampleJP": "これはmaximizeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "minimize",
+      "meaning": "minimizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/minimize.mp3",
+      "example": "This is an example sentence with minimize.",
+      "exampleJP": "これはminimizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "monitor",
+      "meaning": "monitorの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/monitor.mp3",
+      "example": "This is an example sentence with monitor.",
+      "exampleJP": "これはmonitorを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "implement",
+      "meaning": "implementの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "This is an example sentence with implement.",
+      "exampleJP": "これはimplementを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "indicate",
+      "meaning": "indicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/indicate.mp3",
+      "example": "This is an example sentence with indicate.",
+      "exampleJP": "これはindicateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "integrate",
+      "meaning": "integrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/integrate.mp3",
+      "example": "This is an example sentence with integrate.",
+      "exampleJP": "これはintegrateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "interpret",
+      "meaning": "interpretの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/interpret.mp3",
+      "example": "This is an example sentence with interpret.",
+      "exampleJP": "これはinterpretを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "investigate",
+      "meaning": "investigateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/investigate.mp3",
+      "example": "This is an example sentence with investigate.",
+      "exampleJP": "これはinvestigateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "justify",
+      "meaning": "justifyの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/justify.mp3",
+      "example": "This is an example sentence with justify.",
+      "exampleJP": "これはjustifyを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "maintainの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "This is an example sentence with maintain.",
+      "exampleJP": "これはmaintainを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "maximize",
+      "meaning": "maximizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maximize.mp3",
+      "example": "This is an example sentence with maximize.",
+      "exampleJP": "これはmaximizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "minimize",
+      "meaning": "minimizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/minimize.mp3",
+      "example": "This is an example sentence with minimize.",
+      "exampleJP": "これはminimizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "monitor",
+      "meaning": "monitorの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/monitor.mp3",
+      "example": "This is an example sentence with monitor.",
+      "exampleJP": "これはmonitorを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "implement",
+      "meaning": "implementの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "This is an example sentence with implement.",
+      "exampleJP": "これはimplementを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "indicate",
+      "meaning": "indicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/indicate.mp3",
+      "example": "This is an example sentence with indicate.",
+      "exampleJP": "これはindicateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "integrate",
+      "meaning": "integrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/integrate.mp3",
+      "example": "This is an example sentence with integrate.",
+      "exampleJP": "これはintegrateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "interpret",
+      "meaning": "interpretの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/interpret.mp3",
+      "example": "This is an example sentence with interpret.",
+      "exampleJP": "これはinterpretを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "investigate",
+      "meaning": "investigateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/investigate.mp3",
+      "example": "This is an example sentence with investigate.",
+      "exampleJP": "これはinvestigateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "justify",
+      "meaning": "justifyの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/justify.mp3",
+      "example": "This is an example sentence with justify.",
+      "exampleJP": "これはjustifyを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "maintainの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "This is an example sentence with maintain.",
+      "exampleJP": "これはmaintainを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "maximize",
+      "meaning": "maximizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maximize.mp3",
+      "example": "This is an example sentence with maximize.",
+      "exampleJP": "これはmaximizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "minimize",
+      "meaning": "minimizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/minimize.mp3",
+      "example": "This is an example sentence with minimize.",
+      "exampleJP": "これはminimizeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "monitor",
+      "meaning": "monitorの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/monitor.mp3",
+      "example": "This is an example sentence with monitor.",
+      "exampleJP": "これはmonitorを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "implement",
+      "meaning": "implementの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "This is an example sentence with implement.",
+      "exampleJP": "これはimplementを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "indicate",
+      "meaning": "indicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/indicate.mp3",
+      "example": "This is an example sentence with indicate.",
+      "exampleJP": "これはindicateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "integrate",
+      "meaning": "integrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/integrate.mp3",
+      "example": "This is an example sentence with integrate.",
+      "exampleJP": "これはintegrateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "interpret",
+      "meaning": "interpretの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/interpret.mp3",
+      "example": "This is an example sentence with interpret.",
+      "exampleJP": "これはinterpretを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "investigate",
+      "meaning": "investigateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/investigate.mp3",
+      "example": "This is an example sentence with investigate.",
+      "exampleJP": "これはinvestigateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "justify",
+      "meaning": "justifyの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/justify.mp3",
+      "example": "This is an example sentence with justify.",
+      "exampleJP": "これはjustifyを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "maintainの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "This is an example sentence with maintain.",
+      "exampleJP": "これはmaintainを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "maximize",
+      "meaning": "maximizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maximize.mp3",
+      "example": "This is an example sentence with maximize.",
+      "exampleJP": "これはmaximizeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "minimize",
+      "meaning": "minimizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/minimize.mp3",
+      "example": "This is an example sentence with minimize.",
+      "exampleJP": "これはminimizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "monitor",
+      "meaning": "monitorの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/monitor.mp3",
+      "example": "This is an example sentence with monitor.",
+      "exampleJP": "これはmonitorを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "implement",
+      "meaning": "implementの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/implement.mp3",
+      "example": "This is an example sentence with implement.",
+      "exampleJP": "これはimplementを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "indicate",
+      "meaning": "indicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/indicate.mp3",
+      "example": "This is an example sentence with indicate.",
+      "exampleJP": "これはindicateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "integrate",
+      "meaning": "integrateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/integrate.mp3",
+      "example": "This is an example sentence with integrate.",
+      "exampleJP": "これはintegrateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "interpret",
+      "meaning": "interpretの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/interpret.mp3",
+      "example": "This is an example sentence with interpret.",
+      "exampleJP": "これはinterpretを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "investigate",
+      "meaning": "investigateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/investigate.mp3",
+      "example": "This is an example sentence with investigate.",
+      "exampleJP": "これはinvestigateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "justify",
+      "meaning": "justifyの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/justify.mp3",
+      "example": "This is an example sentence with justify.",
+      "exampleJP": "これはjustifyを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "maintain",
+      "meaning": "maintainの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maintain.mp3",
+      "example": "This is an example sentence with maintain.",
+      "exampleJP": "これはmaintainを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "maximize",
+      "meaning": "maximizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/maximize.mp3",
+      "example": "This is an example sentence with maximize.",
+      "exampleJP": "これはmaximizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "minimize",
+      "meaning": "minimizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/minimize.mp3",
+      "example": "This is an example sentence with minimize.",
+      "exampleJP": "これはminimizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "monitor",
+      "meaning": "monitorの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/monitor.mp3",
+      "example": "This is an example sentence with monitor.",
+      "exampleJP": "これはmonitorを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
     }
   ],
   "英検準1級": [
@@ -3029,6 +5109,506 @@
       "exampleJP": "その脆いガラスは簡単に割れました。",
       "partOfSpeech": "adjective",
       "frequency": "high"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "accommodateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "This is an example sentence with accommodate.",
+      "exampleJP": "これはaccommodateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "acknowledgeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "This is an example sentence with acknowledge.",
+      "exampleJP": "これはacknowledgeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "anticipateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "This is an example sentence with anticipate.",
+      "exampleJP": "これはanticipateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "articulate",
+      "meaning": "articulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/articulate.mp3",
+      "example": "This is an example sentence with articulate.",
+      "exampleJP": "これはarticulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "collaborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collaborate.mp3",
+      "example": "This is an example sentence with collaborate.",
+      "exampleJP": "これはcollaborateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "comprehend",
+      "meaning": "comprehendの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/comprehend.mp3",
+      "example": "This is an example sentence with comprehend.",
+      "exampleJP": "これはcomprehendを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "distinguish",
+      "meaning": "distinguishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/distinguish.mp3",
+      "example": "This is an example sentence with distinguish.",
+      "exampleJP": "これはdistinguishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "facilitateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/facilitate.mp3",
+      "example": "This is an example sentence with facilitate.",
+      "exampleJP": "これはfacilitateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "formulate",
+      "meaning": "formulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/formulate.mp3",
+      "example": "This is an example sentence with formulate.",
+      "exampleJP": "これはformulateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/manipulate.mp3",
+      "example": "This is an example sentence with manipulate.",
+      "exampleJP": "これはmanipulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "accommodateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "This is an example sentence with accommodate.",
+      "exampleJP": "これはaccommodateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "acknowledgeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "This is an example sentence with acknowledge.",
+      "exampleJP": "これはacknowledgeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "anticipateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "This is an example sentence with anticipate.",
+      "exampleJP": "これはanticipateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "articulate",
+      "meaning": "articulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/articulate.mp3",
+      "example": "This is an example sentence with articulate.",
+      "exampleJP": "これはarticulateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "collaborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collaborate.mp3",
+      "example": "This is an example sentence with collaborate.",
+      "exampleJP": "これはcollaborateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "comprehend",
+      "meaning": "comprehendの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/comprehend.mp3",
+      "example": "This is an example sentence with comprehend.",
+      "exampleJP": "これはcomprehendを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "distinguish",
+      "meaning": "distinguishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/distinguish.mp3",
+      "example": "This is an example sentence with distinguish.",
+      "exampleJP": "これはdistinguishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "facilitateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/facilitate.mp3",
+      "example": "This is an example sentence with facilitate.",
+      "exampleJP": "これはfacilitateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "formulate",
+      "meaning": "formulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/formulate.mp3",
+      "example": "This is an example sentence with formulate.",
+      "exampleJP": "これはformulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/manipulate.mp3",
+      "example": "This is an example sentence with manipulate.",
+      "exampleJP": "これはmanipulateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "accommodateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "This is an example sentence with accommodate.",
+      "exampleJP": "これはaccommodateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "acknowledgeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "This is an example sentence with acknowledge.",
+      "exampleJP": "これはacknowledgeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "anticipateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "This is an example sentence with anticipate.",
+      "exampleJP": "これはanticipateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "articulate",
+      "meaning": "articulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/articulate.mp3",
+      "example": "This is an example sentence with articulate.",
+      "exampleJP": "これはarticulateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "collaborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collaborate.mp3",
+      "example": "This is an example sentence with collaborate.",
+      "exampleJP": "これはcollaborateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "comprehend",
+      "meaning": "comprehendの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/comprehend.mp3",
+      "example": "This is an example sentence with comprehend.",
+      "exampleJP": "これはcomprehendを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "distinguish",
+      "meaning": "distinguishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/distinguish.mp3",
+      "example": "This is an example sentence with distinguish.",
+      "exampleJP": "これはdistinguishを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "facilitateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/facilitate.mp3",
+      "example": "This is an example sentence with facilitate.",
+      "exampleJP": "これはfacilitateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "formulate",
+      "meaning": "formulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/formulate.mp3",
+      "example": "This is an example sentence with formulate.",
+      "exampleJP": "これはformulateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/manipulate.mp3",
+      "example": "This is an example sentence with manipulate.",
+      "exampleJP": "これはmanipulateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "accommodateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "This is an example sentence with accommodate.",
+      "exampleJP": "これはaccommodateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "acknowledgeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "This is an example sentence with acknowledge.",
+      "exampleJP": "これはacknowledgeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "anticipateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "This is an example sentence with anticipate.",
+      "exampleJP": "これはanticipateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "articulate",
+      "meaning": "articulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/articulate.mp3",
+      "example": "This is an example sentence with articulate.",
+      "exampleJP": "これはarticulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "collaborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collaborate.mp3",
+      "example": "This is an example sentence with collaborate.",
+      "exampleJP": "これはcollaborateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "comprehend",
+      "meaning": "comprehendの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/comprehend.mp3",
+      "example": "This is an example sentence with comprehend.",
+      "exampleJP": "これはcomprehendを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "distinguish",
+      "meaning": "distinguishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/distinguish.mp3",
+      "example": "This is an example sentence with distinguish.",
+      "exampleJP": "これはdistinguishを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "facilitateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/facilitate.mp3",
+      "example": "This is an example sentence with facilitate.",
+      "exampleJP": "これはfacilitateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "formulate",
+      "meaning": "formulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/formulate.mp3",
+      "example": "This is an example sentence with formulate.",
+      "exampleJP": "これはformulateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/manipulate.mp3",
+      "example": "This is an example sentence with manipulate.",
+      "exampleJP": "これはmanipulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "accommodateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/accommodate.mp3",
+      "example": "This is an example sentence with accommodate.",
+      "exampleJP": "これはaccommodateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "acknowledgeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/acknowledge.mp3",
+      "example": "This is an example sentence with acknowledge.",
+      "exampleJP": "これはacknowledgeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "anticipateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/anticipate.mp3",
+      "example": "This is an example sentence with anticipate.",
+      "exampleJP": "これはanticipateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "articulate",
+      "meaning": "articulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/articulate.mp3",
+      "example": "This is an example sentence with articulate.",
+      "exampleJP": "これはarticulateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "collaborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/collaborate.mp3",
+      "example": "This is an example sentence with collaborate.",
+      "exampleJP": "これはcollaborateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "comprehend",
+      "meaning": "comprehendの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/comprehend.mp3",
+      "example": "This is an example sentence with comprehend.",
+      "exampleJP": "これはcomprehendを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "distinguish",
+      "meaning": "distinguishの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/distinguish.mp3",
+      "example": "This is an example sentence with distinguish.",
+      "exampleJP": "これはdistinguishを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "facilitateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/facilitate.mp3",
+      "example": "This is an example sentence with facilitate.",
+      "exampleJP": "これはfacilitateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "formulate",
+      "meaning": "formulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/formulate.mp3",
+      "example": "This is an example sentence with formulate.",
+      "exampleJP": "これはformulateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipulateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/manipulate.mp3",
+      "example": "This is an example sentence with manipulate.",
+      "exampleJP": "これはmanipulateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
     }
   ],
   "英検1級": [
@@ -3321,6 +5901,506 @@
       "exampleJP": "彼はグラスのエールを注文しました。",
       "partOfSpeech": "noun",
       "frequency": "low"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "ameliorateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "This is an example sentence with ameliorate.",
+      "exampleJP": "これはameliorateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "corroborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/corroborate.mp3",
+      "example": "This is an example sentence with corroborate.",
+      "exampleJP": "これはcorroborateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "disseminate",
+      "meaning": "disseminateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/disseminate.mp3",
+      "example": "This is an example sentence with disseminate.",
+      "exampleJP": "これはdisseminateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "elucidate",
+      "meaning": "elucidateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/elucidate.mp3",
+      "example": "This is an example sentence with elucidate.",
+      "exampleJP": "これはelucidateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "extrapolateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/extrapolate.mp3",
+      "example": "This is an example sentence with extrapolate.",
+      "exampleJP": "これはextrapolateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "hypothesize",
+      "meaning": "hypothesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/hypothesize.mp3",
+      "example": "This is an example sentence with hypothesize.",
+      "exampleJP": "これはhypothesizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "proliferate",
+      "meaning": "proliferateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/proliferate.mp3",
+      "example": "This is an example sentence with proliferate.",
+      "exampleJP": "これはproliferateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "substantiateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/substantiate.mp3",
+      "example": "This is an example sentence with substantiate.",
+      "exampleJP": "これはsubstantiateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "synthesize",
+      "meaning": "synthesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/synthesize.mp3",
+      "example": "This is an example sentence with synthesize.",
+      "exampleJP": "これはsynthesizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "vindicate",
+      "meaning": "vindicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/vindicate.mp3",
+      "example": "This is an example sentence with vindicate.",
+      "exampleJP": "これはvindicateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "ameliorateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "This is an example sentence with ameliorate.",
+      "exampleJP": "これはameliorateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "corroborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/corroborate.mp3",
+      "example": "This is an example sentence with corroborate.",
+      "exampleJP": "これはcorroborateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "disseminate",
+      "meaning": "disseminateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/disseminate.mp3",
+      "example": "This is an example sentence with disseminate.",
+      "exampleJP": "これはdisseminateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "elucidate",
+      "meaning": "elucidateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/elucidate.mp3",
+      "example": "This is an example sentence with elucidate.",
+      "exampleJP": "これはelucidateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "extrapolateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/extrapolate.mp3",
+      "example": "This is an example sentence with extrapolate.",
+      "exampleJP": "これはextrapolateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "hypothesize",
+      "meaning": "hypothesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/hypothesize.mp3",
+      "example": "This is an example sentence with hypothesize.",
+      "exampleJP": "これはhypothesizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "proliferate",
+      "meaning": "proliferateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/proliferate.mp3",
+      "example": "This is an example sentence with proliferate.",
+      "exampleJP": "これはproliferateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "substantiateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/substantiate.mp3",
+      "example": "This is an example sentence with substantiate.",
+      "exampleJP": "これはsubstantiateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "synthesize",
+      "meaning": "synthesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/synthesize.mp3",
+      "example": "This is an example sentence with synthesize.",
+      "exampleJP": "これはsynthesizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "vindicate",
+      "meaning": "vindicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/vindicate.mp3",
+      "example": "This is an example sentence with vindicate.",
+      "exampleJP": "これはvindicateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "ameliorateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "This is an example sentence with ameliorate.",
+      "exampleJP": "これはameliorateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "corroborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/corroborate.mp3",
+      "example": "This is an example sentence with corroborate.",
+      "exampleJP": "これはcorroborateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "disseminate",
+      "meaning": "disseminateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/disseminate.mp3",
+      "example": "This is an example sentence with disseminate.",
+      "exampleJP": "これはdisseminateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "elucidate",
+      "meaning": "elucidateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/elucidate.mp3",
+      "example": "This is an example sentence with elucidate.",
+      "exampleJP": "これはelucidateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "extrapolateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/extrapolate.mp3",
+      "example": "This is an example sentence with extrapolate.",
+      "exampleJP": "これはextrapolateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "hypothesize",
+      "meaning": "hypothesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/hypothesize.mp3",
+      "example": "This is an example sentence with hypothesize.",
+      "exampleJP": "これはhypothesizeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "proliferate",
+      "meaning": "proliferateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/proliferate.mp3",
+      "example": "This is an example sentence with proliferate.",
+      "exampleJP": "これはproliferateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "substantiateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/substantiate.mp3",
+      "example": "This is an example sentence with substantiate.",
+      "exampleJP": "これはsubstantiateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "synthesize",
+      "meaning": "synthesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/synthesize.mp3",
+      "example": "This is an example sentence with synthesize.",
+      "exampleJP": "これはsynthesizeを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "vindicate",
+      "meaning": "vindicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/vindicate.mp3",
+      "example": "This is an example sentence with vindicate.",
+      "exampleJP": "これはvindicateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "ameliorateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "This is an example sentence with ameliorate.",
+      "exampleJP": "これはameliorateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "corroborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/corroborate.mp3",
+      "example": "This is an example sentence with corroborate.",
+      "exampleJP": "これはcorroborateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "disseminate",
+      "meaning": "disseminateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/disseminate.mp3",
+      "example": "This is an example sentence with disseminate.",
+      "exampleJP": "これはdisseminateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "elucidate",
+      "meaning": "elucidateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/elucidate.mp3",
+      "example": "This is an example sentence with elucidate.",
+      "exampleJP": "これはelucidateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "extrapolateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/extrapolate.mp3",
+      "example": "This is an example sentence with extrapolate.",
+      "exampleJP": "これはextrapolateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "hypothesize",
+      "meaning": "hypothesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/hypothesize.mp3",
+      "example": "This is an example sentence with hypothesize.",
+      "exampleJP": "これはhypothesizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "proliferate",
+      "meaning": "proliferateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/proliferate.mp3",
+      "example": "This is an example sentence with proliferate.",
+      "exampleJP": "これはproliferateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "substantiateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/substantiate.mp3",
+      "example": "This is an example sentence with substantiate.",
+      "exampleJP": "これはsubstantiateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "synthesize",
+      "meaning": "synthesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/synthesize.mp3",
+      "example": "This is an example sentence with synthesize.",
+      "exampleJP": "これはsynthesizeを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "vindicate",
+      "meaning": "vindicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/vindicate.mp3",
+      "example": "This is an example sentence with vindicate.",
+      "exampleJP": "これはvindicateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "ameliorateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/ameliorate.mp3",
+      "example": "This is an example sentence with ameliorate.",
+      "exampleJP": "これはameliorateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "corroborateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/corroborate.mp3",
+      "example": "This is an example sentence with corroborate.",
+      "exampleJP": "これはcorroborateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "disseminate",
+      "meaning": "disseminateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/disseminate.mp3",
+      "example": "This is an example sentence with disseminate.",
+      "exampleJP": "これはdisseminateを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "elucidate",
+      "meaning": "elucidateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/elucidate.mp3",
+      "example": "This is an example sentence with elucidate.",
+      "exampleJP": "これはelucidateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "extrapolateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/extrapolate.mp3",
+      "example": "This is an example sentence with extrapolate.",
+      "exampleJP": "これはextrapolateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "high"
+    },
+    {
+      "word": "hypothesize",
+      "meaning": "hypothesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/hypothesize.mp3",
+      "example": "This is an example sentence with hypothesize.",
+      "exampleJP": "これはhypothesizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "medium"
+    },
+    {
+      "word": "proliferate",
+      "meaning": "proliferateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/proliferate.mp3",
+      "example": "This is an example sentence with proliferate.",
+      "exampleJP": "これはproliferateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "high"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "substantiateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/substantiate.mp3",
+      "example": "This is an example sentence with substantiate.",
+      "exampleJP": "これはsubstantiateを使った例文です。",
+      "partOfSpeech": "adjective",
+      "frequency": "medium"
+    },
+    {
+      "word": "synthesize",
+      "meaning": "synthesizeの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/synthesize.mp3",
+      "example": "This is an example sentence with synthesize.",
+      "exampleJP": "これはsynthesizeを使った例文です。",
+      "partOfSpeech": "verb",
+      "frequency": "high"
+    },
+    {
+      "word": "vindicate",
+      "meaning": "vindicateの意味",
+      "pronunciation": "pronunciation",
+      "audio": "audio/vocab/vindicate.mp3",
+      "example": "This is an example sentence with vindicate.",
+      "exampleJP": "これはvindicateを使った例文です。",
+      "partOfSpeech": "noun",
+      "frequency": "medium"
     }
   ]
 }
